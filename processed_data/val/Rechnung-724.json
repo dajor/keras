@@ -1,0 +1,9185 @@
+{
+  "fields": {
+    "invoice_number": "724",
+    "vendor_name": "Dr. med. Eva Marcus",
+    "invoice_date": "03-08-2020",
+    "net_amount": "",
+    "tax_amount": "",
+    "total_amount": "63.01"
+  },
+  "nGrams": [
+    {
+      "words": [
+        {
+          "text": "Dr.",
+          "left": 160,
+          "top": 144,
+          "right": 205,
+          "bottom": 172
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "med",
+          "left": 220,
+          "top": 144,
+          "right": 293,
+          "bottom": 172
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Eva",
+          "left": 309,
+          "top": 144,
+          "right": 374,
+          "bottom": 172
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Marcus",
+          "left": 390,
+          "top": 144,
+          "right": 517,
+          "bottom": 172
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Dr.",
+          "left": 160,
+          "top": 144,
+          "right": 205,
+          "bottom": 172
+        },
+        {
+          "text": "med",
+          "left": 220,
+          "top": 144,
+          "right": 293,
+          "bottom": 172
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "med",
+          "left": 220,
+          "top": 144,
+          "right": 293,
+          "bottom": 172
+        },
+        {
+          "text": "Eva",
+          "left": 309,
+          "top": 144,
+          "right": 374,
+          "bottom": 172
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Eva",
+          "left": 309,
+          "top": 144,
+          "right": 374,
+          "bottom": 172
+        },
+        {
+          "text": "Marcus",
+          "left": 390,
+          "top": 144,
+          "right": 517,
+          "bottom": 172
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Dr.",
+          "left": 160,
+          "top": 144,
+          "right": 205,
+          "bottom": 172
+        },
+        {
+          "text": "med",
+          "left": 220,
+          "top": 144,
+          "right": 293,
+          "bottom": 172
+        },
+        {
+          "text": "Eva",
+          "left": 309,
+          "top": 144,
+          "right": 374,
+          "bottom": 172
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "med",
+          "left": 220,
+          "top": 144,
+          "right": 293,
+          "bottom": 172
+        },
+        {
+          "text": "Eva",
+          "left": 309,
+          "top": 144,
+          "right": 374,
+          "bottom": 172
+        },
+        {
+          "text": "Marcus",
+          "left": 390,
+          "top": 144,
+          "right": 517,
+          "bottom": 172
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Dr.",
+          "left": 160,
+          "top": 144,
+          "right": 205,
+          "bottom": 172
+        },
+        {
+          "text": "med",
+          "left": 220,
+          "top": 144,
+          "right": 293,
+          "bottom": 172
+        },
+        {
+          "text": "Eva",
+          "left": 309,
+          "top": 144,
+          "right": 374,
+          "bottom": 172
+        },
+        {
+          "text": "Marcus",
+          "left": 390,
+          "top": 144,
+          "right": 517,
+          "bottom": 172
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "85586",
+          "left": 1248,
+          "top": 144,
+          "right": 1357,
+          "bottom": 173
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Poing",
+          "left": 1373,
+          "top": 144,
+          "right": 1470,
+          "bottom": 180
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "85586",
+          "left": 1248,
+          "top": 144,
+          "right": 1357,
+          "bottom": 173
+        },
+        {
+          "text": "Poing",
+          "left": 1373,
+          "top": 144,
+          "right": 1470,
+          "bottom": 180
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Facharztin",
+          "left": 159,
+          "top": 185,
+          "right": 284,
+          "bottom": 205
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "fur",
+          "left": 295,
+          "top": 185,
+          "right": 326,
+          "bottom": 205
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Dermatologie",
+          "left": 338,
+          "top": 186,
+          "right": 499,
+          "bottom": 211
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "und",
+          "left": 510,
+          "top": 186,
+          "right": 550,
+          "bottom": 205
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Venerologie",
+          "left": 560,
+          "top": 186,
+          "right": 700,
+          "bottom": 211
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Facharztin",
+          "left": 159,
+          "top": 185,
+          "right": 284,
+          "bottom": 205
+        },
+        {
+          "text": "fur",
+          "left": 295,
+          "top": 185,
+          "right": 326,
+          "bottom": 205
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "fur",
+          "left": 295,
+          "top": 185,
+          "right": 326,
+          "bottom": 205
+        },
+        {
+          "text": "Dermatologie",
+          "left": 338,
+          "top": 186,
+          "right": 499,
+          "bottom": 211
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Dermatologie",
+          "left": 338,
+          "top": 186,
+          "right": 499,
+          "bottom": 211
+        },
+        {
+          "text": "und",
+          "left": 510,
+          "top": 186,
+          "right": 550,
+          "bottom": 205
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "und",
+          "left": 510,
+          "top": 186,
+          "right": 550,
+          "bottom": 205
+        },
+        {
+          "text": "Venerologie",
+          "left": 560,
+          "top": 186,
+          "right": 700,
+          "bottom": 211
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Facharztin",
+          "left": 159,
+          "top": 185,
+          "right": 284,
+          "bottom": 205
+        },
+        {
+          "text": "fur",
+          "left": 295,
+          "top": 185,
+          "right": 326,
+          "bottom": 205
+        },
+        {
+          "text": "Dermatologie",
+          "left": 338,
+          "top": 186,
+          "right": 499,
+          "bottom": 211
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "fur",
+          "left": 295,
+          "top": 185,
+          "right": 326,
+          "bottom": 205
+        },
+        {
+          "text": "Dermatologie",
+          "left": 338,
+          "top": 186,
+          "right": 499,
+          "bottom": 211
+        },
+        {
+          "text": "und",
+          "left": 510,
+          "top": 186,
+          "right": 550,
+          "bottom": 205
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Dermatologie",
+          "left": 338,
+          "top": 186,
+          "right": 499,
+          "bottom": 211
+        },
+        {
+          "text": "und",
+          "left": 510,
+          "top": 186,
+          "right": 550,
+          "bottom": 205
+        },
+        {
+          "text": "Venerologie",
+          "left": 560,
+          "top": 186,
+          "right": 700,
+          "bottom": 211
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Facharztin",
+          "left": 159,
+          "top": 185,
+          "right": 284,
+          "bottom": 205
+        },
+        {
+          "text": "fur",
+          "left": 295,
+          "top": 185,
+          "right": 326,
+          "bottom": 205
+        },
+        {
+          "text": "Dermatologie",
+          "left": 338,
+          "top": 186,
+          "right": 499,
+          "bottom": 211
+        },
+        {
+          "text": "und",
+          "left": 510,
+          "top": 186,
+          "right": 550,
+          "bottom": 205
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "fur",
+          "left": 295,
+          "top": 185,
+          "right": 326,
+          "bottom": 205
+        },
+        {
+          "text": "Dermatologie",
+          "left": 338,
+          "top": 186,
+          "right": 499,
+          "bottom": 211
+        },
+        {
+          "text": "und",
+          "left": 510,
+          "top": 186,
+          "right": 550,
+          "bottom": 205
+        },
+        {
+          "text": "Venerologie",
+          "left": 560,
+          "top": 186,
+          "right": 700,
+          "bottom": 211
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Bahnhofstr.",
+          "left": 1318,
+          "top": 185,
+          "right": 1450,
+          "bottom": 205
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 1465,
+          "top": 186,
+          "right": 1472,
+          "bottom": 205
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Bahnhofstr.",
+          "left": 1318,
+          "top": 185,
+          "right": 1450,
+          "bottom": 205
+        },
+        {
+          "text": "1",
+          "left": 1465,
+          "top": 186,
+          "right": 1472,
+          "bottom": 205
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Tel.:",
+          "left": 1205,
+          "top": 224,
+          "right": 1251,
+          "bottom": 243
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "08121",
+          "left": 1264,
+          "top": 224,
+          "right": 1331,
+          "bottom": 243
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "760",
+          "left": 1347,
+          "top": 224,
+          "right": 1386,
+          "bottom": 243
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "90",
+          "left": 1396,
+          "top": 224,
+          "right": 1424,
+          "bottom": 243
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "660",
+          "left": 1433,
+          "top": 224,
+          "right": 1476,
+          "bottom": 243
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Tel.:",
+          "left": 1205,
+          "top": 224,
+          "right": 1251,
+          "bottom": 243
+        },
+        {
+          "text": "08121",
+          "left": 1264,
+          "top": 224,
+          "right": 1331,
+          "bottom": 243
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "08121",
+          "left": 1264,
+          "top": 224,
+          "right": 1331,
+          "bottom": 243
+        },
+        {
+          "text": "760",
+          "left": 1347,
+          "top": 224,
+          "right": 1386,
+          "bottom": 243
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "760",
+          "left": 1347,
+          "top": 224,
+          "right": 1386,
+          "bottom": 243
+        },
+        {
+          "text": "90",
+          "left": 1396,
+          "top": 224,
+          "right": 1424,
+          "bottom": 243
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "90",
+          "left": 1396,
+          "top": 224,
+          "right": 1424,
+          "bottom": 243
+        },
+        {
+          "text": "660",
+          "left": 1433,
+          "top": 224,
+          "right": 1476,
+          "bottom": 243
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Tel.:",
+          "left": 1205,
+          "top": 224,
+          "right": 1251,
+          "bottom": 243
+        },
+        {
+          "text": "08121",
+          "left": 1264,
+          "top": 224,
+          "right": 1331,
+          "bottom": 243
+        },
+        {
+          "text": "760",
+          "left": 1347,
+          "top": 224,
+          "right": 1386,
+          "bottom": 243
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "08121",
+          "left": 1264,
+          "top": 224,
+          "right": 1331,
+          "bottom": 243
+        },
+        {
+          "text": "760",
+          "left": 1347,
+          "top": 224,
+          "right": 1386,
+          "bottom": 243
+        },
+        {
+          "text": "90",
+          "left": 1396,
+          "top": 224,
+          "right": 1424,
+          "bottom": 243
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "760",
+          "left": 1347,
+          "top": 224,
+          "right": 1386,
+          "bottom": 243
+        },
+        {
+          "text": "90",
+          "left": 1396,
+          "top": 224,
+          "right": 1424,
+          "bottom": 243
+        },
+        {
+          "text": "660",
+          "left": 1433,
+          "top": 224,
+          "right": 1476,
+          "bottom": 243
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Tel.:",
+          "left": 1205,
+          "top": 224,
+          "right": 1251,
+          "bottom": 243
+        },
+        {
+          "text": "08121",
+          "left": 1264,
+          "top": 224,
+          "right": 1331,
+          "bottom": 243
+        },
+        {
+          "text": "760",
+          "left": 1347,
+          "top": 224,
+          "right": 1386,
+          "bottom": 243
+        },
+        {
+          "text": "90",
+          "left": 1396,
+          "top": 224,
+          "right": 1424,
+          "bottom": 243
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "08121",
+          "left": 1264,
+          "top": 224,
+          "right": 1331,
+          "bottom": 243
+        },
+        {
+          "text": "760",
+          "left": 1347,
+          "top": 224,
+          "right": 1386,
+          "bottom": 243
+        },
+        {
+          "text": "90",
+          "left": 1396,
+          "top": 224,
+          "right": 1424,
+          "bottom": 243
+        },
+        {
+          "text": "660",
+          "left": 1433,
+          "top": 224,
+          "right": 1476,
+          "bottom": 243
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Fax",
+          "left": 1197,
+          "top": 253,
+          "right": 1238,
+          "bottom": 272
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": ":",
+          "left": 1248,
+          "top": 258,
+          "right": 1251,
+          "bottom": 272
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "08121",
+          "left": 1264,
+          "top": 253,
+          "right": 1331,
+          "bottom": 272
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "760",
+          "left": 1345,
+          "top": 253,
+          "right": 1386,
+          "bottom": 272
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "90",
+          "left": 1396,
+          "top": 253,
+          "right": 1424,
+          "bottom": 272
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "661",
+          "left": 1433,
+          "top": 253,
+          "right": 1472,
+          "bottom": 272
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Fax",
+          "left": 1197,
+          "top": 253,
+          "right": 1238,
+          "bottom": 272
+        },
+        {
+          "text": ":",
+          "left": 1248,
+          "top": 258,
+          "right": 1251,
+          "bottom": 272
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": ":",
+          "left": 1248,
+          "top": 258,
+          "right": 1251,
+          "bottom": 272
+        },
+        {
+          "text": "08121",
+          "left": 1264,
+          "top": 253,
+          "right": 1331,
+          "bottom": 272
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "08121",
+          "left": 1264,
+          "top": 253,
+          "right": 1331,
+          "bottom": 272
+        },
+        {
+          "text": "760",
+          "left": 1345,
+          "top": 253,
+          "right": 1386,
+          "bottom": 272
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "760",
+          "left": 1345,
+          "top": 253,
+          "right": 1386,
+          "bottom": 272
+        },
+        {
+          "text": "90",
+          "left": 1396,
+          "top": 253,
+          "right": 1424,
+          "bottom": 272
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "90",
+          "left": 1396,
+          "top": 253,
+          "right": 1424,
+          "bottom": 272
+        },
+        {
+          "text": "661",
+          "left": 1433,
+          "top": 253,
+          "right": 1472,
+          "bottom": 272
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Fax",
+          "left": 1197,
+          "top": 253,
+          "right": 1238,
+          "bottom": 272
+        },
+        {
+          "text": ":",
+          "left": 1248,
+          "top": 258,
+          "right": 1251,
+          "bottom": 272
+        },
+        {
+          "text": "08121",
+          "left": 1264,
+          "top": 253,
+          "right": 1331,
+          "bottom": 272
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": ":",
+          "left": 1248,
+          "top": 258,
+          "right": 1251,
+          "bottom": 272
+        },
+        {
+          "text": "08121",
+          "left": 1264,
+          "top": 253,
+          "right": 1331,
+          "bottom": 272
+        },
+        {
+          "text": "760",
+          "left": 1345,
+          "top": 253,
+          "right": 1386,
+          "bottom": 272
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "08121",
+          "left": 1264,
+          "top": 253,
+          "right": 1331,
+          "bottom": 272
+        },
+        {
+          "text": "760",
+          "left": 1345,
+          "top": 253,
+          "right": 1386,
+          "bottom": 272
+        },
+        {
+          "text": "90",
+          "left": 1396,
+          "top": 253,
+          "right": 1424,
+          "bottom": 272
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "760",
+          "left": 1345,
+          "top": 253,
+          "right": 1386,
+          "bottom": 272
+        },
+        {
+          "text": "90",
+          "left": 1396,
+          "top": 253,
+          "right": 1424,
+          "bottom": 272
+        },
+        {
+          "text": "661",
+          "left": 1433,
+          "top": 253,
+          "right": 1472,
+          "bottom": 272
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Fax",
+          "left": 1197,
+          "top": 253,
+          "right": 1238,
+          "bottom": 272
+        },
+        {
+          "text": ":",
+          "left": 1248,
+          "top": 258,
+          "right": 1251,
+          "bottom": 272
+        },
+        {
+          "text": "08121",
+          "left": 1264,
+          "top": 253,
+          "right": 1331,
+          "bottom": 272
+        },
+        {
+          "text": "760",
+          "left": 1345,
+          "top": 253,
+          "right": 1386,
+          "bottom": 272
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": ":",
+          "left": 1248,
+          "top": 258,
+          "right": 1251,
+          "bottom": 272
+        },
+        {
+          "text": "08121",
+          "left": 1264,
+          "top": 253,
+          "right": 1331,
+          "bottom": 272
+        },
+        {
+          "text": "760",
+          "left": 1345,
+          "top": 253,
+          "right": 1386,
+          "bottom": 272
+        },
+        {
+          "text": "90",
+          "left": 1396,
+          "top": 253,
+          "right": 1424,
+          "bottom": 272
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "08121",
+          "left": 1264,
+          "top": 253,
+          "right": 1331,
+          "bottom": 272
+        },
+        {
+          "text": "760",
+          "left": 1345,
+          "top": 253,
+          "right": 1386,
+          "bottom": 272
+        },
+        {
+          "text": "90",
+          "left": 1396,
+          "top": 253,
+          "right": 1424,
+          "bottom": 272
+        },
+        {
+          "text": "661",
+          "left": 1433,
+          "top": 253,
+          "right": 1472,
+          "bottom": 272
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "praxis@evamarcus.de",
+          "left": 1208,
+          "top": 279,
+          "right": 1476,
+          "bottom": 305
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 136,
+          "top": 311,
+          "right": 1506,
+          "bottom": 317
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Dr.",
+          "left": 162,
+          "top": 435,
+          "right": 187,
+          "bottom": 451
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "med.",
+          "left": 196,
+          "top": 435,
+          "right": 243,
+          "bottom": 451
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Eva",
+          "left": 252,
+          "top": 435,
+          "right": 288,
+          "bottom": 451
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Marcus,",
+          "left": 296,
+          "top": 435,
+          "right": 372,
+          "bottom": 454
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Bahnhofstr.",
+          "left": 381,
+          "top": 434,
+          "right": 492,
+          "bottom": 451
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1,",
+          "left": 502,
+          "top": 435,
+          "right": 516,
+          "bottom": 454
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "85586",
+          "left": 525,
+          "top": 435,
+          "right": 586,
+          "bottom": 451
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Poing",
+          "left": 595,
+          "top": 435,
+          "right": 648,
+          "bottom": 456
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Dr.",
+          "left": 162,
+          "top": 435,
+          "right": 187,
+          "bottom": 451
+        },
+        {
+          "text": "med.",
+          "left": 196,
+          "top": 435,
+          "right": 243,
+          "bottom": 451
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "med.",
+          "left": 196,
+          "top": 435,
+          "right": 243,
+          "bottom": 451
+        },
+        {
+          "text": "Eva",
+          "left": 252,
+          "top": 435,
+          "right": 288,
+          "bottom": 451
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Eva",
+          "left": 252,
+          "top": 435,
+          "right": 288,
+          "bottom": 451
+        },
+        {
+          "text": "Marcus,",
+          "left": 296,
+          "top": 435,
+          "right": 372,
+          "bottom": 454
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Marcus,",
+          "left": 296,
+          "top": 435,
+          "right": 372,
+          "bottom": 454
+        },
+        {
+          "text": "Bahnhofstr.",
+          "left": 381,
+          "top": 434,
+          "right": 492,
+          "bottom": 451
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Bahnhofstr.",
+          "left": 381,
+          "top": 434,
+          "right": 492,
+          "bottom": 451
+        },
+        {
+          "text": "1,",
+          "left": 502,
+          "top": 435,
+          "right": 516,
+          "bottom": 454
+        }
+      ],
+      "parses": {
+        "date": "10-01-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "1,",
+          "left": 502,
+          "top": 435,
+          "right": 516,
+          "bottom": 454
+        },
+        {
+          "text": "85586",
+          "left": 525,
+          "top": 435,
+          "right": 586,
+          "bottom": 451
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "85586",
+          "left": 525,
+          "top": 435,
+          "right": 586,
+          "bottom": 451
+        },
+        {
+          "text": "Poing",
+          "left": 595,
+          "top": 435,
+          "right": 648,
+          "bottom": 456
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Dr.",
+          "left": 162,
+          "top": 435,
+          "right": 187,
+          "bottom": 451
+        },
+        {
+          "text": "med.",
+          "left": 196,
+          "top": 435,
+          "right": 243,
+          "bottom": 451
+        },
+        {
+          "text": "Eva",
+          "left": 252,
+          "top": 435,
+          "right": 288,
+          "bottom": 451
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "med.",
+          "left": 196,
+          "top": 435,
+          "right": 243,
+          "bottom": 451
+        },
+        {
+          "text": "Eva",
+          "left": 252,
+          "top": 435,
+          "right": 288,
+          "bottom": 451
+        },
+        {
+          "text": "Marcus,",
+          "left": 296,
+          "top": 435,
+          "right": 372,
+          "bottom": 454
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Eva",
+          "left": 252,
+          "top": 435,
+          "right": 288,
+          "bottom": 451
+        },
+        {
+          "text": "Marcus,",
+          "left": 296,
+          "top": 435,
+          "right": 372,
+          "bottom": 454
+        },
+        {
+          "text": "Bahnhofstr.",
+          "left": 381,
+          "top": 434,
+          "right": 492,
+          "bottom": 451
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Marcus,",
+          "left": 296,
+          "top": 435,
+          "right": 372,
+          "bottom": 454
+        },
+        {
+          "text": "Bahnhofstr.",
+          "left": 381,
+          "top": 434,
+          "right": 492,
+          "bottom": 451
+        },
+        {
+          "text": "1,",
+          "left": 502,
+          "top": 435,
+          "right": 516,
+          "bottom": 454
+        }
+      ],
+      "parses": {
+        "date": "10-01-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Bahnhofstr.",
+          "left": 381,
+          "top": 434,
+          "right": 492,
+          "bottom": 451
+        },
+        {
+          "text": "1,",
+          "left": 502,
+          "top": 435,
+          "right": 516,
+          "bottom": 454
+        },
+        {
+          "text": "85586",
+          "left": 525,
+          "top": 435,
+          "right": 586,
+          "bottom": 451
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1,",
+          "left": 502,
+          "top": 435,
+          "right": 516,
+          "bottom": 454
+        },
+        {
+          "text": "85586",
+          "left": 525,
+          "top": 435,
+          "right": 586,
+          "bottom": 451
+        },
+        {
+          "text": "Poing",
+          "left": 595,
+          "top": 435,
+          "right": 648,
+          "bottom": 456
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Dr.",
+          "left": 162,
+          "top": 435,
+          "right": 187,
+          "bottom": 451
+        },
+        {
+          "text": "med.",
+          "left": 196,
+          "top": 435,
+          "right": 243,
+          "bottom": 451
+        },
+        {
+          "text": "Eva",
+          "left": 252,
+          "top": 435,
+          "right": 288,
+          "bottom": 451
+        },
+        {
+          "text": "Marcus,",
+          "left": 296,
+          "top": 435,
+          "right": 372,
+          "bottom": 454
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "med.",
+          "left": 196,
+          "top": 435,
+          "right": 243,
+          "bottom": 451
+        },
+        {
+          "text": "Eva",
+          "left": 252,
+          "top": 435,
+          "right": 288,
+          "bottom": 451
+        },
+        {
+          "text": "Marcus,",
+          "left": 296,
+          "top": 435,
+          "right": 372,
+          "bottom": 454
+        },
+        {
+          "text": "Bahnhofstr.",
+          "left": 381,
+          "top": 434,
+          "right": 492,
+          "bottom": 451
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Eva",
+          "left": 252,
+          "top": 435,
+          "right": 288,
+          "bottom": 451
+        },
+        {
+          "text": "Marcus,",
+          "left": 296,
+          "top": 435,
+          "right": 372,
+          "bottom": 454
+        },
+        {
+          "text": "Bahnhofstr.",
+          "left": 381,
+          "top": 434,
+          "right": 492,
+          "bottom": 451
+        },
+        {
+          "text": "1,",
+          "left": 502,
+          "top": 435,
+          "right": 516,
+          "bottom": 454
+        }
+      ],
+      "parses": {
+        "date": "10-01-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Marcus,",
+          "left": 296,
+          "top": 435,
+          "right": 372,
+          "bottom": 454
+        },
+        {
+          "text": "Bahnhofstr.",
+          "left": 381,
+          "top": 434,
+          "right": 492,
+          "bottom": 451
+        },
+        {
+          "text": "1,",
+          "left": 502,
+          "top": 435,
+          "right": 516,
+          "bottom": 454
+        },
+        {
+          "text": "85586",
+          "left": 525,
+          "top": 435,
+          "right": 586,
+          "bottom": 451
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Bahnhofstr.",
+          "left": 381,
+          "top": 434,
+          "right": 492,
+          "bottom": 451
+        },
+        {
+          "text": "1,",
+          "left": 502,
+          "top": 435,
+          "right": 516,
+          "bottom": 454
+        },
+        {
+          "text": "85586",
+          "left": 525,
+          "top": 435,
+          "right": 586,
+          "bottom": 451
+        },
+        {
+          "text": "Poing",
+          "left": 595,
+          "top": 435,
+          "right": 648,
+          "bottom": 456
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Herr",
+          "left": 170,
+          "top": 463,
+          "right": 222,
+          "bottom": 482
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Bacem",
+          "left": 162,
+          "top": 496,
+          "right": 243,
+          "bottom": 515
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Daassi",
+          "left": 257,
+          "top": 496,
+          "right": 334,
+          "bottom": 515
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Bacem",
+          "left": 162,
+          "top": 496,
+          "right": 243,
+          "bottom": 515
+        },
+        {
+          "text": "Daassi",
+          "left": 257,
+          "top": 496,
+          "right": 334,
+          "bottom": 515
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Teichhuhnstr.",
+          "left": 161,
+          "top": 529,
+          "right": 316,
+          "bottom": 548
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "29",
+          "left": 328,
+          "top": 529,
+          "right": 356,
+          "bottom": 548
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Teichhuhnstr.",
+          "left": 161,
+          "top": 529,
+          "right": 316,
+          "bottom": 548
+        },
+        {
+          "text": "29",
+          "left": 328,
+          "top": 529,
+          "right": 356,
+          "bottom": 548
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "85586",
+          "left": 161,
+          "top": 564,
+          "right": 232,
+          "bottom": 583
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Poing",
+          "left": 243,
+          "top": 564,
+          "right": 308,
+          "bottom": 589
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "85586",
+          "left": 161,
+          "top": 564,
+          "right": 232,
+          "bottom": 583
+        },
+        {
+          "text": "Poing",
+          "left": 243,
+          "top": 564,
+          "right": 308,
+          "bottom": 589
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Bei",
+          "left": 155,
+          "top": 758,
+          "right": 191,
+          "bottom": 777
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Zahlung",
+          "left": 202,
+          "top": 758,
+          "right": 295,
+          "bottom": 783
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "bitte",
+          "left": 306,
+          "top": 758,
+          "right": 356,
+          "bottom": 777
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Rechnungsnum",
+          "left": 367,
+          "top": 758,
+          "right": 549,
+          "bottom": 783
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "mer",
+          "left": 556,
+          "top": 763,
+          "right": 602,
+          "bottom": 777
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "und",
+          "left": 614,
+          "top": 758,
+          "right": 654,
+          "bottom": 777
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Datum",
+          "left": 665,
+          "top": 758,
+          "right": 742,
+          "bottom": 777
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "angeben",
+          "left": 755,
+          "top": 758,
+          "right": 855,
+          "bottom": 783
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Bei",
+          "left": 155,
+          "top": 758,
+          "right": 191,
+          "bottom": 777
+        },
+        {
+          "text": "Zahlung",
+          "left": 202,
+          "top": 758,
+          "right": 295,
+          "bottom": 783
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Zahlung",
+          "left": 202,
+          "top": 758,
+          "right": 295,
+          "bottom": 783
+        },
+        {
+          "text": "bitte",
+          "left": 306,
+          "top": 758,
+          "right": 356,
+          "bottom": 777
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "bitte",
+          "left": 306,
+          "top": 758,
+          "right": 356,
+          "bottom": 777
+        },
+        {
+          "text": "Rechnungsnum",
+          "left": 367,
+          "top": 758,
+          "right": 549,
+          "bottom": 783
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Rechnungsnum",
+          "left": 367,
+          "top": 758,
+          "right": 549,
+          "bottom": 783
+        },
+        {
+          "text": "mer",
+          "left": 556,
+          "top": 763,
+          "right": 602,
+          "bottom": 777
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "mer",
+          "left": 556,
+          "top": 763,
+          "right": 602,
+          "bottom": 777
+        },
+        {
+          "text": "und",
+          "left": 614,
+          "top": 758,
+          "right": 654,
+          "bottom": 777
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "und",
+          "left": 614,
+          "top": 758,
+          "right": 654,
+          "bottom": 777
+        },
+        {
+          "text": "Datum",
+          "left": 665,
+          "top": 758,
+          "right": 742,
+          "bottom": 777
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Datum",
+          "left": 665,
+          "top": 758,
+          "right": 742,
+          "bottom": 777
+        },
+        {
+          "text": "angeben",
+          "left": 755,
+          "top": 758,
+          "right": 855,
+          "bottom": 783
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Bei",
+          "left": 155,
+          "top": 758,
+          "right": 191,
+          "bottom": 777
+        },
+        {
+          "text": "Zahlung",
+          "left": 202,
+          "top": 758,
+          "right": 295,
+          "bottom": 783
+        },
+        {
+          "text": "bitte",
+          "left": 306,
+          "top": 758,
+          "right": 356,
+          "bottom": 777
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Zahlung",
+          "left": 202,
+          "top": 758,
+          "right": 295,
+          "bottom": 783
+        },
+        {
+          "text": "bitte",
+          "left": 306,
+          "top": 758,
+          "right": 356,
+          "bottom": 777
+        },
+        {
+          "text": "Rechnungsnum",
+          "left": 367,
+          "top": 758,
+          "right": 549,
+          "bottom": 783
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "bitte",
+          "left": 306,
+          "top": 758,
+          "right": 356,
+          "bottom": 777
+        },
+        {
+          "text": "Rechnungsnum",
+          "left": 367,
+          "top": 758,
+          "right": 549,
+          "bottom": 783
+        },
+        {
+          "text": "mer",
+          "left": 556,
+          "top": 763,
+          "right": 602,
+          "bottom": 777
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Rechnungsnum",
+          "left": 367,
+          "top": 758,
+          "right": 549,
+          "bottom": 783
+        },
+        {
+          "text": "mer",
+          "left": 556,
+          "top": 763,
+          "right": 602,
+          "bottom": 777
+        },
+        {
+          "text": "und",
+          "left": 614,
+          "top": 758,
+          "right": 654,
+          "bottom": 777
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "mer",
+          "left": 556,
+          "top": 763,
+          "right": 602,
+          "bottom": 777
+        },
+        {
+          "text": "und",
+          "left": 614,
+          "top": 758,
+          "right": 654,
+          "bottom": 777
+        },
+        {
+          "text": "Datum",
+          "left": 665,
+          "top": 758,
+          "right": 742,
+          "bottom": 777
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "und",
+          "left": 614,
+          "top": 758,
+          "right": 654,
+          "bottom": 777
+        },
+        {
+          "text": "Datum",
+          "left": 665,
+          "top": 758,
+          "right": 742,
+          "bottom": 777
+        },
+        {
+          "text": "angeben",
+          "left": 755,
+          "top": 758,
+          "right": 855,
+          "bottom": 783
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Bei",
+          "left": 155,
+          "top": 758,
+          "right": 191,
+          "bottom": 777
+        },
+        {
+          "text": "Zahlung",
+          "left": 202,
+          "top": 758,
+          "right": 295,
+          "bottom": 783
+        },
+        {
+          "text": "bitte",
+          "left": 306,
+          "top": 758,
+          "right": 356,
+          "bottom": 777
+        },
+        {
+          "text": "Rechnungsnum",
+          "left": 367,
+          "top": 758,
+          "right": 549,
+          "bottom": 783
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Zahlung",
+          "left": 202,
+          "top": 758,
+          "right": 295,
+          "bottom": 783
+        },
+        {
+          "text": "bitte",
+          "left": 306,
+          "top": 758,
+          "right": 356,
+          "bottom": 777
+        },
+        {
+          "text": "Rechnungsnum",
+          "left": 367,
+          "top": 758,
+          "right": 549,
+          "bottom": 783
+        },
+        {
+          "text": "mer",
+          "left": 556,
+          "top": 763,
+          "right": 602,
+          "bottom": 777
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "bitte",
+          "left": 306,
+          "top": 758,
+          "right": 356,
+          "bottom": 777
+        },
+        {
+          "text": "Rechnungsnum",
+          "left": 367,
+          "top": 758,
+          "right": 549,
+          "bottom": 783
+        },
+        {
+          "text": "mer",
+          "left": 556,
+          "top": 763,
+          "right": 602,
+          "bottom": 777
+        },
+        {
+          "text": "und",
+          "left": 614,
+          "top": 758,
+          "right": 654,
+          "bottom": 777
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Rechnungsnum",
+          "left": 367,
+          "top": 758,
+          "right": 549,
+          "bottom": 783
+        },
+        {
+          "text": "mer",
+          "left": 556,
+          "top": 763,
+          "right": 602,
+          "bottom": 777
+        },
+        {
+          "text": "und",
+          "left": 614,
+          "top": 758,
+          "right": 654,
+          "bottom": 777
+        },
+        {
+          "text": "Datum",
+          "left": 665,
+          "top": 758,
+          "right": 742,
+          "bottom": 777
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "mer",
+          "left": 556,
+          "top": 763,
+          "right": 602,
+          "bottom": 777
+        },
+        {
+          "text": "und",
+          "left": 614,
+          "top": 758,
+          "right": 654,
+          "bottom": 777
+        },
+        {
+          "text": "Datum",
+          "left": 665,
+          "top": 758,
+          "right": 742,
+          "bottom": 777
+        },
+        {
+          "text": "angeben",
+          "left": 755,
+          "top": 758,
+          "right": 855,
+          "bottom": 783
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Rechnungsnummer:",
+          "left": 155,
+          "top": 795,
+          "right": 397,
+          "bottom": 820
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "724",
+          "left": 418,
+          "top": 795,
+          "right": 460,
+          "bottom": 814
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Rechnungsnummer:",
+          "left": 155,
+          "top": 795,
+          "right": 397,
+          "bottom": 820
+        },
+        {
+          "text": "724",
+          "left": 418,
+          "top": 795,
+          "right": 460,
+          "bottom": 814
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Rechnungsdatum:",
+          "left": 1115,
+          "top": 795,
+          "right": 1330,
+          "bottom": 820
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "03.08.2020",
+          "left": 1351,
+          "top": 795,
+          "right": 1482,
+          "bottom": 814
+        }
+      ],
+      "parses": {
+        "date": "03-08-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Rechnungsdatum:",
+          "left": 1115,
+          "top": 795,
+          "right": 1330,
+          "bottom": 820
+        },
+        {
+          "text": "03.08.2020",
+          "left": 1351,
+          "top": 795,
+          "right": 1482,
+          "bottom": 814
+        }
+      ],
+      "parses": {
+        "date": "03-08-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Fur",
+          "left": 155,
+          "top": 832,
+          "right": 194,
+          "bottom": 852
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "meine",
+          "left": 205,
+          "top": 833,
+          "right": 277,
+          "bottom": 852
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Bemthungen",
+          "left": 288,
+          "top": 832,
+          "right": 444,
+          "bottom": 858
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "erlaube",
+          "left": 455,
+          "top": 833,
+          "right": 542,
+          "bottom": 852
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "ich",
+          "left": 553,
+          "top": 833,
+          "right": 586,
+          "bottom": 852
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "mir",
+          "left": 597,
+          "top": 833,
+          "right": 635,
+          "bottom": 852
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "zu",
+          "left": 645,
+          "top": 838,
+          "right": 672,
+          "bottom": 852
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "berechnen",
+          "left": 684,
+          "top": 833,
+          "right": 807,
+          "bottom": 852
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "63,01",
+          "left": 818,
+          "top": 833,
+          "right": 879,
+          "bottom": 856
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Euro",
+          "left": 894,
+          "top": 833,
+          "right": 949,
+          "bottom": 852
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Fur",
+          "left": 155,
+          "top": 832,
+          "right": 194,
+          "bottom": 852
+        },
+        {
+          "text": "meine",
+          "left": 205,
+          "top": 833,
+          "right": 277,
+          "bottom": 852
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "meine",
+          "left": 205,
+          "top": 833,
+          "right": 277,
+          "bottom": 852
+        },
+        {
+          "text": "Bemthungen",
+          "left": 288,
+          "top": 832,
+          "right": 444,
+          "bottom": 858
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Bemthungen",
+          "left": 288,
+          "top": 832,
+          "right": 444,
+          "bottom": 858
+        },
+        {
+          "text": "erlaube",
+          "left": 455,
+          "top": 833,
+          "right": 542,
+          "bottom": 852
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "erlaube",
+          "left": 455,
+          "top": 833,
+          "right": 542,
+          "bottom": 852
+        },
+        {
+          "text": "ich",
+          "left": 553,
+          "top": 833,
+          "right": 586,
+          "bottom": 852
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "ich",
+          "left": 553,
+          "top": 833,
+          "right": 586,
+          "bottom": 852
+        },
+        {
+          "text": "mir",
+          "left": 597,
+          "top": 833,
+          "right": 635,
+          "bottom": 852
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "mir",
+          "left": 597,
+          "top": 833,
+          "right": 635,
+          "bottom": 852
+        },
+        {
+          "text": "zu",
+          "left": 645,
+          "top": 838,
+          "right": 672,
+          "bottom": 852
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "zu",
+          "left": 645,
+          "top": 838,
+          "right": 672,
+          "bottom": 852
+        },
+        {
+          "text": "berechnen",
+          "left": 684,
+          "top": 833,
+          "right": 807,
+          "bottom": 852
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "berechnen",
+          "left": 684,
+          "top": 833,
+          "right": 807,
+          "bottom": 852
+        },
+        {
+          "text": "63,01",
+          "left": 818,
+          "top": 833,
+          "right": 879,
+          "bottom": 856
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "63,01",
+          "left": 818,
+          "top": 833,
+          "right": 879,
+          "bottom": 856
+        },
+        {
+          "text": "Euro",
+          "left": 894,
+          "top": 833,
+          "right": 949,
+          "bottom": 852
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Fur",
+          "left": 155,
+          "top": 832,
+          "right": 194,
+          "bottom": 852
+        },
+        {
+          "text": "meine",
+          "left": 205,
+          "top": 833,
+          "right": 277,
+          "bottom": 852
+        },
+        {
+          "text": "Bemthungen",
+          "left": 288,
+          "top": 832,
+          "right": 444,
+          "bottom": 858
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "meine",
+          "left": 205,
+          "top": 833,
+          "right": 277,
+          "bottom": 852
+        },
+        {
+          "text": "Bemthungen",
+          "left": 288,
+          "top": 832,
+          "right": 444,
+          "bottom": 858
+        },
+        {
+          "text": "erlaube",
+          "left": 455,
+          "top": 833,
+          "right": 542,
+          "bottom": 852
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Bemthungen",
+          "left": 288,
+          "top": 832,
+          "right": 444,
+          "bottom": 858
+        },
+        {
+          "text": "erlaube",
+          "left": 455,
+          "top": 833,
+          "right": 542,
+          "bottom": 852
+        },
+        {
+          "text": "ich",
+          "left": 553,
+          "top": 833,
+          "right": 586,
+          "bottom": 852
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "erlaube",
+          "left": 455,
+          "top": 833,
+          "right": 542,
+          "bottom": 852
+        },
+        {
+          "text": "ich",
+          "left": 553,
+          "top": 833,
+          "right": 586,
+          "bottom": 852
+        },
+        {
+          "text": "mir",
+          "left": 597,
+          "top": 833,
+          "right": 635,
+          "bottom": 852
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "ich",
+          "left": 553,
+          "top": 833,
+          "right": 586,
+          "bottom": 852
+        },
+        {
+          "text": "mir",
+          "left": 597,
+          "top": 833,
+          "right": 635,
+          "bottom": 852
+        },
+        {
+          "text": "zu",
+          "left": 645,
+          "top": 838,
+          "right": 672,
+          "bottom": 852
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "mir",
+          "left": 597,
+          "top": 833,
+          "right": 635,
+          "bottom": 852
+        },
+        {
+          "text": "zu",
+          "left": 645,
+          "top": 838,
+          "right": 672,
+          "bottom": 852
+        },
+        {
+          "text": "berechnen",
+          "left": 684,
+          "top": 833,
+          "right": 807,
+          "bottom": 852
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "zu",
+          "left": 645,
+          "top": 838,
+          "right": 672,
+          "bottom": 852
+        },
+        {
+          "text": "berechnen",
+          "left": 684,
+          "top": 833,
+          "right": 807,
+          "bottom": 852
+        },
+        {
+          "text": "63,01",
+          "left": 818,
+          "top": 833,
+          "right": 879,
+          "bottom": 856
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "berechnen",
+          "left": 684,
+          "top": 833,
+          "right": 807,
+          "bottom": 852
+        },
+        {
+          "text": "63,01",
+          "left": 818,
+          "top": 833,
+          "right": 879,
+          "bottom": 856
+        },
+        {
+          "text": "Euro",
+          "left": 894,
+          "top": 833,
+          "right": 949,
+          "bottom": 852
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Fur",
+          "left": 155,
+          "top": 832,
+          "right": 194,
+          "bottom": 852
+        },
+        {
+          "text": "meine",
+          "left": 205,
+          "top": 833,
+          "right": 277,
+          "bottom": 852
+        },
+        {
+          "text": "Bemthungen",
+          "left": 288,
+          "top": 832,
+          "right": 444,
+          "bottom": 858
+        },
+        {
+          "text": "erlaube",
+          "left": 455,
+          "top": 833,
+          "right": 542,
+          "bottom": 852
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "meine",
+          "left": 205,
+          "top": 833,
+          "right": 277,
+          "bottom": 852
+        },
+        {
+          "text": "Bemthungen",
+          "left": 288,
+          "top": 832,
+          "right": 444,
+          "bottom": 858
+        },
+        {
+          "text": "erlaube",
+          "left": 455,
+          "top": 833,
+          "right": 542,
+          "bottom": 852
+        },
+        {
+          "text": "ich",
+          "left": 553,
+          "top": 833,
+          "right": 586,
+          "bottom": 852
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Bemthungen",
+          "left": 288,
+          "top": 832,
+          "right": 444,
+          "bottom": 858
+        },
+        {
+          "text": "erlaube",
+          "left": 455,
+          "top": 833,
+          "right": 542,
+          "bottom": 852
+        },
+        {
+          "text": "ich",
+          "left": 553,
+          "top": 833,
+          "right": 586,
+          "bottom": 852
+        },
+        {
+          "text": "mir",
+          "left": 597,
+          "top": 833,
+          "right": 635,
+          "bottom": 852
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "erlaube",
+          "left": 455,
+          "top": 833,
+          "right": 542,
+          "bottom": 852
+        },
+        {
+          "text": "ich",
+          "left": 553,
+          "top": 833,
+          "right": 586,
+          "bottom": 852
+        },
+        {
+          "text": "mir",
+          "left": 597,
+          "top": 833,
+          "right": 635,
+          "bottom": 852
+        },
+        {
+          "text": "zu",
+          "left": 645,
+          "top": 838,
+          "right": 672,
+          "bottom": 852
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "ich",
+          "left": 553,
+          "top": 833,
+          "right": 586,
+          "bottom": 852
+        },
+        {
+          "text": "mir",
+          "left": 597,
+          "top": 833,
+          "right": 635,
+          "bottom": 852
+        },
+        {
+          "text": "zu",
+          "left": 645,
+          "top": 838,
+          "right": 672,
+          "bottom": 852
+        },
+        {
+          "text": "berechnen",
+          "left": 684,
+          "top": 833,
+          "right": 807,
+          "bottom": 852
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "mir",
+          "left": 597,
+          "top": 833,
+          "right": 635,
+          "bottom": 852
+        },
+        {
+          "text": "zu",
+          "left": 645,
+          "top": 838,
+          "right": 672,
+          "bottom": 852
+        },
+        {
+          "text": "berechnen",
+          "left": 684,
+          "top": 833,
+          "right": 807,
+          "bottom": 852
+        },
+        {
+          "text": "63,01",
+          "left": 818,
+          "top": 833,
+          "right": 879,
+          "bottom": 856
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "zu",
+          "left": 645,
+          "top": 838,
+          "right": 672,
+          "bottom": 852
+        },
+        {
+          "text": "berechnen",
+          "left": 684,
+          "top": 833,
+          "right": 807,
+          "bottom": 852
+        },
+        {
+          "text": "63,01",
+          "left": 818,
+          "top": 833,
+          "right": 879,
+          "bottom": 856
+        },
+        {
+          "text": "Euro",
+          "left": 894,
+          "top": 833,
+          "right": 949,
+          "bottom": 852
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Behandelt",
+          "left": 155,
+          "top": 906,
+          "right": 273,
+          "bottom": 925
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "wurde:Bacem",
+          "left": 282,
+          "top": 906,
+          "right": 446,
+          "bottom": 925
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Daassi,",
+          "left": 460,
+          "top": 906,
+          "right": 544,
+          "bottom": 929
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "geboren",
+          "left": 573,
+          "top": 906,
+          "right": 668,
+          "bottom": 931
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "am:",
+          "left": 679,
+          "top": 911,
+          "right": 722,
+          "bottom": 925
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "01.11.1979",
+          "left": 744,
+          "top": 906,
+          "right": 872,
+          "bottom": 925
+        }
+      ],
+      "parses": {
+        "date": "01-11-1979"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Behandelt",
+          "left": 155,
+          "top": 906,
+          "right": 273,
+          "bottom": 925
+        },
+        {
+          "text": "wurde:Bacem",
+          "left": 282,
+          "top": 906,
+          "right": 446,
+          "bottom": 925
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "wurde:Bacem",
+          "left": 282,
+          "top": 906,
+          "right": 446,
+          "bottom": 925
+        },
+        {
+          "text": "Daassi,",
+          "left": 460,
+          "top": 906,
+          "right": 544,
+          "bottom": 929
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Daassi,",
+          "left": 460,
+          "top": 906,
+          "right": 544,
+          "bottom": 929
+        },
+        {
+          "text": "geboren",
+          "left": 573,
+          "top": 906,
+          "right": 668,
+          "bottom": 931
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "geboren",
+          "left": 573,
+          "top": 906,
+          "right": 668,
+          "bottom": 931
+        },
+        {
+          "text": "am:",
+          "left": 679,
+          "top": 911,
+          "right": 722,
+          "bottom": 925
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "am:",
+          "left": 679,
+          "top": 911,
+          "right": 722,
+          "bottom": 925
+        },
+        {
+          "text": "01.11.1979",
+          "left": 744,
+          "top": 906,
+          "right": 872,
+          "bottom": 925
+        }
+      ],
+      "parses": {
+        "date": "01-11-1979"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Behandelt",
+          "left": 155,
+          "top": 906,
+          "right": 273,
+          "bottom": 925
+        },
+        {
+          "text": "wurde:Bacem",
+          "left": 282,
+          "top": 906,
+          "right": 446,
+          "bottom": 925
+        },
+        {
+          "text": "Daassi,",
+          "left": 460,
+          "top": 906,
+          "right": 544,
+          "bottom": 929
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "wurde:Bacem",
+          "left": 282,
+          "top": 906,
+          "right": 446,
+          "bottom": 925
+        },
+        {
+          "text": "Daassi,",
+          "left": 460,
+          "top": 906,
+          "right": 544,
+          "bottom": 929
+        },
+        {
+          "text": "geboren",
+          "left": 573,
+          "top": 906,
+          "right": 668,
+          "bottom": 931
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Daassi,",
+          "left": 460,
+          "top": 906,
+          "right": 544,
+          "bottom": 929
+        },
+        {
+          "text": "geboren",
+          "left": 573,
+          "top": 906,
+          "right": 668,
+          "bottom": 931
+        },
+        {
+          "text": "am:",
+          "left": 679,
+          "top": 911,
+          "right": 722,
+          "bottom": 925
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "geboren",
+          "left": 573,
+          "top": 906,
+          "right": 668,
+          "bottom": 931
+        },
+        {
+          "text": "am:",
+          "left": 679,
+          "top": 911,
+          "right": 722,
+          "bottom": 925
+        },
+        {
+          "text": "01.11.1979",
+          "left": 744,
+          "top": 906,
+          "right": 872,
+          "bottom": 925
+        }
+      ],
+      "parses": {
+        "date": "01-11-1979"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Behandelt",
+          "left": 155,
+          "top": 906,
+          "right": 273,
+          "bottom": 925
+        },
+        {
+          "text": "wurde:Bacem",
+          "left": 282,
+          "top": 906,
+          "right": 446,
+          "bottom": 925
+        },
+        {
+          "text": "Daassi,",
+          "left": 460,
+          "top": 906,
+          "right": 544,
+          "bottom": 929
+        },
+        {
+          "text": "geboren",
+          "left": 573,
+          "top": 906,
+          "right": 668,
+          "bottom": 931
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "wurde:Bacem",
+          "left": 282,
+          "top": 906,
+          "right": 446,
+          "bottom": 925
+        },
+        {
+          "text": "Daassi,",
+          "left": 460,
+          "top": 906,
+          "right": 544,
+          "bottom": 929
+        },
+        {
+          "text": "geboren",
+          "left": 573,
+          "top": 906,
+          "right": 668,
+          "bottom": 931
+        },
+        {
+          "text": "am:",
+          "left": 679,
+          "top": 911,
+          "right": 722,
+          "bottom": 925
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Daassi,",
+          "left": 460,
+          "top": 906,
+          "right": 544,
+          "bottom": 929
+        },
+        {
+          "text": "geboren",
+          "left": 573,
+          "top": 906,
+          "right": 668,
+          "bottom": 931
+        },
+        {
+          "text": "am:",
+          "left": 679,
+          "top": 911,
+          "right": 722,
+          "bottom": 925
+        },
+        {
+          "text": "01.11.1979",
+          "left": 744,
+          "top": 906,
+          "right": 872,
+          "bottom": 925
+        }
+      ],
+      "parses": {
+        "date": "01-11-1979"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 136,
+          "top": 978,
+          "right": 1506,
+          "bottom": 984
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 136,
+          "top": 1013,
+          "right": 1506,
+          "bottom": 1019
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 136,
+          "top": 1454,
+          "right": 1506,
+          "bottom": 1460
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 951,
+          "top": 1489,
+          "right": 1508,
+          "bottom": 1491
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Datum",
+          "left": 152,
+          "top": 983,
+          "right": 217,
+          "bottom": 1009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Ziffer",
+          "left": 290,
+          "top": 983,
+          "right": 343,
+          "bottom": 1009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Leistungstext",
+          "left": 386,
+          "top": 983,
+          "right": 512,
+          "bottom": 1009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 951,
+          "top": 1489,
+          "right": 1508,
+          "bottom": 1491
+        },
+        {
+          "text": "Datum",
+          "left": 152,
+          "top": 983,
+          "right": 217,
+          "bottom": 1009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Datum",
+          "left": 152,
+          "top": 983,
+          "right": 217,
+          "bottom": 1009
+        },
+        {
+          "text": "Ziffer",
+          "left": 290,
+          "top": 983,
+          "right": 343,
+          "bottom": 1009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Ziffer",
+          "left": 290,
+          "top": 983,
+          "right": 343,
+          "bottom": 1009
+        },
+        {
+          "text": "Leistungstext",
+          "left": 386,
+          "top": 983,
+          "right": 512,
+          "bottom": 1009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 951,
+          "top": 1489,
+          "right": 1508,
+          "bottom": 1491
+        },
+        {
+          "text": "Datum",
+          "left": 152,
+          "top": 983,
+          "right": 217,
+          "bottom": 1009
+        },
+        {
+          "text": "Ziffer",
+          "left": 290,
+          "top": 983,
+          "right": 343,
+          "bottom": 1009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Datum",
+          "left": 152,
+          "top": 983,
+          "right": 217,
+          "bottom": 1009
+        },
+        {
+          "text": "Ziffer",
+          "left": 290,
+          "top": 983,
+          "right": 343,
+          "bottom": 1009
+        },
+        {
+          "text": "Leistungstext",
+          "left": 386,
+          "top": 983,
+          "right": 512,
+          "bottom": 1009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 951,
+          "top": 1489,
+          "right": 1508,
+          "bottom": 1491
+        },
+        {
+          "text": "Datum",
+          "left": 152,
+          "top": 983,
+          "right": 217,
+          "bottom": 1009
+        },
+        {
+          "text": "Ziffer",
+          "left": 290,
+          "top": 983,
+          "right": 343,
+          "bottom": 1009
+        },
+        {
+          "text": "Leistungstext",
+          "left": 386,
+          "top": 983,
+          "right": 512,
+          "bottom": 1009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Anzahl",
+          "left": 734,
+          "top": 983,
+          "right": 802,
+          "bottom": 1009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Faktor",
+          "left": 849,
+          "top": 983,
+          "right": 911,
+          "bottom": 1009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Grundwert",
+          "left": 966,
+          "top": 983,
+          "right": 1070,
+          "bottom": 1009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Betrag",
+          "left": 1108,
+          "top": 983,
+          "right": 1174,
+          "bottom": 1009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Bes.Kosten",
+          "left": 1245,
+          "top": 983,
+          "right": 1351,
+          "bottom": 1009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Ges.Betrag",
+          "left": 1392,
+          "top": 987,
+          "right": 1491,
+          "bottom": 1005
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Anzahl",
+          "left": 734,
+          "top": 983,
+          "right": 802,
+          "bottom": 1009
+        },
+        {
+          "text": "Faktor",
+          "left": 849,
+          "top": 983,
+          "right": 911,
+          "bottom": 1009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Faktor",
+          "left": 849,
+          "top": 983,
+          "right": 911,
+          "bottom": 1009
+        },
+        {
+          "text": "Grundwert",
+          "left": 966,
+          "top": 983,
+          "right": 1070,
+          "bottom": 1009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Grundwert",
+          "left": 966,
+          "top": 983,
+          "right": 1070,
+          "bottom": 1009
+        },
+        {
+          "text": "Betrag",
+          "left": 1108,
+          "top": 983,
+          "right": 1174,
+          "bottom": 1009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Betrag",
+          "left": 1108,
+          "top": 983,
+          "right": 1174,
+          "bottom": 1009
+        },
+        {
+          "text": "Bes.Kosten",
+          "left": 1245,
+          "top": 983,
+          "right": 1351,
+          "bottom": 1009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Bes.Kosten",
+          "left": 1245,
+          "top": 983,
+          "right": 1351,
+          "bottom": 1009
+        },
+        {
+          "text": "Ges.Betrag",
+          "left": 1392,
+          "top": 987,
+          "right": 1491,
+          "bottom": 1005
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Anzahl",
+          "left": 734,
+          "top": 983,
+          "right": 802,
+          "bottom": 1009
+        },
+        {
+          "text": "Faktor",
+          "left": 849,
+          "top": 983,
+          "right": 911,
+          "bottom": 1009
+        },
+        {
+          "text": "Grundwert",
+          "left": 966,
+          "top": 983,
+          "right": 1070,
+          "bottom": 1009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Faktor",
+          "left": 849,
+          "top": 983,
+          "right": 911,
+          "bottom": 1009
+        },
+        {
+          "text": "Grundwert",
+          "left": 966,
+          "top": 983,
+          "right": 1070,
+          "bottom": 1009
+        },
+        {
+          "text": "Betrag",
+          "left": 1108,
+          "top": 983,
+          "right": 1174,
+          "bottom": 1009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Grundwert",
+          "left": 966,
+          "top": 983,
+          "right": 1070,
+          "bottom": 1009
+        },
+        {
+          "text": "Betrag",
+          "left": 1108,
+          "top": 983,
+          "right": 1174,
+          "bottom": 1009
+        },
+        {
+          "text": "Bes.Kosten",
+          "left": 1245,
+          "top": 983,
+          "right": 1351,
+          "bottom": 1009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Betrag",
+          "left": 1108,
+          "top": 983,
+          "right": 1174,
+          "bottom": 1009
+        },
+        {
+          "text": "Bes.Kosten",
+          "left": 1245,
+          "top": 983,
+          "right": 1351,
+          "bottom": 1009
+        },
+        {
+          "text": "Ges.Betrag",
+          "left": 1392,
+          "top": 987,
+          "right": 1491,
+          "bottom": 1005
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Anzahl",
+          "left": 734,
+          "top": 983,
+          "right": 802,
+          "bottom": 1009
+        },
+        {
+          "text": "Faktor",
+          "left": 849,
+          "top": 983,
+          "right": 911,
+          "bottom": 1009
+        },
+        {
+          "text": "Grundwert",
+          "left": 966,
+          "top": 983,
+          "right": 1070,
+          "bottom": 1009
+        },
+        {
+          "text": "Betrag",
+          "left": 1108,
+          "top": 983,
+          "right": 1174,
+          "bottom": 1009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Faktor",
+          "left": 849,
+          "top": 983,
+          "right": 911,
+          "bottom": 1009
+        },
+        {
+          "text": "Grundwert",
+          "left": 966,
+          "top": 983,
+          "right": 1070,
+          "bottom": 1009
+        },
+        {
+          "text": "Betrag",
+          "left": 1108,
+          "top": 983,
+          "right": 1174,
+          "bottom": 1009
+        },
+        {
+          "text": "Bes.Kosten",
+          "left": 1245,
+          "top": 983,
+          "right": 1351,
+          "bottom": 1009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Grundwert",
+          "left": 966,
+          "top": 983,
+          "right": 1070,
+          "bottom": 1009
+        },
+        {
+          "text": "Betrag",
+          "left": 1108,
+          "top": 983,
+          "right": 1174,
+          "bottom": 1009
+        },
+        {
+          "text": "Bes.Kosten",
+          "left": 1245,
+          "top": 983,
+          "right": 1351,
+          "bottom": 1009
+        },
+        {
+          "text": "Ges.Betrag",
+          "left": 1392,
+          "top": 987,
+          "right": 1491,
+          "bottom": 1005
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "02.07.2020",
+          "left": 154,
+          "top": 1031,
+          "right": 265,
+          "bottom": 1047
+        }
+      ],
+      "parses": {
+        "date": "02-07-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 299,
+          "top": 1031,
+          "right": 305,
+          "bottom": 1047
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "02.07.2020",
+          "left": 154,
+          "top": 1031,
+          "right": 265,
+          "bottom": 1047
+        },
+        {
+          "text": "1",
+          "left": 299,
+          "top": 1031,
+          "right": 305,
+          "bottom": 1047
+        }
+      ],
+      "parses": {
+        "amount": "02.07"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Beratung",
+          "left": 396,
+          "top": 1031,
+          "right": 484,
+          "bottom": 1052
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "auch",
+          "left": 492,
+          "top": 1031,
+          "right": 538,
+          "bottom": 1047
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "telefonisch",
+          "left": 546,
+          "top": 1030,
+          "right": 648,
+          "bottom": 1047
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Beratung",
+          "left": 396,
+          "top": 1031,
+          "right": 484,
+          "bottom": 1052
+        },
+        {
+          "text": "auch",
+          "left": 492,
+          "top": 1031,
+          "right": 538,
+          "bottom": 1047
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "auch",
+          "left": 492,
+          "top": 1031,
+          "right": 538,
+          "bottom": 1047
+        },
+        {
+          "text": "telefonisch",
+          "left": 546,
+          "top": 1030,
+          "right": 648,
+          "bottom": 1047
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Beratung",
+          "left": 396,
+          "top": 1031,
+          "right": 484,
+          "bottom": 1052
+        },
+        {
+          "text": "auch",
+          "left": 492,
+          "top": 1031,
+          "right": 538,
+          "bottom": 1047
+        },
+        {
+          "text": "telefonisch",
+          "left": 546,
+          "top": 1030,
+          "right": 648,
+          "bottom": 1047
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 776,
+          "top": 1031,
+          "right": 782,
+          "bottom": 1047
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "2,300",
+          "left": 848,
+          "top": 1027,
+          "right": 911,
+          "bottom": 1056
+        }
+      ],
+      "parses": {
+        "date": "02-03-0300"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "4,662",
+          "left": 987,
+          "top": 1031,
+          "right": 1042,
+          "bottom": 1050
+        }
+      ],
+      "parses": {
+        "date": "04-03-0662"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "\u20ac",
+          "left": 1049,
+          "top": 1030,
+          "right": 1062,
+          "bottom": 1047
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "10,72",
+          "left": 1122,
+          "top": 1031,
+          "right": 1175,
+          "bottom": 1050
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "\u20ac",
+          "left": 1182,
+          "top": 1030,
+          "right": 1194,
+          "bottom": 1047
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 776,
+          "top": 1031,
+          "right": 782,
+          "bottom": 1047
+        },
+        {
+          "text": "2,300",
+          "left": 848,
+          "top": 1027,
+          "right": 911,
+          "bottom": 1056
+        }
+      ],
+      "parses": {
+        "date": "01-02-0300"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "2,300",
+          "left": 848,
+          "top": 1027,
+          "right": 911,
+          "bottom": 1056
+        },
+        {
+          "text": "4,662",
+          "left": 987,
+          "top": 1031,
+          "right": 1042,
+          "bottom": 1050
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "4,662",
+          "left": 987,
+          "top": 1031,
+          "right": 1042,
+          "bottom": 1050
+        },
+        {
+          "text": "\u20ac",
+          "left": 1049,
+          "top": 1030,
+          "right": 1062,
+          "bottom": 1047
+        }
+      ],
+      "parses": {
+        "date": "04-03-0662"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "\u20ac",
+          "left": 1049,
+          "top": 1030,
+          "right": 1062,
+          "bottom": 1047
+        },
+        {
+          "text": "10,72",
+          "left": 1122,
+          "top": 1031,
+          "right": 1175,
+          "bottom": 1050
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "10,72",
+          "left": 1122,
+          "top": 1031,
+          "right": 1175,
+          "bottom": 1050
+        },
+        {
+          "text": "\u20ac",
+          "left": 1182,
+          "top": 1030,
+          "right": 1194,
+          "bottom": 1047
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 776,
+          "top": 1031,
+          "right": 782,
+          "bottom": 1047
+        },
+        {
+          "text": "2,300",
+          "left": 848,
+          "top": 1027,
+          "right": 911,
+          "bottom": 1056
+        },
+        {
+          "text": "4,662",
+          "left": 987,
+          "top": 1031,
+          "right": 1042,
+          "bottom": 1050
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "2,300",
+          "left": 848,
+          "top": 1027,
+          "right": 911,
+          "bottom": 1056
+        },
+        {
+          "text": "4,662",
+          "left": 987,
+          "top": 1031,
+          "right": 1042,
+          "bottom": 1050
+        },
+        {
+          "text": "\u20ac",
+          "left": 1049,
+          "top": 1030,
+          "right": 1062,
+          "bottom": 1047
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "4,662",
+          "left": 987,
+          "top": 1031,
+          "right": 1042,
+          "bottom": 1050
+        },
+        {
+          "text": "\u20ac",
+          "left": 1049,
+          "top": 1030,
+          "right": 1062,
+          "bottom": 1047
+        },
+        {
+          "text": "10,72",
+          "left": 1122,
+          "top": 1031,
+          "right": 1175,
+          "bottom": 1050
+        }
+      ],
+      "parses": {
+        "date": "04-03-0662"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "\u20ac",
+          "left": 1049,
+          "top": 1030,
+          "right": 1062,
+          "bottom": 1047
+        },
+        {
+          "text": "10,72",
+          "left": 1122,
+          "top": 1031,
+          "right": 1175,
+          "bottom": 1050
+        },
+        {
+          "text": "\u20ac",
+          "left": 1182,
+          "top": 1030,
+          "right": 1194,
+          "bottom": 1047
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 776,
+          "top": 1031,
+          "right": 782,
+          "bottom": 1047
+        },
+        {
+          "text": "2,300",
+          "left": 848,
+          "top": 1027,
+          "right": 911,
+          "bottom": 1056
+        },
+        {
+          "text": "4,662",
+          "left": 987,
+          "top": 1031,
+          "right": 1042,
+          "bottom": 1050
+        },
+        {
+          "text": "\u20ac",
+          "left": 1049,
+          "top": 1030,
+          "right": 1062,
+          "bottom": 1047
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "2,300",
+          "left": 848,
+          "top": 1027,
+          "right": 911,
+          "bottom": 1056
+        },
+        {
+          "text": "4,662",
+          "left": 987,
+          "top": 1031,
+          "right": 1042,
+          "bottom": 1050
+        },
+        {
+          "text": "\u20ac",
+          "left": 1049,
+          "top": 1030,
+          "right": 1062,
+          "bottom": 1047
+        },
+        {
+          "text": "10,72",
+          "left": 1122,
+          "top": 1031,
+          "right": 1175,
+          "bottom": 1050
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "4,662",
+          "left": 987,
+          "top": 1031,
+          "right": 1042,
+          "bottom": 1050
+        },
+        {
+          "text": "\u20ac",
+          "left": 1049,
+          "top": 1030,
+          "right": 1062,
+          "bottom": 1047
+        },
+        {
+          "text": "10,72",
+          "left": 1122,
+          "top": 1031,
+          "right": 1175,
+          "bottom": 1050
+        },
+        {
+          "text": "\u20ac",
+          "left": 1182,
+          "top": 1030,
+          "right": 1194,
+          "bottom": 1047
+        }
+      ],
+      "parses": {
+        "date": "04-03-0662"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "0,00",
+          "left": 1278,
+          "top": 1031,
+          "right": 1320,
+          "bottom": 1050
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "\u20ac",
+          "left": 1327,
+          "top": 1030,
+          "right": 1340,
+          "bottom": 1047
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "10,72",
+          "left": 1406,
+          "top": 1031,
+          "right": 1459,
+          "bottom": 1050
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "\u20ac",
+          "left": 1466,
+          "top": 1030,
+          "right": 1478,
+          "bottom": 1047
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "0,00",
+          "left": 1278,
+          "top": 1031,
+          "right": 1320,
+          "bottom": 1050
+        },
+        {
+          "text": "\u20ac",
+          "left": 1327,
+          "top": 1030,
+          "right": 1340,
+          "bottom": 1047
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "\u20ac",
+          "left": 1327,
+          "top": 1030,
+          "right": 1340,
+          "bottom": 1047
+        },
+        {
+          "text": "10,72",
+          "left": 1406,
+          "top": 1031,
+          "right": 1459,
+          "bottom": 1050
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "10,72",
+          "left": 1406,
+          "top": 1031,
+          "right": 1459,
+          "bottom": 1050
+        },
+        {
+          "text": "\u20ac",
+          "left": 1466,
+          "top": 1030,
+          "right": 1478,
+          "bottom": 1047
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "0,00",
+          "left": 1278,
+          "top": 1031,
+          "right": 1320,
+          "bottom": 1050
+        },
+        {
+          "text": "\u20ac",
+          "left": 1327,
+          "top": 1030,
+          "right": 1340,
+          "bottom": 1047
+        },
+        {
+          "text": "10,72",
+          "left": 1406,
+          "top": 1031,
+          "right": 1459,
+          "bottom": 1050
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "\u20ac",
+          "left": 1327,
+          "top": 1030,
+          "right": 1340,
+          "bottom": 1047
+        },
+        {
+          "text": "10,72",
+          "left": 1406,
+          "top": 1031,
+          "right": 1459,
+          "bottom": 1050
+        },
+        {
+          "text": "\u20ac",
+          "left": 1466,
+          "top": 1030,
+          "right": 1478,
+          "bottom": 1047
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "0,00",
+          "left": 1278,
+          "top": 1031,
+          "right": 1320,
+          "bottom": 1050
+        },
+        {
+          "text": "\u20ac",
+          "left": 1327,
+          "top": 1030,
+          "right": 1340,
+          "bottom": 1047
+        },
+        {
+          "text": "10,72",
+          "left": 1406,
+          "top": 1031,
+          "right": 1459,
+          "bottom": 1050
+        },
+        {
+          "text": "\u20ac",
+          "left": 1466,
+          "top": 1030,
+          "right": 1478,
+          "bottom": 1047
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "7",
+          "left": 298,
+          "top": 1065,
+          "right": 308,
+          "bottom": 1081
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Untersuchung,",
+          "left": 396,
+          "top": 1065,
+          "right": 537,
+          "bottom": 1086
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Hautorgan",
+          "left": 547,
+          "top": 1065,
+          "right": 650,
+          "bottom": 1086
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Untersuchung,",
+          "left": 396,
+          "top": 1065,
+          "right": 537,
+          "bottom": 1086
+        },
+        {
+          "text": "Hautorgan",
+          "left": 547,
+          "top": 1065,
+          "right": 650,
+          "bottom": 1086
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 776,
+          "top": 1065,
+          "right": 782,
+          "bottom": 1081
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "2,300",
+          "left": 857,
+          "top": 1065,
+          "right": 911,
+          "bottom": 1084
+        }
+      ],
+      "parses": {
+        "date": "02-03-0300"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "9,325",
+          "left": 988,
+          "top": 1065,
+          "right": 1042,
+          "bottom": 1084
+        }
+      ],
+      "parses": {
+        "date": "09-03-0325"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "\u20ac",
+          "left": 1049,
+          "top": 1064,
+          "right": 1062,
+          "bottom": 1081
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "21,45\u20ac",
+          "left": 1121,
+          "top": 1064,
+          "right": 1194,
+          "bottom": 1084
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 776,
+          "top": 1065,
+          "right": 782,
+          "bottom": 1081
+        },
+        {
+          "text": "2,300",
+          "left": 857,
+          "top": 1065,
+          "right": 911,
+          "bottom": 1084
+        }
+      ],
+      "parses": {
+        "date": "01-02-0300"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "2,300",
+          "left": 857,
+          "top": 1065,
+          "right": 911,
+          "bottom": 1084
+        },
+        {
+          "text": "9,325",
+          "left": 988,
+          "top": 1065,
+          "right": 1042,
+          "bottom": 1084
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "9,325",
+          "left": 988,
+          "top": 1065,
+          "right": 1042,
+          "bottom": 1084
+        },
+        {
+          "text": "\u20ac",
+          "left": 1049,
+          "top": 1064,
+          "right": 1062,
+          "bottom": 1081
+        }
+      ],
+      "parses": {
+        "date": "09-03-0325"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "\u20ac",
+          "left": 1049,
+          "top": 1064,
+          "right": 1062,
+          "bottom": 1081
+        },
+        {
+          "text": "21,45\u20ac",
+          "left": 1121,
+          "top": 1064,
+          "right": 1194,
+          "bottom": 1084
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 776,
+          "top": 1065,
+          "right": 782,
+          "bottom": 1081
+        },
+        {
+          "text": "2,300",
+          "left": 857,
+          "top": 1065,
+          "right": 911,
+          "bottom": 1084
+        },
+        {
+          "text": "9,325",
+          "left": 988,
+          "top": 1065,
+          "right": 1042,
+          "bottom": 1084
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "2,300",
+          "left": 857,
+          "top": 1065,
+          "right": 911,
+          "bottom": 1084
+        },
+        {
+          "text": "9,325",
+          "left": 988,
+          "top": 1065,
+          "right": 1042,
+          "bottom": 1084
+        },
+        {
+          "text": "\u20ac",
+          "left": 1049,
+          "top": 1064,
+          "right": 1062,
+          "bottom": 1081
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "9,325",
+          "left": 988,
+          "top": 1065,
+          "right": 1042,
+          "bottom": 1084
+        },
+        {
+          "text": "\u20ac",
+          "left": 1049,
+          "top": 1064,
+          "right": 1062,
+          "bottom": 1081
+        },
+        {
+          "text": "21,45\u20ac",
+          "left": 1121,
+          "top": 1064,
+          "right": 1194,
+          "bottom": 1084
+        }
+      ],
+      "parses": {
+        "date": "09-03-0325"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 776,
+          "top": 1065,
+          "right": 782,
+          "bottom": 1081
+        },
+        {
+          "text": "2,300",
+          "left": 857,
+          "top": 1065,
+          "right": 911,
+          "bottom": 1084
+        },
+        {
+          "text": "9,325",
+          "left": 988,
+          "top": 1065,
+          "right": 1042,
+          "bottom": 1084
+        },
+        {
+          "text": "\u20ac",
+          "left": 1049,
+          "top": 1064,
+          "right": 1062,
+          "bottom": 1081
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "2,300",
+          "left": 857,
+          "top": 1065,
+          "right": 911,
+          "bottom": 1084
+        },
+        {
+          "text": "9,325",
+          "left": 988,
+          "top": 1065,
+          "right": 1042,
+          "bottom": 1084
+        },
+        {
+          "text": "\u20ac",
+          "left": 1049,
+          "top": 1064,
+          "right": 1062,
+          "bottom": 1081
+        },
+        {
+          "text": "21,45\u20ac",
+          "left": 1121,
+          "top": 1064,
+          "right": 1194,
+          "bottom": 1084
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "0,00",
+          "left": 1278,
+          "top": 1065,
+          "right": 1320,
+          "bottom": 1084
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "\u20ac",
+          "left": 1327,
+          "top": 1064,
+          "right": 1340,
+          "bottom": 1081
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "21,45\u20ac",
+          "left": 1405,
+          "top": 1064,
+          "right": 1478,
+          "bottom": 1084
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "0,00",
+          "left": 1278,
+          "top": 1065,
+          "right": 1320,
+          "bottom": 1084
+        },
+        {
+          "text": "\u20ac",
+          "left": 1327,
+          "top": 1064,
+          "right": 1340,
+          "bottom": 1081
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "\u20ac",
+          "left": 1327,
+          "top": 1064,
+          "right": 1340,
+          "bottom": 1081
+        },
+        {
+          "text": "21,45\u20ac",
+          "left": 1405,
+          "top": 1064,
+          "right": 1478,
+          "bottom": 1084
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "0,00",
+          "left": 1278,
+          "top": 1065,
+          "right": 1320,
+          "bottom": 1084
+        },
+        {
+          "text": "\u20ac",
+          "left": 1327,
+          "top": 1064,
+          "right": 1340,
+          "bottom": 1081
+        },
+        {
+          "text": "21,45\u20ac",
+          "left": 1405,
+          "top": 1064,
+          "right": 1478,
+          "bottom": 1084
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "750",
+          "left": 298,
+          "top": 1098,
+          "right": 333,
+          "bottom": 1114
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Dermatoskopie,",
+          "left": 396,
+          "top": 1098,
+          "right": 548,
+          "bottom": 1119
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "je",
+          "left": 555,
+          "top": 1098,
+          "right": 572,
+          "bottom": 1119
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Sitzung",
+          "left": 580,
+          "top": 1097,
+          "right": 650,
+          "bottom": 1119
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "750",
+          "left": 298,
+          "top": 1098,
+          "right": 333,
+          "bottom": 1114
+        },
+        {
+          "text": "Dermatoskopie,",
+          "left": 396,
+          "top": 1098,
+          "right": 548,
+          "bottom": 1119
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Dermatoskopie,",
+          "left": 396,
+          "top": 1098,
+          "right": 548,
+          "bottom": 1119
+        },
+        {
+          "text": "je",
+          "left": 555,
+          "top": 1098,
+          "right": 572,
+          "bottom": 1119
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "je",
+          "left": 555,
+          "top": 1098,
+          "right": 572,
+          "bottom": 1119
+        },
+        {
+          "text": "Sitzung",
+          "left": 580,
+          "top": 1097,
+          "right": 650,
+          "bottom": 1119
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "750",
+          "left": 298,
+          "top": 1098,
+          "right": 333,
+          "bottom": 1114
+        },
+        {
+          "text": "Dermatoskopie,",
+          "left": 396,
+          "top": 1098,
+          "right": 548,
+          "bottom": 1119
+        },
+        {
+          "text": "je",
+          "left": 555,
+          "top": 1098,
+          "right": 572,
+          "bottom": 1119
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Dermatoskopie,",
+          "left": 396,
+          "top": 1098,
+          "right": 548,
+          "bottom": 1119
+        },
+        {
+          "text": "je",
+          "left": 555,
+          "top": 1098,
+          "right": 572,
+          "bottom": 1119
+        },
+        {
+          "text": "Sitzung",
+          "left": 580,
+          "top": 1097,
+          "right": 650,
+          "bottom": 1119
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "750",
+          "left": 298,
+          "top": 1098,
+          "right": 333,
+          "bottom": 1114
+        },
+        {
+          "text": "Dermatoskopie,",
+          "left": 396,
+          "top": 1098,
+          "right": 548,
+          "bottom": 1119
+        },
+        {
+          "text": "je",
+          "left": 555,
+          "top": 1098,
+          "right": 572,
+          "bottom": 1119
+        },
+        {
+          "text": "Sitzung",
+          "left": 580,
+          "top": 1097,
+          "right": 650,
+          "bottom": 1119
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 776,
+          "top": 1098,
+          "right": 782,
+          "bottom": 1114
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "2,300",
+          "left": 857,
+          "top": 1098,
+          "right": 911,
+          "bottom": 1117
+        }
+      ],
+      "parses": {
+        "date": "02-03-0300"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "6,994",
+          "left": 988,
+          "top": 1098,
+          "right": 1042,
+          "bottom": 1117
+        }
+      ],
+      "parses": {
+        "date": "06-03-0994"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "\u20ac",
+          "left": 1049,
+          "top": 1097,
+          "right": 1062,
+          "bottom": 1114
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "16,09",
+          "left": 1122,
+          "top": 1098,
+          "right": 1175,
+          "bottom": 1117
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "\u20ac",
+          "left": 1182,
+          "top": 1097,
+          "right": 1194,
+          "bottom": 1114
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 776,
+          "top": 1098,
+          "right": 782,
+          "bottom": 1114
+        },
+        {
+          "text": "2,300",
+          "left": 857,
+          "top": 1098,
+          "right": 911,
+          "bottom": 1117
+        }
+      ],
+      "parses": {
+        "date": "01-02-0300"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "2,300",
+          "left": 857,
+          "top": 1098,
+          "right": 911,
+          "bottom": 1117
+        },
+        {
+          "text": "6,994",
+          "left": 988,
+          "top": 1098,
+          "right": 1042,
+          "bottom": 1117
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "6,994",
+          "left": 988,
+          "top": 1098,
+          "right": 1042,
+          "bottom": 1117
+        },
+        {
+          "text": "\u20ac",
+          "left": 1049,
+          "top": 1097,
+          "right": 1062,
+          "bottom": 1114
+        }
+      ],
+      "parses": {
+        "date": "06-03-0994"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "\u20ac",
+          "left": 1049,
+          "top": 1097,
+          "right": 1062,
+          "bottom": 1114
+        },
+        {
+          "text": "16,09",
+          "left": 1122,
+          "top": 1098,
+          "right": 1175,
+          "bottom": 1117
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "16,09",
+          "left": 1122,
+          "top": 1098,
+          "right": 1175,
+          "bottom": 1117
+        },
+        {
+          "text": "\u20ac",
+          "left": 1182,
+          "top": 1097,
+          "right": 1194,
+          "bottom": 1114
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 776,
+          "top": 1098,
+          "right": 782,
+          "bottom": 1114
+        },
+        {
+          "text": "2,300",
+          "left": 857,
+          "top": 1098,
+          "right": 911,
+          "bottom": 1117
+        },
+        {
+          "text": "6,994",
+          "left": 988,
+          "top": 1098,
+          "right": 1042,
+          "bottom": 1117
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "2,300",
+          "left": 857,
+          "top": 1098,
+          "right": 911,
+          "bottom": 1117
+        },
+        {
+          "text": "6,994",
+          "left": 988,
+          "top": 1098,
+          "right": 1042,
+          "bottom": 1117
+        },
+        {
+          "text": "\u20ac",
+          "left": 1049,
+          "top": 1097,
+          "right": 1062,
+          "bottom": 1114
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "6,994",
+          "left": 988,
+          "top": 1098,
+          "right": 1042,
+          "bottom": 1117
+        },
+        {
+          "text": "\u20ac",
+          "left": 1049,
+          "top": 1097,
+          "right": 1062,
+          "bottom": 1114
+        },
+        {
+          "text": "16,09",
+          "left": 1122,
+          "top": 1098,
+          "right": 1175,
+          "bottom": 1117
+        }
+      ],
+      "parses": {
+        "date": "06-03-0994"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "\u20ac",
+          "left": 1049,
+          "top": 1097,
+          "right": 1062,
+          "bottom": 1114
+        },
+        {
+          "text": "16,09",
+          "left": 1122,
+          "top": 1098,
+          "right": 1175,
+          "bottom": 1117
+        },
+        {
+          "text": "\u20ac",
+          "left": 1182,
+          "top": 1097,
+          "right": 1194,
+          "bottom": 1114
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 776,
+          "top": 1098,
+          "right": 782,
+          "bottom": 1114
+        },
+        {
+          "text": "2,300",
+          "left": 857,
+          "top": 1098,
+          "right": 911,
+          "bottom": 1117
+        },
+        {
+          "text": "6,994",
+          "left": 988,
+          "top": 1098,
+          "right": 1042,
+          "bottom": 1117
+        },
+        {
+          "text": "\u20ac",
+          "left": 1049,
+          "top": 1097,
+          "right": 1062,
+          "bottom": 1114
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "2,300",
+          "left": 857,
+          "top": 1098,
+          "right": 911,
+          "bottom": 1117
+        },
+        {
+          "text": "6,994",
+          "left": 988,
+          "top": 1098,
+          "right": 1042,
+          "bottom": 1117
+        },
+        {
+          "text": "\u20ac",
+          "left": 1049,
+          "top": 1097,
+          "right": 1062,
+          "bottom": 1114
+        },
+        {
+          "text": "16,09",
+          "left": 1122,
+          "top": 1098,
+          "right": 1175,
+          "bottom": 1117
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "6,994",
+          "left": 988,
+          "top": 1098,
+          "right": 1042,
+          "bottom": 1117
+        },
+        {
+          "text": "\u20ac",
+          "left": 1049,
+          "top": 1097,
+          "right": 1062,
+          "bottom": 1114
+        },
+        {
+          "text": "16,09",
+          "left": 1122,
+          "top": 1098,
+          "right": 1175,
+          "bottom": 1117
+        },
+        {
+          "text": "\u20ac",
+          "left": 1182,
+          "top": 1097,
+          "right": 1194,
+          "bottom": 1114
+        }
+      ],
+      "parses": {
+        "date": "06-03-0994"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "0,00",
+          "left": 1278,
+          "top": 1098,
+          "right": 1320,
+          "bottom": 1117
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "\u20ac",
+          "left": 1327,
+          "top": 1097,
+          "right": 1340,
+          "bottom": 1114
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "16,09",
+          "left": 1406,
+          "top": 1098,
+          "right": 1459,
+          "bottom": 1117
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "\u20ac",
+          "left": 1466,
+          "top": 1097,
+          "right": 1478,
+          "bottom": 1114
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "0,00",
+          "left": 1278,
+          "top": 1098,
+          "right": 1320,
+          "bottom": 1117
+        },
+        {
+          "text": "\u20ac",
+          "left": 1327,
+          "top": 1097,
+          "right": 1340,
+          "bottom": 1114
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "\u20ac",
+          "left": 1327,
+          "top": 1097,
+          "right": 1340,
+          "bottom": 1114
+        },
+        {
+          "text": "16,09",
+          "left": 1406,
+          "top": 1098,
+          "right": 1459,
+          "bottom": 1117
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "16,09",
+          "left": 1406,
+          "top": 1098,
+          "right": 1459,
+          "bottom": 1117
+        },
+        {
+          "text": "\u20ac",
+          "left": 1466,
+          "top": 1097,
+          "right": 1478,
+          "bottom": 1114
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "0,00",
+          "left": 1278,
+          "top": 1098,
+          "right": 1320,
+          "bottom": 1117
+        },
+        {
+          "text": "\u20ac",
+          "left": 1327,
+          "top": 1097,
+          "right": 1340,
+          "bottom": 1114
+        },
+        {
+          "text": "16,09",
+          "left": 1406,
+          "top": 1098,
+          "right": 1459,
+          "bottom": 1117
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "\u20ac",
+          "left": 1327,
+          "top": 1097,
+          "right": 1340,
+          "bottom": 1114
+        },
+        {
+          "text": "16,09",
+          "left": 1406,
+          "top": 1098,
+          "right": 1459,
+          "bottom": 1117
+        },
+        {
+          "text": "\u20ac",
+          "left": 1466,
+          "top": 1097,
+          "right": 1478,
+          "bottom": 1114
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "0,00",
+          "left": 1278,
+          "top": 1098,
+          "right": 1320,
+          "bottom": 1117
+        },
+        {
+          "text": "\u20ac",
+          "left": 1327,
+          "top": 1097,
+          "right": 1340,
+          "bottom": 1114
+        },
+        {
+          "text": "16,09",
+          "left": 1406,
+          "top": 1098,
+          "right": 1459,
+          "bottom": 1117
+        },
+        {
+          "text": "\u20ac",
+          "left": 1466,
+          "top": 1097,
+          "right": 1478,
+          "bottom": 1114
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "245A",
+          "left": 297,
+          "top": 1131,
+          "right": 349,
+          "bottom": 1147
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Zuschlag",
+          "left": 394,
+          "top": 1131,
+          "right": 482,
+          "bottom": 1152
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "fiir",
+          "left": 490,
+          "top": 1130,
+          "right": 516,
+          "bottom": 1147
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "aufwendige",
+          "left": 523,
+          "top": 1130,
+          "right": 634,
+          "bottom": 1152
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "245A",
+          "left": 297,
+          "top": 1131,
+          "right": 349,
+          "bottom": 1147
+        },
+        {
+          "text": "Zuschlag",
+          "left": 394,
+          "top": 1131,
+          "right": 482,
+          "bottom": 1152
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Zuschlag",
+          "left": 394,
+          "top": 1131,
+          "right": 482,
+          "bottom": 1152
+        },
+        {
+          "text": "fiir",
+          "left": 490,
+          "top": 1130,
+          "right": 516,
+          "bottom": 1147
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "fiir",
+          "left": 490,
+          "top": 1130,
+          "right": 516,
+          "bottom": 1147
+        },
+        {
+          "text": "aufwendige",
+          "left": 523,
+          "top": 1130,
+          "right": 634,
+          "bottom": 1152
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "245A",
+          "left": 297,
+          "top": 1131,
+          "right": 349,
+          "bottom": 1147
+        },
+        {
+          "text": "Zuschlag",
+          "left": 394,
+          "top": 1131,
+          "right": 482,
+          "bottom": 1152
+        },
+        {
+          "text": "fiir",
+          "left": 490,
+          "top": 1130,
+          "right": 516,
+          "bottom": 1147
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Zuschlag",
+          "left": 394,
+          "top": 1131,
+          "right": 482,
+          "bottom": 1152
+        },
+        {
+          "text": "fiir",
+          "left": 490,
+          "top": 1130,
+          "right": 516,
+          "bottom": 1147
+        },
+        {
+          "text": "aufwendige",
+          "left": 523,
+          "top": 1130,
+          "right": 634,
+          "bottom": 1152
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "245A",
+          "left": 297,
+          "top": 1131,
+          "right": 349,
+          "bottom": 1147
+        },
+        {
+          "text": "Zuschlag",
+          "left": 394,
+          "top": 1131,
+          "right": 482,
+          "bottom": 1152
+        },
+        {
+          "text": "fiir",
+          "left": 490,
+          "top": 1130,
+          "right": 516,
+          "bottom": 1147
+        },
+        {
+          "text": "aufwendige",
+          "left": 523,
+          "top": 1130,
+          "right": 634,
+          "bottom": 1152
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 776,
+          "top": 1131,
+          "right": 782,
+          "bottom": 1147
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "2,300",
+          "left": 857,
+          "top": 1131,
+          "right": 911,
+          "bottom": 1150
+        }
+      ],
+      "parses": {
+        "date": "02-03-0300"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "6,411",
+          "left": 990,
+          "top": 1131,
+          "right": 1039,
+          "bottom": 1150
+        }
+      ],
+      "parses": {
+        "date": "06-03-0411"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "\u20ac",
+          "left": 1049,
+          "top": 1130,
+          "right": 1062,
+          "bottom": 1147
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "14,75\u20ac",
+          "left": 1122,
+          "top": 1130,
+          "right": 1194,
+          "bottom": 1150
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 776,
+          "top": 1131,
+          "right": 782,
+          "bottom": 1147
+        },
+        {
+          "text": "2,300",
+          "left": 857,
+          "top": 1131,
+          "right": 911,
+          "bottom": 1150
+        }
+      ],
+      "parses": {
+        "date": "01-02-0300"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "2,300",
+          "left": 857,
+          "top": 1131,
+          "right": 911,
+          "bottom": 1150
+        },
+        {
+          "text": "6,411",
+          "left": 990,
+          "top": 1131,
+          "right": 1039,
+          "bottom": 1150
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "6,411",
+          "left": 990,
+          "top": 1131,
+          "right": 1039,
+          "bottom": 1150
+        },
+        {
+          "text": "\u20ac",
+          "left": 1049,
+          "top": 1130,
+          "right": 1062,
+          "bottom": 1147
+        }
+      ],
+      "parses": {
+        "date": "06-03-0411"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "\u20ac",
+          "left": 1049,
+          "top": 1130,
+          "right": 1062,
+          "bottom": 1147
+        },
+        {
+          "text": "14,75\u20ac",
+          "left": 1122,
+          "top": 1130,
+          "right": 1194,
+          "bottom": 1150
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 776,
+          "top": 1131,
+          "right": 782,
+          "bottom": 1147
+        },
+        {
+          "text": "2,300",
+          "left": 857,
+          "top": 1131,
+          "right": 911,
+          "bottom": 1150
+        },
+        {
+          "text": "6,411",
+          "left": 990,
+          "top": 1131,
+          "right": 1039,
+          "bottom": 1150
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "2,300",
+          "left": 857,
+          "top": 1131,
+          "right": 911,
+          "bottom": 1150
+        },
+        {
+          "text": "6,411",
+          "left": 990,
+          "top": 1131,
+          "right": 1039,
+          "bottom": 1150
+        },
+        {
+          "text": "\u20ac",
+          "left": 1049,
+          "top": 1130,
+          "right": 1062,
+          "bottom": 1147
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "6,411",
+          "left": 990,
+          "top": 1131,
+          "right": 1039,
+          "bottom": 1150
+        },
+        {
+          "text": "\u20ac",
+          "left": 1049,
+          "top": 1130,
+          "right": 1062,
+          "bottom": 1147
+        },
+        {
+          "text": "14,75\u20ac",
+          "left": 1122,
+          "top": 1130,
+          "right": 1194,
+          "bottom": 1150
+        }
+      ],
+      "parses": {
+        "date": "06-03-0411"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "1",
+          "left": 776,
+          "top": 1131,
+          "right": 782,
+          "bottom": 1147
+        },
+        {
+          "text": "2,300",
+          "left": 857,
+          "top": 1131,
+          "right": 911,
+          "bottom": 1150
+        },
+        {
+          "text": "6,411",
+          "left": 990,
+          "top": 1131,
+          "right": 1039,
+          "bottom": 1150
+        },
+        {
+          "text": "\u20ac",
+          "left": 1049,
+          "top": 1130,
+          "right": 1062,
+          "bottom": 1147
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "2,300",
+          "left": 857,
+          "top": 1131,
+          "right": 911,
+          "bottom": 1150
+        },
+        {
+          "text": "6,411",
+          "left": 990,
+          "top": 1131,
+          "right": 1039,
+          "bottom": 1150
+        },
+        {
+          "text": "\u20ac",
+          "left": 1049,
+          "top": 1130,
+          "right": 1062,
+          "bottom": 1147
+        },
+        {
+          "text": "14,75\u20ac",
+          "left": 1122,
+          "top": 1130,
+          "right": 1194,
+          "bottom": 1150
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "0,00",
+          "left": 1278,
+          "top": 1131,
+          "right": 1320,
+          "bottom": 1150
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "\u20ac",
+          "left": 1327,
+          "top": 1130,
+          "right": 1340,
+          "bottom": 1147
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "14,75\u20ac",
+          "left": 1406,
+          "top": 1130,
+          "right": 1478,
+          "bottom": 1150
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "0,00",
+          "left": 1278,
+          "top": 1131,
+          "right": 1320,
+          "bottom": 1150
+        },
+        {
+          "text": "\u20ac",
+          "left": 1327,
+          "top": 1130,
+          "right": 1340,
+          "bottom": 1147
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "\u20ac",
+          "left": 1327,
+          "top": 1130,
+          "right": 1340,
+          "bottom": 1147
+        },
+        {
+          "text": "14,75\u20ac",
+          "left": 1406,
+          "top": 1130,
+          "right": 1478,
+          "bottom": 1150
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "0,00",
+          "left": 1278,
+          "top": 1131,
+          "right": 1320,
+          "bottom": 1150
+        },
+        {
+          "text": "\u20ac",
+          "left": 1327,
+          "top": 1130,
+          "right": 1340,
+          "bottom": 1147
+        },
+        {
+          "text": "14,75\u20ac",
+          "left": 1406,
+          "top": 1130,
+          "right": 1478,
+          "bottom": 1150
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Hygienema&nahmen",
+          "left": 396,
+          "top": 1163,
+          "right": 600,
+          "bottom": 1185
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "i.R.",
+          "left": 609,
+          "top": 1164,
+          "right": 639,
+          "bottom": 1180
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "der",
+          "left": 648,
+          "top": 1164,
+          "right": 680,
+          "bottom": 1180
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Hygienema&nahmen",
+          "left": 396,
+          "top": 1163,
+          "right": 600,
+          "bottom": 1185
+        },
+        {
+          "text": "i.R.",
+          "left": 609,
+          "top": 1164,
+          "right": 639,
+          "bottom": 1180
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "i.R.",
+          "left": 609,
+          "top": 1164,
+          "right": 639,
+          "bottom": 1180
+        },
+        {
+          "text": "der",
+          "left": 648,
+          "top": 1164,
+          "right": 680,
+          "bottom": 1180
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Hygienema&nahmen",
+          "left": 396,
+          "top": 1163,
+          "right": 600,
+          "bottom": 1185
+        },
+        {
+          "text": "i.R.",
+          "left": 609,
+          "top": 1164,
+          "right": 639,
+          "bottom": 1180
+        },
+        {
+          "text": "der",
+          "left": 648,
+          "top": 1164,
+          "right": 680,
+          "bottom": 1180
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Corona",
+          "left": 395,
+          "top": 1196,
+          "right": 468,
+          "bottom": 1213
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Epidemie",
+          "left": 476,
+          "top": 1197,
+          "right": 566,
+          "bottom": 1218
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Corona",
+          "left": 395,
+          "top": 1196,
+          "right": 468,
+          "bottom": 1213
+        },
+        {
+          "text": "Epidemie",
+          "left": 476,
+          "top": 1197,
+          "right": 566,
+          "bottom": 1218
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Honorar:",
+          "left": 1026,
+          "top": 1456,
+          "right": 1120,
+          "bottom": 1489
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "63,01",
+          "left": 1398,
+          "top": 1466,
+          "right": 1459,
+          "bottom": 1489
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "\u20ac",
+          "left": 1472,
+          "top": 1465,
+          "right": 1486,
+          "bottom": 1485
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "63,01",
+          "left": 1398,
+          "top": 1466,
+          "right": 1459,
+          "bottom": 1489
+        },
+        {
+          "text": "\u20ac",
+          "left": 1472,
+          "top": 1465,
+          "right": 1486,
+          "bottom": 1485
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Gesamtsumme:",
+          "left": 1026,
+          "top": 1490,
+          "right": 1193,
+          "bottom": 1520
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "63,01",
+          "left": 1403,
+          "top": 1497,
+          "right": 1461,
+          "bottom": 1519
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "\u20ac",
+          "left": 1472,
+          "top": 1497,
+          "right": 1485,
+          "bottom": 1515
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "63,01",
+          "left": 1403,
+          "top": 1497,
+          "right": 1461,
+          "bottom": 1519
+        },
+        {
+          "text": "\u20ac",
+          "left": 1472,
+          "top": 1497,
+          "right": 1485,
+          "bottom": 1515
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Diagnose:",
+          "left": 155,
+          "top": 1734,
+          "right": 282,
+          "bottom": 1759
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Pityriasis",
+          "left": 155,
+          "top": 1768,
+          "right": 261,
+          "bottom": 1793
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "versicolor",
+          "left": 270,
+          "top": 1768,
+          "right": 384,
+          "bottom": 1787
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "(B36.0)",
+          "left": 396,
+          "top": 1767,
+          "right": 483,
+          "bottom": 1793
+        }
+      ],
+      "parses": {
+        "amount": "36.0"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Pityriasis",
+          "left": 155,
+          "top": 1768,
+          "right": 261,
+          "bottom": 1793
+        },
+        {
+          "text": "versicolor",
+          "left": 270,
+          "top": 1768,
+          "right": 384,
+          "bottom": 1787
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "versicolor",
+          "left": 270,
+          "top": 1768,
+          "right": 384,
+          "bottom": 1787
+        },
+        {
+          "text": "(B36.0)",
+          "left": 396,
+          "top": 1767,
+          "right": 483,
+          "bottom": 1793
+        }
+      ],
+      "parses": {
+        "amount": "36.0"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Pityriasis",
+          "left": 155,
+          "top": 1768,
+          "right": 261,
+          "bottom": 1793
+        },
+        {
+          "text": "versicolor",
+          "left": 270,
+          "top": 1768,
+          "right": 384,
+          "bottom": 1787
+        },
+        {
+          "text": "(B36.0)",
+          "left": 396,
+          "top": 1767,
+          "right": 483,
+          "bottom": 1793
+        }
+      ],
+      "parses": {
+        "amount": "36.0"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Abrechnung",
+          "left": 157,
+          "top": 1905,
+          "right": 301,
+          "bottom": 1930
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "gema\u00ae",
+          "left": 312,
+          "top": 1904,
+          "right": 395,
+          "bottom": 1930
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "der",
+          "left": 405,
+          "top": 1905,
+          "right": 442,
+          "bottom": 1924
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "giiltigen",
+          "left": 453,
+          "top": 1904,
+          "right": 544,
+          "bottom": 1930
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Gebihrenordnung",
+          "left": 555,
+          "top": 1904,
+          "right": 768,
+          "bottom": 1930
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "fiir",
+          "left": 777,
+          "top": 1904,
+          "right": 810,
+          "bottom": 1924
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Arzte",
+          "left": 819,
+          "top": 1901,
+          "right": 884,
+          "bottom": 1924
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "vom",
+          "left": 894,
+          "top": 1910,
+          "right": 941,
+          "bottom": 1924
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "01.01.2002",
+          "left": 955,
+          "top": 1905,
+          "right": 1085,
+          "bottom": 1924
+        }
+      ],
+      "parses": {
+        "date": "01-01-2002"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Abrechnung",
+          "left": 157,
+          "top": 1905,
+          "right": 301,
+          "bottom": 1930
+        },
+        {
+          "text": "gema\u00ae",
+          "left": 312,
+          "top": 1904,
+          "right": 395,
+          "bottom": 1930
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "gema\u00ae",
+          "left": 312,
+          "top": 1904,
+          "right": 395,
+          "bottom": 1930
+        },
+        {
+          "text": "der",
+          "left": 405,
+          "top": 1905,
+          "right": 442,
+          "bottom": 1924
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "der",
+          "left": 405,
+          "top": 1905,
+          "right": 442,
+          "bottom": 1924
+        },
+        {
+          "text": "giiltigen",
+          "left": 453,
+          "top": 1904,
+          "right": 544,
+          "bottom": 1930
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "giiltigen",
+          "left": 453,
+          "top": 1904,
+          "right": 544,
+          "bottom": 1930
+        },
+        {
+          "text": "Gebihrenordnung",
+          "left": 555,
+          "top": 1904,
+          "right": 768,
+          "bottom": 1930
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Gebihrenordnung",
+          "left": 555,
+          "top": 1904,
+          "right": 768,
+          "bottom": 1930
+        },
+        {
+          "text": "fiir",
+          "left": 777,
+          "top": 1904,
+          "right": 810,
+          "bottom": 1924
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "fiir",
+          "left": 777,
+          "top": 1904,
+          "right": 810,
+          "bottom": 1924
+        },
+        {
+          "text": "Arzte",
+          "left": 819,
+          "top": 1901,
+          "right": 884,
+          "bottom": 1924
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Arzte",
+          "left": 819,
+          "top": 1901,
+          "right": 884,
+          "bottom": 1924
+        },
+        {
+          "text": "vom",
+          "left": 894,
+          "top": 1910,
+          "right": 941,
+          "bottom": 1924
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "vom",
+          "left": 894,
+          "top": 1910,
+          "right": 941,
+          "bottom": 1924
+        },
+        {
+          "text": "01.01.2002",
+          "left": 955,
+          "top": 1905,
+          "right": 1085,
+          "bottom": 1924
+        }
+      ],
+      "parses": {
+        "date": "01-01-2002"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Abrechnung",
+          "left": 157,
+          "top": 1905,
+          "right": 301,
+          "bottom": 1930
+        },
+        {
+          "text": "gema\u00ae",
+          "left": 312,
+          "top": 1904,
+          "right": 395,
+          "bottom": 1930
+        },
+        {
+          "text": "der",
+          "left": 405,
+          "top": 1905,
+          "right": 442,
+          "bottom": 1924
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "gema\u00ae",
+          "left": 312,
+          "top": 1904,
+          "right": 395,
+          "bottom": 1930
+        },
+        {
+          "text": "der",
+          "left": 405,
+          "top": 1905,
+          "right": 442,
+          "bottom": 1924
+        },
+        {
+          "text": "giiltigen",
+          "left": 453,
+          "top": 1904,
+          "right": 544,
+          "bottom": 1930
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "der",
+          "left": 405,
+          "top": 1905,
+          "right": 442,
+          "bottom": 1924
+        },
+        {
+          "text": "giiltigen",
+          "left": 453,
+          "top": 1904,
+          "right": 544,
+          "bottom": 1930
+        },
+        {
+          "text": "Gebihrenordnung",
+          "left": 555,
+          "top": 1904,
+          "right": 768,
+          "bottom": 1930
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "giiltigen",
+          "left": 453,
+          "top": 1904,
+          "right": 544,
+          "bottom": 1930
+        },
+        {
+          "text": "Gebihrenordnung",
+          "left": 555,
+          "top": 1904,
+          "right": 768,
+          "bottom": 1930
+        },
+        {
+          "text": "fiir",
+          "left": 777,
+          "top": 1904,
+          "right": 810,
+          "bottom": 1924
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Gebihrenordnung",
+          "left": 555,
+          "top": 1904,
+          "right": 768,
+          "bottom": 1930
+        },
+        {
+          "text": "fiir",
+          "left": 777,
+          "top": 1904,
+          "right": 810,
+          "bottom": 1924
+        },
+        {
+          "text": "Arzte",
+          "left": 819,
+          "top": 1901,
+          "right": 884,
+          "bottom": 1924
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "fiir",
+          "left": 777,
+          "top": 1904,
+          "right": 810,
+          "bottom": 1924
+        },
+        {
+          "text": "Arzte",
+          "left": 819,
+          "top": 1901,
+          "right": 884,
+          "bottom": 1924
+        },
+        {
+          "text": "vom",
+          "left": 894,
+          "top": 1910,
+          "right": 941,
+          "bottom": 1924
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Arzte",
+          "left": 819,
+          "top": 1901,
+          "right": 884,
+          "bottom": 1924
+        },
+        {
+          "text": "vom",
+          "left": 894,
+          "top": 1910,
+          "right": 941,
+          "bottom": 1924
+        },
+        {
+          "text": "01.01.2002",
+          "left": 955,
+          "top": 1905,
+          "right": 1085,
+          "bottom": 1924
+        }
+      ],
+      "parses": {
+        "date": "01-01-2002"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Abrechnung",
+          "left": 157,
+          "top": 1905,
+          "right": 301,
+          "bottom": 1930
+        },
+        {
+          "text": "gema\u00ae",
+          "left": 312,
+          "top": 1904,
+          "right": 395,
+          "bottom": 1930
+        },
+        {
+          "text": "der",
+          "left": 405,
+          "top": 1905,
+          "right": 442,
+          "bottom": 1924
+        },
+        {
+          "text": "giiltigen",
+          "left": 453,
+          "top": 1904,
+          "right": 544,
+          "bottom": 1930
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "gema\u00ae",
+          "left": 312,
+          "top": 1904,
+          "right": 395,
+          "bottom": 1930
+        },
+        {
+          "text": "der",
+          "left": 405,
+          "top": 1905,
+          "right": 442,
+          "bottom": 1924
+        },
+        {
+          "text": "giiltigen",
+          "left": 453,
+          "top": 1904,
+          "right": 544,
+          "bottom": 1930
+        },
+        {
+          "text": "Gebihrenordnung",
+          "left": 555,
+          "top": 1904,
+          "right": 768,
+          "bottom": 1930
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "der",
+          "left": 405,
+          "top": 1905,
+          "right": 442,
+          "bottom": 1924
+        },
+        {
+          "text": "giiltigen",
+          "left": 453,
+          "top": 1904,
+          "right": 544,
+          "bottom": 1930
+        },
+        {
+          "text": "Gebihrenordnung",
+          "left": 555,
+          "top": 1904,
+          "right": 768,
+          "bottom": 1930
+        },
+        {
+          "text": "fiir",
+          "left": 777,
+          "top": 1904,
+          "right": 810,
+          "bottom": 1924
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "giiltigen",
+          "left": 453,
+          "top": 1904,
+          "right": 544,
+          "bottom": 1930
+        },
+        {
+          "text": "Gebihrenordnung",
+          "left": 555,
+          "top": 1904,
+          "right": 768,
+          "bottom": 1930
+        },
+        {
+          "text": "fiir",
+          "left": 777,
+          "top": 1904,
+          "right": 810,
+          "bottom": 1924
+        },
+        {
+          "text": "Arzte",
+          "left": 819,
+          "top": 1901,
+          "right": 884,
+          "bottom": 1924
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Gebihrenordnung",
+          "left": 555,
+          "top": 1904,
+          "right": 768,
+          "bottom": 1930
+        },
+        {
+          "text": "fiir",
+          "left": 777,
+          "top": 1904,
+          "right": 810,
+          "bottom": 1924
+        },
+        {
+          "text": "Arzte",
+          "left": 819,
+          "top": 1901,
+          "right": 884,
+          "bottom": 1924
+        },
+        {
+          "text": "vom",
+          "left": 894,
+          "top": 1910,
+          "right": 941,
+          "bottom": 1924
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "fiir",
+          "left": 777,
+          "top": 1904,
+          "right": 810,
+          "bottom": 1924
+        },
+        {
+          "text": "Arzte",
+          "left": 819,
+          "top": 1901,
+          "right": 884,
+          "bottom": 1924
+        },
+        {
+          "text": "vom",
+          "left": 894,
+          "top": 1910,
+          "right": 941,
+          "bottom": 1924
+        },
+        {
+          "text": "01.01.2002",
+          "left": 955,
+          "top": 1905,
+          "right": 1085,
+          "bottom": 1924
+        }
+      ],
+      "parses": {
+        "date": "01-01-2002"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Bitte",
+          "left": 159,
+          "top": 1990,
+          "right": 213,
+          "bottom": 2009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "zahlen",
+          "left": 222,
+          "top": 1990,
+          "right": 299,
+          "bottom": 2009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Sie",
+          "left": 310,
+          "top": 1989,
+          "right": 348,
+          "bottom": 2009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "den",
+          "left": 357,
+          "top": 1990,
+          "right": 399,
+          "bottom": 2009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "angegebenen",
+          "left": 409,
+          "top": 1990,
+          "right": 566,
+          "bottom": 2015
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Betrag",
+          "left": 578,
+          "top": 1990,
+          "right": 656,
+          "bottom": 2015
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "bis",
+          "left": 667,
+          "top": 1990,
+          "right": 699,
+          "bottom": 2009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "zum",
+          "left": 708,
+          "top": 1995,
+          "right": 757,
+          "bottom": 2009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "02.09.2020",
+          "left": 778,
+          "top": 1990,
+          "right": 910,
+          "bottom": 2009
+        }
+      ],
+      "parses": {
+        "date": "02-09-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Bitte",
+          "left": 159,
+          "top": 1990,
+          "right": 213,
+          "bottom": 2009
+        },
+        {
+          "text": "zahlen",
+          "left": 222,
+          "top": 1990,
+          "right": 299,
+          "bottom": 2009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "zahlen",
+          "left": 222,
+          "top": 1990,
+          "right": 299,
+          "bottom": 2009
+        },
+        {
+          "text": "Sie",
+          "left": 310,
+          "top": 1989,
+          "right": 348,
+          "bottom": 2009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Sie",
+          "left": 310,
+          "top": 1989,
+          "right": 348,
+          "bottom": 2009
+        },
+        {
+          "text": "den",
+          "left": 357,
+          "top": 1990,
+          "right": 399,
+          "bottom": 2009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "den",
+          "left": 357,
+          "top": 1990,
+          "right": 399,
+          "bottom": 2009
+        },
+        {
+          "text": "angegebenen",
+          "left": 409,
+          "top": 1990,
+          "right": 566,
+          "bottom": 2015
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "angegebenen",
+          "left": 409,
+          "top": 1990,
+          "right": 566,
+          "bottom": 2015
+        },
+        {
+          "text": "Betrag",
+          "left": 578,
+          "top": 1990,
+          "right": 656,
+          "bottom": 2015
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Betrag",
+          "left": 578,
+          "top": 1990,
+          "right": 656,
+          "bottom": 2015
+        },
+        {
+          "text": "bis",
+          "left": 667,
+          "top": 1990,
+          "right": 699,
+          "bottom": 2009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "bis",
+          "left": 667,
+          "top": 1990,
+          "right": 699,
+          "bottom": 2009
+        },
+        {
+          "text": "zum",
+          "left": 708,
+          "top": 1995,
+          "right": 757,
+          "bottom": 2009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "zum",
+          "left": 708,
+          "top": 1995,
+          "right": 757,
+          "bottom": 2009
+        },
+        {
+          "text": "02.09.2020",
+          "left": 778,
+          "top": 1990,
+          "right": 910,
+          "bottom": 2009
+        }
+      ],
+      "parses": {
+        "date": "02-09-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Bitte",
+          "left": 159,
+          "top": 1990,
+          "right": 213,
+          "bottom": 2009
+        },
+        {
+          "text": "zahlen",
+          "left": 222,
+          "top": 1990,
+          "right": 299,
+          "bottom": 2009
+        },
+        {
+          "text": "Sie",
+          "left": 310,
+          "top": 1989,
+          "right": 348,
+          "bottom": 2009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "zahlen",
+          "left": 222,
+          "top": 1990,
+          "right": 299,
+          "bottom": 2009
+        },
+        {
+          "text": "Sie",
+          "left": 310,
+          "top": 1989,
+          "right": 348,
+          "bottom": 2009
+        },
+        {
+          "text": "den",
+          "left": 357,
+          "top": 1990,
+          "right": 399,
+          "bottom": 2009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Sie",
+          "left": 310,
+          "top": 1989,
+          "right": 348,
+          "bottom": 2009
+        },
+        {
+          "text": "den",
+          "left": 357,
+          "top": 1990,
+          "right": 399,
+          "bottom": 2009
+        },
+        {
+          "text": "angegebenen",
+          "left": 409,
+          "top": 1990,
+          "right": 566,
+          "bottom": 2015
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "den",
+          "left": 357,
+          "top": 1990,
+          "right": 399,
+          "bottom": 2009
+        },
+        {
+          "text": "angegebenen",
+          "left": 409,
+          "top": 1990,
+          "right": 566,
+          "bottom": 2015
+        },
+        {
+          "text": "Betrag",
+          "left": 578,
+          "top": 1990,
+          "right": 656,
+          "bottom": 2015
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "angegebenen",
+          "left": 409,
+          "top": 1990,
+          "right": 566,
+          "bottom": 2015
+        },
+        {
+          "text": "Betrag",
+          "left": 578,
+          "top": 1990,
+          "right": 656,
+          "bottom": 2015
+        },
+        {
+          "text": "bis",
+          "left": 667,
+          "top": 1990,
+          "right": 699,
+          "bottom": 2009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Betrag",
+          "left": 578,
+          "top": 1990,
+          "right": 656,
+          "bottom": 2015
+        },
+        {
+          "text": "bis",
+          "left": 667,
+          "top": 1990,
+          "right": 699,
+          "bottom": 2009
+        },
+        {
+          "text": "zum",
+          "left": 708,
+          "top": 1995,
+          "right": 757,
+          "bottom": 2009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "bis",
+          "left": 667,
+          "top": 1990,
+          "right": 699,
+          "bottom": 2009
+        },
+        {
+          "text": "zum",
+          "left": 708,
+          "top": 1995,
+          "right": 757,
+          "bottom": 2009
+        },
+        {
+          "text": "02.09.2020",
+          "left": 778,
+          "top": 1990,
+          "right": 910,
+          "bottom": 2009
+        }
+      ],
+      "parses": {
+        "date": "02-09-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Bitte",
+          "left": 159,
+          "top": 1990,
+          "right": 213,
+          "bottom": 2009
+        },
+        {
+          "text": "zahlen",
+          "left": 222,
+          "top": 1990,
+          "right": 299,
+          "bottom": 2009
+        },
+        {
+          "text": "Sie",
+          "left": 310,
+          "top": 1989,
+          "right": 348,
+          "bottom": 2009
+        },
+        {
+          "text": "den",
+          "left": 357,
+          "top": 1990,
+          "right": 399,
+          "bottom": 2009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "zahlen",
+          "left": 222,
+          "top": 1990,
+          "right": 299,
+          "bottom": 2009
+        },
+        {
+          "text": "Sie",
+          "left": 310,
+          "top": 1989,
+          "right": 348,
+          "bottom": 2009
+        },
+        {
+          "text": "den",
+          "left": 357,
+          "top": 1990,
+          "right": 399,
+          "bottom": 2009
+        },
+        {
+          "text": "angegebenen",
+          "left": 409,
+          "top": 1990,
+          "right": 566,
+          "bottom": 2015
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Sie",
+          "left": 310,
+          "top": 1989,
+          "right": 348,
+          "bottom": 2009
+        },
+        {
+          "text": "den",
+          "left": 357,
+          "top": 1990,
+          "right": 399,
+          "bottom": 2009
+        },
+        {
+          "text": "angegebenen",
+          "left": 409,
+          "top": 1990,
+          "right": 566,
+          "bottom": 2015
+        },
+        {
+          "text": "Betrag",
+          "left": 578,
+          "top": 1990,
+          "right": 656,
+          "bottom": 2015
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "den",
+          "left": 357,
+          "top": 1990,
+          "right": 399,
+          "bottom": 2009
+        },
+        {
+          "text": "angegebenen",
+          "left": 409,
+          "top": 1990,
+          "right": 566,
+          "bottom": 2015
+        },
+        {
+          "text": "Betrag",
+          "left": 578,
+          "top": 1990,
+          "right": 656,
+          "bottom": 2015
+        },
+        {
+          "text": "bis",
+          "left": 667,
+          "top": 1990,
+          "right": 699,
+          "bottom": 2009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "angegebenen",
+          "left": 409,
+          "top": 1990,
+          "right": 566,
+          "bottom": 2015
+        },
+        {
+          "text": "Betrag",
+          "left": 578,
+          "top": 1990,
+          "right": 656,
+          "bottom": 2015
+        },
+        {
+          "text": "bis",
+          "left": 667,
+          "top": 1990,
+          "right": 699,
+          "bottom": 2009
+        },
+        {
+          "text": "zum",
+          "left": 708,
+          "top": 1995,
+          "right": 757,
+          "bottom": 2009
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Betrag",
+          "left": 578,
+          "top": 1990,
+          "right": 656,
+          "bottom": 2015
+        },
+        {
+          "text": "bis",
+          "left": 667,
+          "top": 1990,
+          "right": 699,
+          "bottom": 2009
+        },
+        {
+          "text": "zum",
+          "left": 708,
+          "top": 1995,
+          "right": 757,
+          "bottom": 2009
+        },
+        {
+          "text": "02.09.2020",
+          "left": 778,
+          "top": 1990,
+          "right": 910,
+          "bottom": 2009
+        }
+      ],
+      "parses": {
+        "date": "02-09-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 136,
+          "top": 2060,
+          "right": 1506,
+          "bottom": 2066
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Bankverbindung:",
+          "left": 155,
+          "top": 2069,
+          "right": 374,
+          "bottom": 2094
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 136,
+          "top": 2060,
+          "right": 1506,
+          "bottom": 2066
+        },
+        {
+          "text": "Bankverbindung:",
+          "left": 155,
+          "top": 2069,
+          "right": 374,
+          "bottom": 2094
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "HypoVereinsbank",
+          "left": 155,
+          "top": 2119,
+          "right": 344,
+          "bottom": 2142
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Unicredit",
+          "left": 352,
+          "top": 2119,
+          "right": 446,
+          "bottom": 2137
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "HypoVereinsbank",
+          "left": 155,
+          "top": 2119,
+          "right": 344,
+          "bottom": 2142
+        },
+        {
+          "text": "Unicredit",
+          "left": 352,
+          "top": 2119,
+          "right": 446,
+          "bottom": 2137
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "BIC:",
+          "left": 782,
+          "top": 2119,
+          "right": 826,
+          "bottom": 2137
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "HYVEDEMM445",
+          "left": 842,
+          "top": 2119,
+          "right": 1025,
+          "bottom": 2137
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "__sIBAN:",
+          "left": 1056,
+          "top": 2119,
+          "right": 1116,
+          "bottom": 2137
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "DE27",
+          "left": 1132,
+          "top": 2119,
+          "right": 1193,
+          "bottom": 2137
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "7402",
+          "left": 1202,
+          "top": 2119,
+          "right": 1257,
+          "bottom": 2137
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "0074",
+          "left": 1265,
+          "top": 2119,
+          "right": 1321,
+          "bottom": 2137
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "0028",
+          "left": 1330,
+          "top": 2119,
+          "right": 1385,
+          "bottom": 2137
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "0682",
+          "left": 1394,
+          "top": 2119,
+          "right": 1450,
+          "bottom": 2137
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "98",
+          "left": 1459,
+          "top": 2119,
+          "right": 1485,
+          "bottom": 2137
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "BIC:",
+          "left": 782,
+          "top": 2119,
+          "right": 826,
+          "bottom": 2137
+        },
+        {
+          "text": "HYVEDEMM445",
+          "left": 842,
+          "top": 2119,
+          "right": 1025,
+          "bottom": 2137
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "HYVEDEMM445",
+          "left": 842,
+          "top": 2119,
+          "right": 1025,
+          "bottom": 2137
+        },
+        {
+          "text": "__sIBAN:",
+          "left": 1056,
+          "top": 2119,
+          "right": 1116,
+          "bottom": 2137
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "__sIBAN:",
+          "left": 1056,
+          "top": 2119,
+          "right": 1116,
+          "bottom": 2137
+        },
+        {
+          "text": "DE27",
+          "left": 1132,
+          "top": 2119,
+          "right": 1193,
+          "bottom": 2137
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "DE27",
+          "left": 1132,
+          "top": 2119,
+          "right": 1193,
+          "bottom": 2137
+        },
+        {
+          "text": "7402",
+          "left": 1202,
+          "top": 2119,
+          "right": 1257,
+          "bottom": 2137
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "7402",
+          "left": 1202,
+          "top": 2119,
+          "right": 1257,
+          "bottom": 2137
+        },
+        {
+          "text": "0074",
+          "left": 1265,
+          "top": 2119,
+          "right": 1321,
+          "bottom": 2137
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "0074",
+          "left": 1265,
+          "top": 2119,
+          "right": 1321,
+          "bottom": 2137
+        },
+        {
+          "text": "0028",
+          "left": 1330,
+          "top": 2119,
+          "right": 1385,
+          "bottom": 2137
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "0028",
+          "left": 1330,
+          "top": 2119,
+          "right": 1385,
+          "bottom": 2137
+        },
+        {
+          "text": "0682",
+          "left": 1394,
+          "top": 2119,
+          "right": 1450,
+          "bottom": 2137
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "0682",
+          "left": 1394,
+          "top": 2119,
+          "right": 1450,
+          "bottom": 2137
+        },
+        {
+          "text": "98",
+          "left": 1459,
+          "top": 2119,
+          "right": 1485,
+          "bottom": 2137
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "BIC:",
+          "left": 782,
+          "top": 2119,
+          "right": 826,
+          "bottom": 2137
+        },
+        {
+          "text": "HYVEDEMM445",
+          "left": 842,
+          "top": 2119,
+          "right": 1025,
+          "bottom": 2137
+        },
+        {
+          "text": "__sIBAN:",
+          "left": 1056,
+          "top": 2119,
+          "right": 1116,
+          "bottom": 2137
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "HYVEDEMM445",
+          "left": 842,
+          "top": 2119,
+          "right": 1025,
+          "bottom": 2137
+        },
+        {
+          "text": "__sIBAN:",
+          "left": 1056,
+          "top": 2119,
+          "right": 1116,
+          "bottom": 2137
+        },
+        {
+          "text": "DE27",
+          "left": 1132,
+          "top": 2119,
+          "right": 1193,
+          "bottom": 2137
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "__sIBAN:",
+          "left": 1056,
+          "top": 2119,
+          "right": 1116,
+          "bottom": 2137
+        },
+        {
+          "text": "DE27",
+          "left": 1132,
+          "top": 2119,
+          "right": 1193,
+          "bottom": 2137
+        },
+        {
+          "text": "7402",
+          "left": 1202,
+          "top": 2119,
+          "right": 1257,
+          "bottom": 2137
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "DE27",
+          "left": 1132,
+          "top": 2119,
+          "right": 1193,
+          "bottom": 2137
+        },
+        {
+          "text": "7402",
+          "left": 1202,
+          "top": 2119,
+          "right": 1257,
+          "bottom": 2137
+        },
+        {
+          "text": "0074",
+          "left": 1265,
+          "top": 2119,
+          "right": 1321,
+          "bottom": 2137
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "7402",
+          "left": 1202,
+          "top": 2119,
+          "right": 1257,
+          "bottom": 2137
+        },
+        {
+          "text": "0074",
+          "left": 1265,
+          "top": 2119,
+          "right": 1321,
+          "bottom": 2137
+        },
+        {
+          "text": "0028",
+          "left": 1330,
+          "top": 2119,
+          "right": 1385,
+          "bottom": 2137
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "0074",
+          "left": 1265,
+          "top": 2119,
+          "right": 1321,
+          "bottom": 2137
+        },
+        {
+          "text": "0028",
+          "left": 1330,
+          "top": 2119,
+          "right": 1385,
+          "bottom": 2137
+        },
+        {
+          "text": "0682",
+          "left": 1394,
+          "top": 2119,
+          "right": 1450,
+          "bottom": 2137
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "0028",
+          "left": 1330,
+          "top": 2119,
+          "right": 1385,
+          "bottom": 2137
+        },
+        {
+          "text": "0682",
+          "left": 1394,
+          "top": 2119,
+          "right": 1450,
+          "bottom": 2137
+        },
+        {
+          "text": "98",
+          "left": 1459,
+          "top": 2119,
+          "right": 1485,
+          "bottom": 2137
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "BIC:",
+          "left": 782,
+          "top": 2119,
+          "right": 826,
+          "bottom": 2137
+        },
+        {
+          "text": "HYVEDEMM445",
+          "left": 842,
+          "top": 2119,
+          "right": 1025,
+          "bottom": 2137
+        },
+        {
+          "text": "__sIBAN:",
+          "left": 1056,
+          "top": 2119,
+          "right": 1116,
+          "bottom": 2137
+        },
+        {
+          "text": "DE27",
+          "left": 1132,
+          "top": 2119,
+          "right": 1193,
+          "bottom": 2137
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "HYVEDEMM445",
+          "left": 842,
+          "top": 2119,
+          "right": 1025,
+          "bottom": 2137
+        },
+        {
+          "text": "__sIBAN:",
+          "left": 1056,
+          "top": 2119,
+          "right": 1116,
+          "bottom": 2137
+        },
+        {
+          "text": "DE27",
+          "left": 1132,
+          "top": 2119,
+          "right": 1193,
+          "bottom": 2137
+        },
+        {
+          "text": "7402",
+          "left": 1202,
+          "top": 2119,
+          "right": 1257,
+          "bottom": 2137
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "__sIBAN:",
+          "left": 1056,
+          "top": 2119,
+          "right": 1116,
+          "bottom": 2137
+        },
+        {
+          "text": "DE27",
+          "left": 1132,
+          "top": 2119,
+          "right": 1193,
+          "bottom": 2137
+        },
+        {
+          "text": "7402",
+          "left": 1202,
+          "top": 2119,
+          "right": 1257,
+          "bottom": 2137
+        },
+        {
+          "text": "0074",
+          "left": 1265,
+          "top": 2119,
+          "right": 1321,
+          "bottom": 2137
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "DE27",
+          "left": 1132,
+          "top": 2119,
+          "right": 1193,
+          "bottom": 2137
+        },
+        {
+          "text": "7402",
+          "left": 1202,
+          "top": 2119,
+          "right": 1257,
+          "bottom": 2137
+        },
+        {
+          "text": "0074",
+          "left": 1265,
+          "top": 2119,
+          "right": 1321,
+          "bottom": 2137
+        },
+        {
+          "text": "0028",
+          "left": 1330,
+          "top": 2119,
+          "right": 1385,
+          "bottom": 2137
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "7402",
+          "left": 1202,
+          "top": 2119,
+          "right": 1257,
+          "bottom": 2137
+        },
+        {
+          "text": "0074",
+          "left": 1265,
+          "top": 2119,
+          "right": 1321,
+          "bottom": 2137
+        },
+        {
+          "text": "0028",
+          "left": 1330,
+          "top": 2119,
+          "right": 1385,
+          "bottom": 2137
+        },
+        {
+          "text": "0682",
+          "left": 1394,
+          "top": 2119,
+          "right": 1450,
+          "bottom": 2137
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "0074",
+          "left": 1265,
+          "top": 2119,
+          "right": 1321,
+          "bottom": 2137
+        },
+        {
+          "text": "0028",
+          "left": 1330,
+          "top": 2119,
+          "right": 1385,
+          "bottom": 2137
+        },
+        {
+          "text": "0682",
+          "left": 1394,
+          "top": 2119,
+          "right": 1450,
+          "bottom": 2137
+        },
+        {
+          "text": "98",
+          "left": 1459,
+          "top": 2119,
+          "right": 1485,
+          "bottom": 2137
+        }
+      ],
+      "parses": {}
+    }
+  ],
+  "height": 2339,
+  "width": 1653,
+  "filename": "/Users/daniel/dev/InvoiceNet/processed_data/val/Rechnung-724.png"
+}

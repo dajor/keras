@@ -1,0 +1,5820 @@
+{
+  "fields": {
+    "invoice_number": "06/20",
+    "vendor_name": "Thomas Rotheichner",
+    "invoice_date": "",
+    "net_amount": "00.00",
+    "tax_amount": "74.25",
+    "total_amount": "74.25"
+  },
+  "nGrams": [
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 174,
+          "top": 160,
+          "right": 387,
+          "bottom": 362
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Thomas",
+          "left": 690,
+          "top": 366,
+          "right": 804,
+          "bottom": 389
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Rotheichner",
+          "left": 816,
+          "top": 366,
+          "right": 984,
+          "bottom": 389
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Thomas",
+          "left": 690,
+          "top": 366,
+          "right": 804,
+          "bottom": 389
+        },
+        {
+          "text": "Rotheichner",
+          "left": 816,
+          "top": 366,
+          "right": 984,
+          "bottom": 389
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Herr",
+          "left": 160,
+          "top": 515,
+          "right": 218,
+          "bottom": 535
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Daniel",
+          "left": 160,
+          "top": 550,
+          "right": 247,
+          "bottom": 575
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Jordan",
+          "left": 259,
+          "top": 550,
+          "right": 356,
+          "bottom": 575
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Daniel",
+          "left": 160,
+          "top": 550,
+          "right": 247,
+          "bottom": 575
+        },
+        {
+          "text": "Jordan",
+          "left": 259,
+          "top": 550,
+          "right": 356,
+          "bottom": 575
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Anzingerstrasse",
+          "left": 158,
+          "top": 590,
+          "right": 389,
+          "bottom": 623
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "21",
+          "left": 401,
+          "top": 593,
+          "right": 429,
+          "bottom": 615
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Anzingerstrasse",
+          "left": 158,
+          "top": 590,
+          "right": 389,
+          "bottom": 623
+        },
+        {
+          "text": "21",
+          "left": 401,
+          "top": 593,
+          "right": 429,
+          "bottom": 615
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "85586",
+          "left": 160,
+          "top": 636,
+          "right": 239,
+          "bottom": 656
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Poing",
+          "left": 251,
+          "top": 633,
+          "right": 322,
+          "bottom": 663
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "85586",
+          "left": 160,
+          "top": 636,
+          "right": 239,
+          "bottom": 656
+        },
+        {
+          "text": "Poing",
+          "left": 251,
+          "top": 633,
+          "right": 322,
+          "bottom": 663
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Office",
+          "left": 1144,
+          "top": 632,
+          "right": 1229,
+          "bottom": 657
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Floor",
+          "left": 1242,
+          "top": 633,
+          "right": 1312,
+          "bottom": 656
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Cleaning",
+          "left": 1324,
+          "top": 633,
+          "right": 1446,
+          "bottom": 663
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Office",
+          "left": 1144,
+          "top": 632,
+          "right": 1229,
+          "bottom": 657
+        },
+        {
+          "text": "Floor",
+          "left": 1242,
+          "top": 633,
+          "right": 1312,
+          "bottom": 656
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Floor",
+          "left": 1242,
+          "top": 633,
+          "right": 1312,
+          "bottom": 656
+        },
+        {
+          "text": "Cleaning",
+          "left": 1324,
+          "top": 633,
+          "right": 1446,
+          "bottom": 663
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Office",
+          "left": 1144,
+          "top": 632,
+          "right": 1229,
+          "bottom": 657
+        },
+        {
+          "text": "Floor",
+          "left": 1242,
+          "top": 633,
+          "right": 1312,
+          "bottom": 656
+        },
+        {
+          "text": "Cleaning",
+          "left": 1324,
+          "top": 633,
+          "right": 1446,
+          "bottom": 663
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Parkett/Laminat/Lino/PVC",
+          "left": 1154,
+          "top": 682,
+          "right": 1516,
+          "bottom": 707
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Gartenhilfe",
+          "left": 1144,
+          "top": 781,
+          "right": 1298,
+          "bottom": 806
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Gartenpflege",
+          "left": 1144,
+          "top": 830,
+          "right": 1328,
+          "bottom": 861
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Freelancer",
+          "left": 1144,
+          "top": 881,
+          "right": 1294,
+          "bottom": 904
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "QUOVADIS",
+          "left": 1307,
+          "top": 881,
+          "right": 1461,
+          "bottom": 906
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Freelancer",
+          "left": 1144,
+          "top": 881,
+          "right": 1294,
+          "bottom": 904
+        },
+        {
+          "text": "QUOVADIS",
+          "left": 1307,
+          "top": 881,
+          "right": 1461,
+          "bottom": 906
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "RECHNUNG",
+          "left": 691,
+          "top": 1012,
+          "right": 881,
+          "bottom": 1034
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "06/20",
+          "left": 896,
+          "top": 1012,
+          "right": 983,
+          "bottom": 1034
+        }
+      ],
+      "parses": {
+        "date": "06-20-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "RECHNUNG",
+          "left": 691,
+          "top": 1012,
+          "right": 881,
+          "bottom": 1034
+        },
+        {
+          "text": "06/20",
+          "left": 896,
+          "top": 1012,
+          "right": 983,
+          "bottom": 1034
+        }
+      ],
+      "parses": {
+        "date": "06-20-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "wie",
+          "left": 158,
+          "top": 1090,
+          "right": 207,
+          "bottom": 1115
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "vereinbart",
+          "left": 218,
+          "top": 1090,
+          "right": 365,
+          "bottom": 1115
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "erhalten",
+          "left": 376,
+          "top": 1090,
+          "right": 492,
+          "bottom": 1115
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Sie",
+          "left": 504,
+          "top": 1090,
+          "right": 544,
+          "bottom": 1115
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "fuer",
+          "left": 555,
+          "top": 1090,
+          "right": 615,
+          "bottom": 1115
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Juli",
+          "left": 625,
+          "top": 1090,
+          "right": 670,
+          "bottom": 1115
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "2020",
+          "left": 683,
+          "top": 1093,
+          "right": 752,
+          "bottom": 1115
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "folg.",
+          "left": 763,
+          "top": 1090,
+          "right": 827,
+          "bottom": 1123
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Abrechnung:",
+          "left": 838,
+          "top": 1090,
+          "right": 1021,
+          "bottom": 1123
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "wie",
+          "left": 158,
+          "top": 1090,
+          "right": 207,
+          "bottom": 1115
+        },
+        {
+          "text": "vereinbart",
+          "left": 218,
+          "top": 1090,
+          "right": 365,
+          "bottom": 1115
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "vereinbart",
+          "left": 218,
+          "top": 1090,
+          "right": 365,
+          "bottom": 1115
+        },
+        {
+          "text": "erhalten",
+          "left": 376,
+          "top": 1090,
+          "right": 492,
+          "bottom": 1115
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "erhalten",
+          "left": 376,
+          "top": 1090,
+          "right": 492,
+          "bottom": 1115
+        },
+        {
+          "text": "Sie",
+          "left": 504,
+          "top": 1090,
+          "right": 544,
+          "bottom": 1115
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Sie",
+          "left": 504,
+          "top": 1090,
+          "right": 544,
+          "bottom": 1115
+        },
+        {
+          "text": "fuer",
+          "left": 555,
+          "top": 1090,
+          "right": 615,
+          "bottom": 1115
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "fuer",
+          "left": 555,
+          "top": 1090,
+          "right": 615,
+          "bottom": 1115
+        },
+        {
+          "text": "Juli",
+          "left": 625,
+          "top": 1090,
+          "right": 670,
+          "bottom": 1115
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Juli",
+          "left": 625,
+          "top": 1090,
+          "right": 670,
+          "bottom": 1115
+        },
+        {
+          "text": "2020",
+          "left": 683,
+          "top": 1093,
+          "right": 752,
+          "bottom": 1115
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "2020",
+          "left": 683,
+          "top": 1093,
+          "right": 752,
+          "bottom": 1115
+        },
+        {
+          "text": "folg.",
+          "left": 763,
+          "top": 1090,
+          "right": 827,
+          "bottom": 1123
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "folg.",
+          "left": 763,
+          "top": 1090,
+          "right": 827,
+          "bottom": 1123
+        },
+        {
+          "text": "Abrechnung:",
+          "left": 838,
+          "top": 1090,
+          "right": 1021,
+          "bottom": 1123
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "wie",
+          "left": 158,
+          "top": 1090,
+          "right": 207,
+          "bottom": 1115
+        },
+        {
+          "text": "vereinbart",
+          "left": 218,
+          "top": 1090,
+          "right": 365,
+          "bottom": 1115
+        },
+        {
+          "text": "erhalten",
+          "left": 376,
+          "top": 1090,
+          "right": 492,
+          "bottom": 1115
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "vereinbart",
+          "left": 218,
+          "top": 1090,
+          "right": 365,
+          "bottom": 1115
+        },
+        {
+          "text": "erhalten",
+          "left": 376,
+          "top": 1090,
+          "right": 492,
+          "bottom": 1115
+        },
+        {
+          "text": "Sie",
+          "left": 504,
+          "top": 1090,
+          "right": 544,
+          "bottom": 1115
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "erhalten",
+          "left": 376,
+          "top": 1090,
+          "right": 492,
+          "bottom": 1115
+        },
+        {
+          "text": "Sie",
+          "left": 504,
+          "top": 1090,
+          "right": 544,
+          "bottom": 1115
+        },
+        {
+          "text": "fuer",
+          "left": 555,
+          "top": 1090,
+          "right": 615,
+          "bottom": 1115
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Sie",
+          "left": 504,
+          "top": 1090,
+          "right": 544,
+          "bottom": 1115
+        },
+        {
+          "text": "fuer",
+          "left": 555,
+          "top": 1090,
+          "right": 615,
+          "bottom": 1115
+        },
+        {
+          "text": "Juli",
+          "left": 625,
+          "top": 1090,
+          "right": 670,
+          "bottom": 1115
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "fuer",
+          "left": 555,
+          "top": 1090,
+          "right": 615,
+          "bottom": 1115
+        },
+        {
+          "text": "Juli",
+          "left": 625,
+          "top": 1090,
+          "right": 670,
+          "bottom": 1115
+        },
+        {
+          "text": "2020",
+          "left": 683,
+          "top": 1093,
+          "right": 752,
+          "bottom": 1115
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Juli",
+          "left": 625,
+          "top": 1090,
+          "right": 670,
+          "bottom": 1115
+        },
+        {
+          "text": "2020",
+          "left": 683,
+          "top": 1093,
+          "right": 752,
+          "bottom": 1115
+        },
+        {
+          "text": "folg.",
+          "left": 763,
+          "top": 1090,
+          "right": 827,
+          "bottom": 1123
+        }
+      ],
+      "parses": {
+        "date": "10-03-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "2020",
+          "left": 683,
+          "top": 1093,
+          "right": 752,
+          "bottom": 1115
+        },
+        {
+          "text": "folg.",
+          "left": 763,
+          "top": 1090,
+          "right": 827,
+          "bottom": 1123
+        },
+        {
+          "text": "Abrechnung:",
+          "left": 838,
+          "top": 1090,
+          "right": 1021,
+          "bottom": 1123
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "wie",
+          "left": 158,
+          "top": 1090,
+          "right": 207,
+          "bottom": 1115
+        },
+        {
+          "text": "vereinbart",
+          "left": 218,
+          "top": 1090,
+          "right": 365,
+          "bottom": 1115
+        },
+        {
+          "text": "erhalten",
+          "left": 376,
+          "top": 1090,
+          "right": 492,
+          "bottom": 1115
+        },
+        {
+          "text": "Sie",
+          "left": 504,
+          "top": 1090,
+          "right": 544,
+          "bottom": 1115
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "vereinbart",
+          "left": 218,
+          "top": 1090,
+          "right": 365,
+          "bottom": 1115
+        },
+        {
+          "text": "erhalten",
+          "left": 376,
+          "top": 1090,
+          "right": 492,
+          "bottom": 1115
+        },
+        {
+          "text": "Sie",
+          "left": 504,
+          "top": 1090,
+          "right": 544,
+          "bottom": 1115
+        },
+        {
+          "text": "fuer",
+          "left": 555,
+          "top": 1090,
+          "right": 615,
+          "bottom": 1115
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "erhalten",
+          "left": 376,
+          "top": 1090,
+          "right": 492,
+          "bottom": 1115
+        },
+        {
+          "text": "Sie",
+          "left": 504,
+          "top": 1090,
+          "right": 544,
+          "bottom": 1115
+        },
+        {
+          "text": "fuer",
+          "left": 555,
+          "top": 1090,
+          "right": 615,
+          "bottom": 1115
+        },
+        {
+          "text": "Juli",
+          "left": 625,
+          "top": 1090,
+          "right": 670,
+          "bottom": 1115
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Sie",
+          "left": 504,
+          "top": 1090,
+          "right": 544,
+          "bottom": 1115
+        },
+        {
+          "text": "fuer",
+          "left": 555,
+          "top": 1090,
+          "right": 615,
+          "bottom": 1115
+        },
+        {
+          "text": "Juli",
+          "left": 625,
+          "top": 1090,
+          "right": 670,
+          "bottom": 1115
+        },
+        {
+          "text": "2020",
+          "left": 683,
+          "top": 1093,
+          "right": 752,
+          "bottom": 1115
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "fuer",
+          "left": 555,
+          "top": 1090,
+          "right": 615,
+          "bottom": 1115
+        },
+        {
+          "text": "Juli",
+          "left": 625,
+          "top": 1090,
+          "right": 670,
+          "bottom": 1115
+        },
+        {
+          "text": "2020",
+          "left": 683,
+          "top": 1093,
+          "right": 752,
+          "bottom": 1115
+        },
+        {
+          "text": "folg.",
+          "left": 763,
+          "top": 1090,
+          "right": 827,
+          "bottom": 1123
+        }
+      ],
+      "parses": {
+        "date": "10-03-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Juli",
+          "left": 625,
+          "top": 1090,
+          "right": 670,
+          "bottom": 1115
+        },
+        {
+          "text": "2020",
+          "left": 683,
+          "top": 1093,
+          "right": 752,
+          "bottom": 1115
+        },
+        {
+          "text": "folg.",
+          "left": 763,
+          "top": 1090,
+          "right": 827,
+          "bottom": 1123
+        },
+        {
+          "text": "Abrechnung:",
+          "left": 838,
+          "top": 1090,
+          "right": 1021,
+          "bottom": 1123
+        }
+      ],
+      "parses": {
+        "date": "10-03-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "5,5",
+          "left": 160,
+          "top": 1175,
+          "right": 204,
+          "bottom": 1201
+        }
+      ],
+      "parses": {
+        "date": "05-05-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Stunden",
+          "left": 217,
+          "top": 1172,
+          "right": 343,
+          "bottom": 1196
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "a.)",
+          "left": 354,
+          "top": 1174,
+          "right": 389,
+          "bottom": 1202
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "13,50",
+          "left": 406,
+          "top": 1174,
+          "right": 488,
+          "bottom": 1201
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Euro/Stunde",
+          "left": 501,
+          "top": 1172,
+          "right": 691,
+          "bottom": 1196
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "5,5",
+          "left": 160,
+          "top": 1175,
+          "right": 204,
+          "bottom": 1201
+        },
+        {
+          "text": "Stunden",
+          "left": 217,
+          "top": 1172,
+          "right": 343,
+          "bottom": 1196
+        }
+      ],
+      "parses": {
+        "date": "05-05-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Stunden",
+          "left": 217,
+          "top": 1172,
+          "right": 343,
+          "bottom": 1196
+        },
+        {
+          "text": "a.)",
+          "left": 354,
+          "top": 1174,
+          "right": 389,
+          "bottom": 1202
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "a.)",
+          "left": 354,
+          "top": 1174,
+          "right": 389,
+          "bottom": 1202
+        },
+        {
+          "text": "13,50",
+          "left": 406,
+          "top": 1174,
+          "right": 488,
+          "bottom": 1201
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "13,50",
+          "left": 406,
+          "top": 1174,
+          "right": 488,
+          "bottom": 1201
+        },
+        {
+          "text": "Euro/Stunde",
+          "left": 501,
+          "top": 1172,
+          "right": 691,
+          "bottom": 1196
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "5,5",
+          "left": 160,
+          "top": 1175,
+          "right": 204,
+          "bottom": 1201
+        },
+        {
+          "text": "Stunden",
+          "left": 217,
+          "top": 1172,
+          "right": 343,
+          "bottom": 1196
+        },
+        {
+          "text": "a.)",
+          "left": 354,
+          "top": 1174,
+          "right": 389,
+          "bottom": 1202
+        }
+      ],
+      "parses": {
+        "date": "05-05-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Stunden",
+          "left": 217,
+          "top": 1172,
+          "right": 343,
+          "bottom": 1196
+        },
+        {
+          "text": "a.)",
+          "left": 354,
+          "top": 1174,
+          "right": 389,
+          "bottom": 1202
+        },
+        {
+          "text": "13,50",
+          "left": 406,
+          "top": 1174,
+          "right": 488,
+          "bottom": 1201
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "a.)",
+          "left": 354,
+          "top": 1174,
+          "right": 389,
+          "bottom": 1202
+        },
+        {
+          "text": "13,50",
+          "left": 406,
+          "top": 1174,
+          "right": 488,
+          "bottom": 1201
+        },
+        {
+          "text": "Euro/Stunde",
+          "left": 501,
+          "top": 1172,
+          "right": 691,
+          "bottom": 1196
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "5,5",
+          "left": 160,
+          "top": 1175,
+          "right": 204,
+          "bottom": 1201
+        },
+        {
+          "text": "Stunden",
+          "left": 217,
+          "top": 1172,
+          "right": 343,
+          "bottom": 1196
+        },
+        {
+          "text": "a.)",
+          "left": 354,
+          "top": 1174,
+          "right": 389,
+          "bottom": 1202
+        },
+        {
+          "text": "13,50",
+          "left": 406,
+          "top": 1174,
+          "right": 488,
+          "bottom": 1201
+        }
+      ],
+      "parses": {
+        "date": "05-05-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Stunden",
+          "left": 217,
+          "top": 1172,
+          "right": 343,
+          "bottom": 1196
+        },
+        {
+          "text": "a.)",
+          "left": 354,
+          "top": 1174,
+          "right": 389,
+          "bottom": 1202
+        },
+        {
+          "text": "13,50",
+          "left": 406,
+          "top": 1174,
+          "right": 488,
+          "bottom": 1201
+        },
+        {
+          "text": "Euro/Stunde",
+          "left": 501,
+          "top": 1172,
+          "right": 691,
+          "bottom": 1196
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "10.07.:",
+          "left": 164,
+          "top": 1214,
+          "right": 241,
+          "bottom": 1234
+        }
+      ],
+      "parses": {
+        "amount": "10.07"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Unkraut",
+          "left": 254,
+          "top": 1211,
+          "right": 355,
+          "bottom": 1234
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "entfernt",
+          "left": 365,
+          "top": 1211,
+          "right": 472,
+          "bottom": 1234
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "i.",
+          "left": 482,
+          "top": 1211,
+          "right": 492,
+          "bottom": 1234
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "vorderen",
+          "left": 502,
+          "top": 1211,
+          "right": 623,
+          "bottom": 1234
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Beet",
+          "left": 635,
+          "top": 1214,
+          "right": 709,
+          "bottom": 1239
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": ",",
+          "left": 698,
+          "top": 1207,
+          "right": 724,
+          "bottom": 1245
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Rasenmaehen,",
+          "left": 722,
+          "top": 1211,
+          "right": 912,
+          "bottom": 1239
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Laub",
+          "left": 924,
+          "top": 1211,
+          "right": 985,
+          "bottom": 1234
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "saugen",
+          "left": 996,
+          "top": 1219,
+          "right": 1088,
+          "bottom": 1241
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "in",
+          "left": 1100,
+          "top": 1211,
+          "right": 1119,
+          "bottom": 1234
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "den",
+          "left": 1130,
+          "top": 1211,
+          "right": 1177,
+          "bottom": 1234
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Eingaengen",
+          "left": 1190,
+          "top": 1211,
+          "right": 1341,
+          "bottom": 1241
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "und",
+          "left": 1353,
+          "top": 1211,
+          "right": 1399,
+          "bottom": 1234
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "10.07.:",
+          "left": 164,
+          "top": 1214,
+          "right": 241,
+          "bottom": 1234
+        },
+        {
+          "text": "Unkraut",
+          "left": 254,
+          "top": 1211,
+          "right": 355,
+          "bottom": 1234
+        }
+      ],
+      "parses": {
+        "amount": "10.07"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Unkraut",
+          "left": 254,
+          "top": 1211,
+          "right": 355,
+          "bottom": 1234
+        },
+        {
+          "text": "entfernt",
+          "left": 365,
+          "top": 1211,
+          "right": 472,
+          "bottom": 1234
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "entfernt",
+          "left": 365,
+          "top": 1211,
+          "right": 472,
+          "bottom": 1234
+        },
+        {
+          "text": "i.",
+          "left": 482,
+          "top": 1211,
+          "right": 492,
+          "bottom": 1234
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "i.",
+          "left": 482,
+          "top": 1211,
+          "right": 492,
+          "bottom": 1234
+        },
+        {
+          "text": "vorderen",
+          "left": 502,
+          "top": 1211,
+          "right": 623,
+          "bottom": 1234
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "vorderen",
+          "left": 502,
+          "top": 1211,
+          "right": 623,
+          "bottom": 1234
+        },
+        {
+          "text": "Beet",
+          "left": 635,
+          "top": 1214,
+          "right": 709,
+          "bottom": 1239
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Beet",
+          "left": 635,
+          "top": 1214,
+          "right": 709,
+          "bottom": 1239
+        },
+        {
+          "text": ",",
+          "left": 698,
+          "top": 1207,
+          "right": 724,
+          "bottom": 1245
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": ",",
+          "left": 698,
+          "top": 1207,
+          "right": 724,
+          "bottom": 1245
+        },
+        {
+          "text": "Rasenmaehen,",
+          "left": 722,
+          "top": 1211,
+          "right": 912,
+          "bottom": 1239
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Rasenmaehen,",
+          "left": 722,
+          "top": 1211,
+          "right": 912,
+          "bottom": 1239
+        },
+        {
+          "text": "Laub",
+          "left": 924,
+          "top": 1211,
+          "right": 985,
+          "bottom": 1234
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Laub",
+          "left": 924,
+          "top": 1211,
+          "right": 985,
+          "bottom": 1234
+        },
+        {
+          "text": "saugen",
+          "left": 996,
+          "top": 1219,
+          "right": 1088,
+          "bottom": 1241
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "saugen",
+          "left": 996,
+          "top": 1219,
+          "right": 1088,
+          "bottom": 1241
+        },
+        {
+          "text": "in",
+          "left": 1100,
+          "top": 1211,
+          "right": 1119,
+          "bottom": 1234
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "in",
+          "left": 1100,
+          "top": 1211,
+          "right": 1119,
+          "bottom": 1234
+        },
+        {
+          "text": "den",
+          "left": 1130,
+          "top": 1211,
+          "right": 1177,
+          "bottom": 1234
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "den",
+          "left": 1130,
+          "top": 1211,
+          "right": 1177,
+          "bottom": 1234
+        },
+        {
+          "text": "Eingaengen",
+          "left": 1190,
+          "top": 1211,
+          "right": 1341,
+          "bottom": 1241
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Eingaengen",
+          "left": 1190,
+          "top": 1211,
+          "right": 1341,
+          "bottom": 1241
+        },
+        {
+          "text": "und",
+          "left": 1353,
+          "top": 1211,
+          "right": 1399,
+          "bottom": 1234
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "10.07.:",
+          "left": 164,
+          "top": 1214,
+          "right": 241,
+          "bottom": 1234
+        },
+        {
+          "text": "Unkraut",
+          "left": 254,
+          "top": 1211,
+          "right": 355,
+          "bottom": 1234
+        },
+        {
+          "text": "entfernt",
+          "left": 365,
+          "top": 1211,
+          "right": 472,
+          "bottom": 1234
+        }
+      ],
+      "parses": {
+        "amount": "10.07"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Unkraut",
+          "left": 254,
+          "top": 1211,
+          "right": 355,
+          "bottom": 1234
+        },
+        {
+          "text": "entfernt",
+          "left": 365,
+          "top": 1211,
+          "right": 472,
+          "bottom": 1234
+        },
+        {
+          "text": "i.",
+          "left": 482,
+          "top": 1211,
+          "right": 492,
+          "bottom": 1234
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "entfernt",
+          "left": 365,
+          "top": 1211,
+          "right": 472,
+          "bottom": 1234
+        },
+        {
+          "text": "i.",
+          "left": 482,
+          "top": 1211,
+          "right": 492,
+          "bottom": 1234
+        },
+        {
+          "text": "vorderen",
+          "left": 502,
+          "top": 1211,
+          "right": 623,
+          "bottom": 1234
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "i.",
+          "left": 482,
+          "top": 1211,
+          "right": 492,
+          "bottom": 1234
+        },
+        {
+          "text": "vorderen",
+          "left": 502,
+          "top": 1211,
+          "right": 623,
+          "bottom": 1234
+        },
+        {
+          "text": "Beet",
+          "left": 635,
+          "top": 1214,
+          "right": 709,
+          "bottom": 1239
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "vorderen",
+          "left": 502,
+          "top": 1211,
+          "right": 623,
+          "bottom": 1234
+        },
+        {
+          "text": "Beet",
+          "left": 635,
+          "top": 1214,
+          "right": 709,
+          "bottom": 1239
+        },
+        {
+          "text": ",",
+          "left": 698,
+          "top": 1207,
+          "right": 724,
+          "bottom": 1245
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Beet",
+          "left": 635,
+          "top": 1214,
+          "right": 709,
+          "bottom": 1239
+        },
+        {
+          "text": ",",
+          "left": 698,
+          "top": 1207,
+          "right": 724,
+          "bottom": 1245
+        },
+        {
+          "text": "Rasenmaehen,",
+          "left": 722,
+          "top": 1211,
+          "right": 912,
+          "bottom": 1239
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": ",",
+          "left": 698,
+          "top": 1207,
+          "right": 724,
+          "bottom": 1245
+        },
+        {
+          "text": "Rasenmaehen,",
+          "left": 722,
+          "top": 1211,
+          "right": 912,
+          "bottom": 1239
+        },
+        {
+          "text": "Laub",
+          "left": 924,
+          "top": 1211,
+          "right": 985,
+          "bottom": 1234
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Rasenmaehen,",
+          "left": 722,
+          "top": 1211,
+          "right": 912,
+          "bottom": 1239
+        },
+        {
+          "text": "Laub",
+          "left": 924,
+          "top": 1211,
+          "right": 985,
+          "bottom": 1234
+        },
+        {
+          "text": "saugen",
+          "left": 996,
+          "top": 1219,
+          "right": 1088,
+          "bottom": 1241
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Laub",
+          "left": 924,
+          "top": 1211,
+          "right": 985,
+          "bottom": 1234
+        },
+        {
+          "text": "saugen",
+          "left": 996,
+          "top": 1219,
+          "right": 1088,
+          "bottom": 1241
+        },
+        {
+          "text": "in",
+          "left": 1100,
+          "top": 1211,
+          "right": 1119,
+          "bottom": 1234
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "saugen",
+          "left": 996,
+          "top": 1219,
+          "right": 1088,
+          "bottom": 1241
+        },
+        {
+          "text": "in",
+          "left": 1100,
+          "top": 1211,
+          "right": 1119,
+          "bottom": 1234
+        },
+        {
+          "text": "den",
+          "left": 1130,
+          "top": 1211,
+          "right": 1177,
+          "bottom": 1234
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "in",
+          "left": 1100,
+          "top": 1211,
+          "right": 1119,
+          "bottom": 1234
+        },
+        {
+          "text": "den",
+          "left": 1130,
+          "top": 1211,
+          "right": 1177,
+          "bottom": 1234
+        },
+        {
+          "text": "Eingaengen",
+          "left": 1190,
+          "top": 1211,
+          "right": 1341,
+          "bottom": 1241
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "den",
+          "left": 1130,
+          "top": 1211,
+          "right": 1177,
+          "bottom": 1234
+        },
+        {
+          "text": "Eingaengen",
+          "left": 1190,
+          "top": 1211,
+          "right": 1341,
+          "bottom": 1241
+        },
+        {
+          "text": "und",
+          "left": 1353,
+          "top": 1211,
+          "right": 1399,
+          "bottom": 1234
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "10.07.:",
+          "left": 164,
+          "top": 1214,
+          "right": 241,
+          "bottom": 1234
+        },
+        {
+          "text": "Unkraut",
+          "left": 254,
+          "top": 1211,
+          "right": 355,
+          "bottom": 1234
+        },
+        {
+          "text": "entfernt",
+          "left": 365,
+          "top": 1211,
+          "right": 472,
+          "bottom": 1234
+        },
+        {
+          "text": "i.",
+          "left": 482,
+          "top": 1211,
+          "right": 492,
+          "bottom": 1234
+        }
+      ],
+      "parses": {
+        "amount": "10.07"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Unkraut",
+          "left": 254,
+          "top": 1211,
+          "right": 355,
+          "bottom": 1234
+        },
+        {
+          "text": "entfernt",
+          "left": 365,
+          "top": 1211,
+          "right": 472,
+          "bottom": 1234
+        },
+        {
+          "text": "i.",
+          "left": 482,
+          "top": 1211,
+          "right": 492,
+          "bottom": 1234
+        },
+        {
+          "text": "vorderen",
+          "left": 502,
+          "top": 1211,
+          "right": 623,
+          "bottom": 1234
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "entfernt",
+          "left": 365,
+          "top": 1211,
+          "right": 472,
+          "bottom": 1234
+        },
+        {
+          "text": "i.",
+          "left": 482,
+          "top": 1211,
+          "right": 492,
+          "bottom": 1234
+        },
+        {
+          "text": "vorderen",
+          "left": 502,
+          "top": 1211,
+          "right": 623,
+          "bottom": 1234
+        },
+        {
+          "text": "Beet",
+          "left": 635,
+          "top": 1214,
+          "right": 709,
+          "bottom": 1239
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "i.",
+          "left": 482,
+          "top": 1211,
+          "right": 492,
+          "bottom": 1234
+        },
+        {
+          "text": "vorderen",
+          "left": 502,
+          "top": 1211,
+          "right": 623,
+          "bottom": 1234
+        },
+        {
+          "text": "Beet",
+          "left": 635,
+          "top": 1214,
+          "right": 709,
+          "bottom": 1239
+        },
+        {
+          "text": ",",
+          "left": 698,
+          "top": 1207,
+          "right": 724,
+          "bottom": 1245
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "vorderen",
+          "left": 502,
+          "top": 1211,
+          "right": 623,
+          "bottom": 1234
+        },
+        {
+          "text": "Beet",
+          "left": 635,
+          "top": 1214,
+          "right": 709,
+          "bottom": 1239
+        },
+        {
+          "text": ",",
+          "left": 698,
+          "top": 1207,
+          "right": 724,
+          "bottom": 1245
+        },
+        {
+          "text": "Rasenmaehen,",
+          "left": 722,
+          "top": 1211,
+          "right": 912,
+          "bottom": 1239
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Beet",
+          "left": 635,
+          "top": 1214,
+          "right": 709,
+          "bottom": 1239
+        },
+        {
+          "text": ",",
+          "left": 698,
+          "top": 1207,
+          "right": 724,
+          "bottom": 1245
+        },
+        {
+          "text": "Rasenmaehen,",
+          "left": 722,
+          "top": 1211,
+          "right": 912,
+          "bottom": 1239
+        },
+        {
+          "text": "Laub",
+          "left": 924,
+          "top": 1211,
+          "right": 985,
+          "bottom": 1234
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": ",",
+          "left": 698,
+          "top": 1207,
+          "right": 724,
+          "bottom": 1245
+        },
+        {
+          "text": "Rasenmaehen,",
+          "left": 722,
+          "top": 1211,
+          "right": 912,
+          "bottom": 1239
+        },
+        {
+          "text": "Laub",
+          "left": 924,
+          "top": 1211,
+          "right": 985,
+          "bottom": 1234
+        },
+        {
+          "text": "saugen",
+          "left": 996,
+          "top": 1219,
+          "right": 1088,
+          "bottom": 1241
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Rasenmaehen,",
+          "left": 722,
+          "top": 1211,
+          "right": 912,
+          "bottom": 1239
+        },
+        {
+          "text": "Laub",
+          "left": 924,
+          "top": 1211,
+          "right": 985,
+          "bottom": 1234
+        },
+        {
+          "text": "saugen",
+          "left": 996,
+          "top": 1219,
+          "right": 1088,
+          "bottom": 1241
+        },
+        {
+          "text": "in",
+          "left": 1100,
+          "top": 1211,
+          "right": 1119,
+          "bottom": 1234
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Laub",
+          "left": 924,
+          "top": 1211,
+          "right": 985,
+          "bottom": 1234
+        },
+        {
+          "text": "saugen",
+          "left": 996,
+          "top": 1219,
+          "right": 1088,
+          "bottom": 1241
+        },
+        {
+          "text": "in",
+          "left": 1100,
+          "top": 1211,
+          "right": 1119,
+          "bottom": 1234
+        },
+        {
+          "text": "den",
+          "left": 1130,
+          "top": 1211,
+          "right": 1177,
+          "bottom": 1234
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "saugen",
+          "left": 996,
+          "top": 1219,
+          "right": 1088,
+          "bottom": 1241
+        },
+        {
+          "text": "in",
+          "left": 1100,
+          "top": 1211,
+          "right": 1119,
+          "bottom": 1234
+        },
+        {
+          "text": "den",
+          "left": 1130,
+          "top": 1211,
+          "right": 1177,
+          "bottom": 1234
+        },
+        {
+          "text": "Eingaengen",
+          "left": 1190,
+          "top": 1211,
+          "right": 1341,
+          "bottom": 1241
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "in",
+          "left": 1100,
+          "top": 1211,
+          "right": 1119,
+          "bottom": 1234
+        },
+        {
+          "text": "den",
+          "left": 1130,
+          "top": 1211,
+          "right": 1177,
+          "bottom": 1234
+        },
+        {
+          "text": "Eingaengen",
+          "left": 1190,
+          "top": 1211,
+          "right": 1341,
+          "bottom": 1241
+        },
+        {
+          "text": "und",
+          "left": 1353,
+          "top": 1211,
+          "right": 1399,
+          "bottom": 1234
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Bueroterrasse,",
+          "left": 160,
+          "top": 1251,
+          "right": 353,
+          "bottom": 1276
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "kl.",
+          "left": 365,
+          "top": 1248,
+          "right": 389,
+          "bottom": 1271
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Aeste",
+          "left": 400,
+          "top": 1251,
+          "right": 474,
+          "bottom": 1271
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "eingesammelt",
+          "left": 485,
+          "top": 1248,
+          "right": 672,
+          "bottom": 1278
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "und",
+          "left": 682,
+          "top": 1248,
+          "right": 728,
+          "bottom": 1271
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "entsorgt.",
+          "left": 740,
+          "top": 1251,
+          "right": 856,
+          "bottom": 1278
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Bueroterrasse,",
+          "left": 160,
+          "top": 1251,
+          "right": 353,
+          "bottom": 1276
+        },
+        {
+          "text": "kl.",
+          "left": 365,
+          "top": 1248,
+          "right": 389,
+          "bottom": 1271
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "kl.",
+          "left": 365,
+          "top": 1248,
+          "right": 389,
+          "bottom": 1271
+        },
+        {
+          "text": "Aeste",
+          "left": 400,
+          "top": 1251,
+          "right": 474,
+          "bottom": 1271
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Aeste",
+          "left": 400,
+          "top": 1251,
+          "right": 474,
+          "bottom": 1271
+        },
+        {
+          "text": "eingesammelt",
+          "left": 485,
+          "top": 1248,
+          "right": 672,
+          "bottom": 1278
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "eingesammelt",
+          "left": 485,
+          "top": 1248,
+          "right": 672,
+          "bottom": 1278
+        },
+        {
+          "text": "und",
+          "left": 682,
+          "top": 1248,
+          "right": 728,
+          "bottom": 1271
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "und",
+          "left": 682,
+          "top": 1248,
+          "right": 728,
+          "bottom": 1271
+        },
+        {
+          "text": "entsorgt.",
+          "left": 740,
+          "top": 1251,
+          "right": 856,
+          "bottom": 1278
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Bueroterrasse,",
+          "left": 160,
+          "top": 1251,
+          "right": 353,
+          "bottom": 1276
+        },
+        {
+          "text": "kl.",
+          "left": 365,
+          "top": 1248,
+          "right": 389,
+          "bottom": 1271
+        },
+        {
+          "text": "Aeste",
+          "left": 400,
+          "top": 1251,
+          "right": 474,
+          "bottom": 1271
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "kl.",
+          "left": 365,
+          "top": 1248,
+          "right": 389,
+          "bottom": 1271
+        },
+        {
+          "text": "Aeste",
+          "left": 400,
+          "top": 1251,
+          "right": 474,
+          "bottom": 1271
+        },
+        {
+          "text": "eingesammelt",
+          "left": 485,
+          "top": 1248,
+          "right": 672,
+          "bottom": 1278
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Aeste",
+          "left": 400,
+          "top": 1251,
+          "right": 474,
+          "bottom": 1271
+        },
+        {
+          "text": "eingesammelt",
+          "left": 485,
+          "top": 1248,
+          "right": 672,
+          "bottom": 1278
+        },
+        {
+          "text": "und",
+          "left": 682,
+          "top": 1248,
+          "right": 728,
+          "bottom": 1271
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "eingesammelt",
+          "left": 485,
+          "top": 1248,
+          "right": 672,
+          "bottom": 1278
+        },
+        {
+          "text": "und",
+          "left": 682,
+          "top": 1248,
+          "right": 728,
+          "bottom": 1271
+        },
+        {
+          "text": "entsorgt.",
+          "left": 740,
+          "top": 1251,
+          "right": 856,
+          "bottom": 1278
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Bueroterrasse,",
+          "left": 160,
+          "top": 1251,
+          "right": 353,
+          "bottom": 1276
+        },
+        {
+          "text": "kl.",
+          "left": 365,
+          "top": 1248,
+          "right": 389,
+          "bottom": 1271
+        },
+        {
+          "text": "Aeste",
+          "left": 400,
+          "top": 1251,
+          "right": 474,
+          "bottom": 1271
+        },
+        {
+          "text": "eingesammelt",
+          "left": 485,
+          "top": 1248,
+          "right": 672,
+          "bottom": 1278
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "kl.",
+          "left": 365,
+          "top": 1248,
+          "right": 389,
+          "bottom": 1271
+        },
+        {
+          "text": "Aeste",
+          "left": 400,
+          "top": 1251,
+          "right": 474,
+          "bottom": 1271
+        },
+        {
+          "text": "eingesammelt",
+          "left": 485,
+          "top": 1248,
+          "right": 672,
+          "bottom": 1278
+        },
+        {
+          "text": "und",
+          "left": 682,
+          "top": 1248,
+          "right": 728,
+          "bottom": 1271
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Aeste",
+          "left": 400,
+          "top": 1251,
+          "right": 474,
+          "bottom": 1271
+        },
+        {
+          "text": "eingesammelt",
+          "left": 485,
+          "top": 1248,
+          "right": 672,
+          "bottom": 1278
+        },
+        {
+          "text": "und",
+          "left": 682,
+          "top": 1248,
+          "right": 728,
+          "bottom": 1271
+        },
+        {
+          "text": "entsorgt.",
+          "left": 740,
+          "top": 1251,
+          "right": 856,
+          "bottom": 1278
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "14.07.:",
+          "left": 164,
+          "top": 1288,
+          "right": 241,
+          "bottom": 1308
+        }
+      ],
+      "parses": {
+        "amount": "14.07"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Unkraut",
+          "left": 262,
+          "top": 1285,
+          "right": 364,
+          "bottom": 1308
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "entfernen",
+          "left": 374,
+          "top": 1285,
+          "right": 502,
+          "bottom": 1308
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "beide",
+          "left": 513,
+          "top": 1285,
+          "right": 584,
+          "bottom": 1308
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Beete,",
+          "left": 596,
+          "top": 1288,
+          "right": 679,
+          "bottom": 1313
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Laub",
+          "left": 691,
+          "top": 1285,
+          "right": 752,
+          "bottom": 1308
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "saugen",
+          "left": 763,
+          "top": 1293,
+          "right": 855,
+          "bottom": 1315
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Bueroterrasse,",
+          "left": 867,
+          "top": 1288,
+          "right": 1060,
+          "bottom": 1313
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Steintreppe,",
+          "left": 1071,
+          "top": 1285,
+          "right": 1230,
+          "bottom": 1314
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Eingaenge,",
+          "left": 1242,
+          "top": 1285,
+          "right": 1386,
+          "bottom": 1315
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Aeste",
+          "left": 1396,
+          "top": 1288,
+          "right": 1470,
+          "bottom": 1308
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "14.07.:",
+          "left": 164,
+          "top": 1288,
+          "right": 241,
+          "bottom": 1308
+        },
+        {
+          "text": "Unkraut",
+          "left": 262,
+          "top": 1285,
+          "right": 364,
+          "bottom": 1308
+        }
+      ],
+      "parses": {
+        "amount": "14.07"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Unkraut",
+          "left": 262,
+          "top": 1285,
+          "right": 364,
+          "bottom": 1308
+        },
+        {
+          "text": "entfernen",
+          "left": 374,
+          "top": 1285,
+          "right": 502,
+          "bottom": 1308
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "entfernen",
+          "left": 374,
+          "top": 1285,
+          "right": 502,
+          "bottom": 1308
+        },
+        {
+          "text": "beide",
+          "left": 513,
+          "top": 1285,
+          "right": 584,
+          "bottom": 1308
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "beide",
+          "left": 513,
+          "top": 1285,
+          "right": 584,
+          "bottom": 1308
+        },
+        {
+          "text": "Beete,",
+          "left": 596,
+          "top": 1288,
+          "right": 679,
+          "bottom": 1313
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Beete,",
+          "left": 596,
+          "top": 1288,
+          "right": 679,
+          "bottom": 1313
+        },
+        {
+          "text": "Laub",
+          "left": 691,
+          "top": 1285,
+          "right": 752,
+          "bottom": 1308
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Laub",
+          "left": 691,
+          "top": 1285,
+          "right": 752,
+          "bottom": 1308
+        },
+        {
+          "text": "saugen",
+          "left": 763,
+          "top": 1293,
+          "right": 855,
+          "bottom": 1315
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "saugen",
+          "left": 763,
+          "top": 1293,
+          "right": 855,
+          "bottom": 1315
+        },
+        {
+          "text": "Bueroterrasse,",
+          "left": 867,
+          "top": 1288,
+          "right": 1060,
+          "bottom": 1313
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Bueroterrasse,",
+          "left": 867,
+          "top": 1288,
+          "right": 1060,
+          "bottom": 1313
+        },
+        {
+          "text": "Steintreppe,",
+          "left": 1071,
+          "top": 1285,
+          "right": 1230,
+          "bottom": 1314
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Steintreppe,",
+          "left": 1071,
+          "top": 1285,
+          "right": 1230,
+          "bottom": 1314
+        },
+        {
+          "text": "Eingaenge,",
+          "left": 1242,
+          "top": 1285,
+          "right": 1386,
+          "bottom": 1315
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Eingaenge,",
+          "left": 1242,
+          "top": 1285,
+          "right": 1386,
+          "bottom": 1315
+        },
+        {
+          "text": "Aeste",
+          "left": 1396,
+          "top": 1288,
+          "right": 1470,
+          "bottom": 1308
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "14.07.:",
+          "left": 164,
+          "top": 1288,
+          "right": 241,
+          "bottom": 1308
+        },
+        {
+          "text": "Unkraut",
+          "left": 262,
+          "top": 1285,
+          "right": 364,
+          "bottom": 1308
+        },
+        {
+          "text": "entfernen",
+          "left": 374,
+          "top": 1285,
+          "right": 502,
+          "bottom": 1308
+        }
+      ],
+      "parses": {
+        "amount": "14.07"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Unkraut",
+          "left": 262,
+          "top": 1285,
+          "right": 364,
+          "bottom": 1308
+        },
+        {
+          "text": "entfernen",
+          "left": 374,
+          "top": 1285,
+          "right": 502,
+          "bottom": 1308
+        },
+        {
+          "text": "beide",
+          "left": 513,
+          "top": 1285,
+          "right": 584,
+          "bottom": 1308
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "entfernen",
+          "left": 374,
+          "top": 1285,
+          "right": 502,
+          "bottom": 1308
+        },
+        {
+          "text": "beide",
+          "left": 513,
+          "top": 1285,
+          "right": 584,
+          "bottom": 1308
+        },
+        {
+          "text": "Beete,",
+          "left": 596,
+          "top": 1288,
+          "right": 679,
+          "bottom": 1313
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "beide",
+          "left": 513,
+          "top": 1285,
+          "right": 584,
+          "bottom": 1308
+        },
+        {
+          "text": "Beete,",
+          "left": 596,
+          "top": 1288,
+          "right": 679,
+          "bottom": 1313
+        },
+        {
+          "text": "Laub",
+          "left": 691,
+          "top": 1285,
+          "right": 752,
+          "bottom": 1308
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Beete,",
+          "left": 596,
+          "top": 1288,
+          "right": 679,
+          "bottom": 1313
+        },
+        {
+          "text": "Laub",
+          "left": 691,
+          "top": 1285,
+          "right": 752,
+          "bottom": 1308
+        },
+        {
+          "text": "saugen",
+          "left": 763,
+          "top": 1293,
+          "right": 855,
+          "bottom": 1315
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Laub",
+          "left": 691,
+          "top": 1285,
+          "right": 752,
+          "bottom": 1308
+        },
+        {
+          "text": "saugen",
+          "left": 763,
+          "top": 1293,
+          "right": 855,
+          "bottom": 1315
+        },
+        {
+          "text": "Bueroterrasse,",
+          "left": 867,
+          "top": 1288,
+          "right": 1060,
+          "bottom": 1313
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "saugen",
+          "left": 763,
+          "top": 1293,
+          "right": 855,
+          "bottom": 1315
+        },
+        {
+          "text": "Bueroterrasse,",
+          "left": 867,
+          "top": 1288,
+          "right": 1060,
+          "bottom": 1313
+        },
+        {
+          "text": "Steintreppe,",
+          "left": 1071,
+          "top": 1285,
+          "right": 1230,
+          "bottom": 1314
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Bueroterrasse,",
+          "left": 867,
+          "top": 1288,
+          "right": 1060,
+          "bottom": 1313
+        },
+        {
+          "text": "Steintreppe,",
+          "left": 1071,
+          "top": 1285,
+          "right": 1230,
+          "bottom": 1314
+        },
+        {
+          "text": "Eingaenge,",
+          "left": 1242,
+          "top": 1285,
+          "right": 1386,
+          "bottom": 1315
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Steintreppe,",
+          "left": 1071,
+          "top": 1285,
+          "right": 1230,
+          "bottom": 1314
+        },
+        {
+          "text": "Eingaenge,",
+          "left": 1242,
+          "top": 1285,
+          "right": 1386,
+          "bottom": 1315
+        },
+        {
+          "text": "Aeste",
+          "left": 1396,
+          "top": 1288,
+          "right": 1470,
+          "bottom": 1308
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "14.07.:",
+          "left": 164,
+          "top": 1288,
+          "right": 241,
+          "bottom": 1308
+        },
+        {
+          "text": "Unkraut",
+          "left": 262,
+          "top": 1285,
+          "right": 364,
+          "bottom": 1308
+        },
+        {
+          "text": "entfernen",
+          "left": 374,
+          "top": 1285,
+          "right": 502,
+          "bottom": 1308
+        },
+        {
+          "text": "beide",
+          "left": 513,
+          "top": 1285,
+          "right": 584,
+          "bottom": 1308
+        }
+      ],
+      "parses": {
+        "amount": "14.07"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Unkraut",
+          "left": 262,
+          "top": 1285,
+          "right": 364,
+          "bottom": 1308
+        },
+        {
+          "text": "entfernen",
+          "left": 374,
+          "top": 1285,
+          "right": 502,
+          "bottom": 1308
+        },
+        {
+          "text": "beide",
+          "left": 513,
+          "top": 1285,
+          "right": 584,
+          "bottom": 1308
+        },
+        {
+          "text": "Beete,",
+          "left": 596,
+          "top": 1288,
+          "right": 679,
+          "bottom": 1313
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "entfernen",
+          "left": 374,
+          "top": 1285,
+          "right": 502,
+          "bottom": 1308
+        },
+        {
+          "text": "beide",
+          "left": 513,
+          "top": 1285,
+          "right": 584,
+          "bottom": 1308
+        },
+        {
+          "text": "Beete,",
+          "left": 596,
+          "top": 1288,
+          "right": 679,
+          "bottom": 1313
+        },
+        {
+          "text": "Laub",
+          "left": 691,
+          "top": 1285,
+          "right": 752,
+          "bottom": 1308
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "beide",
+          "left": 513,
+          "top": 1285,
+          "right": 584,
+          "bottom": 1308
+        },
+        {
+          "text": "Beete,",
+          "left": 596,
+          "top": 1288,
+          "right": 679,
+          "bottom": 1313
+        },
+        {
+          "text": "Laub",
+          "left": 691,
+          "top": 1285,
+          "right": 752,
+          "bottom": 1308
+        },
+        {
+          "text": "saugen",
+          "left": 763,
+          "top": 1293,
+          "right": 855,
+          "bottom": 1315
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Beete,",
+          "left": 596,
+          "top": 1288,
+          "right": 679,
+          "bottom": 1313
+        },
+        {
+          "text": "Laub",
+          "left": 691,
+          "top": 1285,
+          "right": 752,
+          "bottom": 1308
+        },
+        {
+          "text": "saugen",
+          "left": 763,
+          "top": 1293,
+          "right": 855,
+          "bottom": 1315
+        },
+        {
+          "text": "Bueroterrasse,",
+          "left": 867,
+          "top": 1288,
+          "right": 1060,
+          "bottom": 1313
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Laub",
+          "left": 691,
+          "top": 1285,
+          "right": 752,
+          "bottom": 1308
+        },
+        {
+          "text": "saugen",
+          "left": 763,
+          "top": 1293,
+          "right": 855,
+          "bottom": 1315
+        },
+        {
+          "text": "Bueroterrasse,",
+          "left": 867,
+          "top": 1288,
+          "right": 1060,
+          "bottom": 1313
+        },
+        {
+          "text": "Steintreppe,",
+          "left": 1071,
+          "top": 1285,
+          "right": 1230,
+          "bottom": 1314
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "saugen",
+          "left": 763,
+          "top": 1293,
+          "right": 855,
+          "bottom": 1315
+        },
+        {
+          "text": "Bueroterrasse,",
+          "left": 867,
+          "top": 1288,
+          "right": 1060,
+          "bottom": 1313
+        },
+        {
+          "text": "Steintreppe,",
+          "left": 1071,
+          "top": 1285,
+          "right": 1230,
+          "bottom": 1314
+        },
+        {
+          "text": "Eingaenge,",
+          "left": 1242,
+          "top": 1285,
+          "right": 1386,
+          "bottom": 1315
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Bueroterrasse,",
+          "left": 867,
+          "top": 1288,
+          "right": 1060,
+          "bottom": 1313
+        },
+        {
+          "text": "Steintreppe,",
+          "left": 1071,
+          "top": 1285,
+          "right": 1230,
+          "bottom": 1314
+        },
+        {
+          "text": "Eingaenge,",
+          "left": 1242,
+          "top": 1285,
+          "right": 1386,
+          "bottom": 1315
+        },
+        {
+          "text": "Aeste",
+          "left": 1396,
+          "top": 1288,
+          "right": 1470,
+          "bottom": 1308
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "eingesammelt.",
+          "left": 159,
+          "top": 1322,
+          "right": 350,
+          "bottom": 1352
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "24.07.:",
+          "left": 159,
+          "top": 1362,
+          "right": 241,
+          "bottom": 1382
+        }
+      ],
+      "parses": {
+        "amount": "24.07"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Steintreppen,Bueroterrasse,Fingaenge",
+          "left": 252,
+          "top": 1359,
+          "right": 764,
+          "bottom": 1389
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "gesaugt,",
+          "left": 774,
+          "top": 1362,
+          "right": 886,
+          "bottom": 1389
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Rasenmaehen,",
+          "left": 899,
+          "top": 1359,
+          "right": 1089,
+          "bottom": 1387
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Unkraut",
+          "left": 1101,
+          "top": 1359,
+          "right": 1203,
+          "bottom": 1382
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "i.",
+          "left": 1214,
+          "top": 1359,
+          "right": 1223,
+          "bottom": 1382
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "vorderen",
+          "left": 1234,
+          "top": 1359,
+          "right": 1355,
+          "bottom": 1382
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Beet",
+          "left": 1367,
+          "top": 1362,
+          "right": 1426,
+          "bottom": 1382
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "24.07.:",
+          "left": 159,
+          "top": 1362,
+          "right": 241,
+          "bottom": 1382
+        },
+        {
+          "text": "Steintreppen,Bueroterrasse,Fingaenge",
+          "left": 252,
+          "top": 1359,
+          "right": 764,
+          "bottom": 1389
+        }
+      ],
+      "parses": {
+        "amount": "24.07"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Steintreppen,Bueroterrasse,Fingaenge",
+          "left": 252,
+          "top": 1359,
+          "right": 764,
+          "bottom": 1389
+        },
+        {
+          "text": "gesaugt,",
+          "left": 774,
+          "top": 1362,
+          "right": 886,
+          "bottom": 1389
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "gesaugt,",
+          "left": 774,
+          "top": 1362,
+          "right": 886,
+          "bottom": 1389
+        },
+        {
+          "text": "Rasenmaehen,",
+          "left": 899,
+          "top": 1359,
+          "right": 1089,
+          "bottom": 1387
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Rasenmaehen,",
+          "left": 899,
+          "top": 1359,
+          "right": 1089,
+          "bottom": 1387
+        },
+        {
+          "text": "Unkraut",
+          "left": 1101,
+          "top": 1359,
+          "right": 1203,
+          "bottom": 1382
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Unkraut",
+          "left": 1101,
+          "top": 1359,
+          "right": 1203,
+          "bottom": 1382
+        },
+        {
+          "text": "i.",
+          "left": 1214,
+          "top": 1359,
+          "right": 1223,
+          "bottom": 1382
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "i.",
+          "left": 1214,
+          "top": 1359,
+          "right": 1223,
+          "bottom": 1382
+        },
+        {
+          "text": "vorderen",
+          "left": 1234,
+          "top": 1359,
+          "right": 1355,
+          "bottom": 1382
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "vorderen",
+          "left": 1234,
+          "top": 1359,
+          "right": 1355,
+          "bottom": 1382
+        },
+        {
+          "text": "Beet",
+          "left": 1367,
+          "top": 1362,
+          "right": 1426,
+          "bottom": 1382
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "24.07.:",
+          "left": 159,
+          "top": 1362,
+          "right": 241,
+          "bottom": 1382
+        },
+        {
+          "text": "Steintreppen,Bueroterrasse,Fingaenge",
+          "left": 252,
+          "top": 1359,
+          "right": 764,
+          "bottom": 1389
+        },
+        {
+          "text": "gesaugt,",
+          "left": 774,
+          "top": 1362,
+          "right": 886,
+          "bottom": 1389
+        }
+      ],
+      "parses": {
+        "amount": "24.07"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Steintreppen,Bueroterrasse,Fingaenge",
+          "left": 252,
+          "top": 1359,
+          "right": 764,
+          "bottom": 1389
+        },
+        {
+          "text": "gesaugt,",
+          "left": 774,
+          "top": 1362,
+          "right": 886,
+          "bottom": 1389
+        },
+        {
+          "text": "Rasenmaehen,",
+          "left": 899,
+          "top": 1359,
+          "right": 1089,
+          "bottom": 1387
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "gesaugt,",
+          "left": 774,
+          "top": 1362,
+          "right": 886,
+          "bottom": 1389
+        },
+        {
+          "text": "Rasenmaehen,",
+          "left": 899,
+          "top": 1359,
+          "right": 1089,
+          "bottom": 1387
+        },
+        {
+          "text": "Unkraut",
+          "left": 1101,
+          "top": 1359,
+          "right": 1203,
+          "bottom": 1382
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Rasenmaehen,",
+          "left": 899,
+          "top": 1359,
+          "right": 1089,
+          "bottom": 1387
+        },
+        {
+          "text": "Unkraut",
+          "left": 1101,
+          "top": 1359,
+          "right": 1203,
+          "bottom": 1382
+        },
+        {
+          "text": "i.",
+          "left": 1214,
+          "top": 1359,
+          "right": 1223,
+          "bottom": 1382
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Unkraut",
+          "left": 1101,
+          "top": 1359,
+          "right": 1203,
+          "bottom": 1382
+        },
+        {
+          "text": "i.",
+          "left": 1214,
+          "top": 1359,
+          "right": 1223,
+          "bottom": 1382
+        },
+        {
+          "text": "vorderen",
+          "left": 1234,
+          "top": 1359,
+          "right": 1355,
+          "bottom": 1382
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "i.",
+          "left": 1214,
+          "top": 1359,
+          "right": 1223,
+          "bottom": 1382
+        },
+        {
+          "text": "vorderen",
+          "left": 1234,
+          "top": 1359,
+          "right": 1355,
+          "bottom": 1382
+        },
+        {
+          "text": "Beet",
+          "left": 1367,
+          "top": 1362,
+          "right": 1426,
+          "bottom": 1382
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "24.07.:",
+          "left": 159,
+          "top": 1362,
+          "right": 241,
+          "bottom": 1382
+        },
+        {
+          "text": "Steintreppen,Bueroterrasse,Fingaenge",
+          "left": 252,
+          "top": 1359,
+          "right": 764,
+          "bottom": 1389
+        },
+        {
+          "text": "gesaugt,",
+          "left": 774,
+          "top": 1362,
+          "right": 886,
+          "bottom": 1389
+        },
+        {
+          "text": "Rasenmaehen,",
+          "left": 899,
+          "top": 1359,
+          "right": 1089,
+          "bottom": 1387
+        }
+      ],
+      "parses": {
+        "amount": "24.07"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Steintreppen,Bueroterrasse,Fingaenge",
+          "left": 252,
+          "top": 1359,
+          "right": 764,
+          "bottom": 1389
+        },
+        {
+          "text": "gesaugt,",
+          "left": 774,
+          "top": 1362,
+          "right": 886,
+          "bottom": 1389
+        },
+        {
+          "text": "Rasenmaehen,",
+          "left": 899,
+          "top": 1359,
+          "right": 1089,
+          "bottom": 1387
+        },
+        {
+          "text": "Unkraut",
+          "left": 1101,
+          "top": 1359,
+          "right": 1203,
+          "bottom": 1382
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "gesaugt,",
+          "left": 774,
+          "top": 1362,
+          "right": 886,
+          "bottom": 1389
+        },
+        {
+          "text": "Rasenmaehen,",
+          "left": 899,
+          "top": 1359,
+          "right": 1089,
+          "bottom": 1387
+        },
+        {
+          "text": "Unkraut",
+          "left": 1101,
+          "top": 1359,
+          "right": 1203,
+          "bottom": 1382
+        },
+        {
+          "text": "i.",
+          "left": 1214,
+          "top": 1359,
+          "right": 1223,
+          "bottom": 1382
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Rasenmaehen,",
+          "left": 899,
+          "top": 1359,
+          "right": 1089,
+          "bottom": 1387
+        },
+        {
+          "text": "Unkraut",
+          "left": 1101,
+          "top": 1359,
+          "right": 1203,
+          "bottom": 1382
+        },
+        {
+          "text": "i.",
+          "left": 1214,
+          "top": 1359,
+          "right": 1223,
+          "bottom": 1382
+        },
+        {
+          "text": "vorderen",
+          "left": 1234,
+          "top": 1359,
+          "right": 1355,
+          "bottom": 1382
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Unkraut",
+          "left": 1101,
+          "top": 1359,
+          "right": 1203,
+          "bottom": 1382
+        },
+        {
+          "text": "i.",
+          "left": 1214,
+          "top": 1359,
+          "right": 1223,
+          "bottom": 1382
+        },
+        {
+          "text": "vorderen",
+          "left": 1234,
+          "top": 1359,
+          "right": 1355,
+          "bottom": 1382
+        },
+        {
+          "text": "Beet",
+          "left": 1367,
+          "top": 1362,
+          "right": 1426,
+          "bottom": 1382
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "entfernt.",
+          "left": 159,
+          "top": 1396,
+          "right": 270,
+          "bottom": 1419
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 156,
+          "top": 1428,
+          "right": 1515,
+          "bottom": 1431
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 159,
+          "top": 1428,
+          "right": 1518,
+          "bottom": 1431
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 159,
+          "top": 1431,
+          "right": 1515,
+          "bottom": 1434
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 155,
+          "top": 1429,
+          "right": 158,
+          "bottom": 1492
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 158,
+          "top": 1432,
+          "right": 161,
+          "bottom": 1489
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 156,
+          "top": 1428,
+          "right": 1515,
+          "bottom": 1431
+        },
+        {
+          "text": " ",
+          "left": 159,
+          "top": 1428,
+          "right": 1518,
+          "bottom": 1431
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 159,
+          "top": 1428,
+          "right": 1518,
+          "bottom": 1431
+        },
+        {
+          "text": " ",
+          "left": 159,
+          "top": 1431,
+          "right": 1515,
+          "bottom": 1434
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 159,
+          "top": 1431,
+          "right": 1515,
+          "bottom": 1434
+        },
+        {
+          "text": " ",
+          "left": 155,
+          "top": 1429,
+          "right": 158,
+          "bottom": 1492
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 155,
+          "top": 1429,
+          "right": 158,
+          "bottom": 1492
+        },
+        {
+          "text": " ",
+          "left": 158,
+          "top": 1432,
+          "right": 161,
+          "bottom": 1489
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 156,
+          "top": 1428,
+          "right": 1515,
+          "bottom": 1431
+        },
+        {
+          "text": " ",
+          "left": 159,
+          "top": 1428,
+          "right": 1518,
+          "bottom": 1431
+        },
+        {
+          "text": " ",
+          "left": 159,
+          "top": 1431,
+          "right": 1515,
+          "bottom": 1434
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 159,
+          "top": 1428,
+          "right": 1518,
+          "bottom": 1431
+        },
+        {
+          "text": " ",
+          "left": 159,
+          "top": 1431,
+          "right": 1515,
+          "bottom": 1434
+        },
+        {
+          "text": " ",
+          "left": 155,
+          "top": 1429,
+          "right": 158,
+          "bottom": 1492
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 159,
+          "top": 1431,
+          "right": 1515,
+          "bottom": 1434
+        },
+        {
+          "text": " ",
+          "left": 155,
+          "top": 1429,
+          "right": 158,
+          "bottom": 1492
+        },
+        {
+          "text": " ",
+          "left": 158,
+          "top": 1432,
+          "right": 161,
+          "bottom": 1489
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 156,
+          "top": 1428,
+          "right": 1515,
+          "bottom": 1431
+        },
+        {
+          "text": " ",
+          "left": 159,
+          "top": 1428,
+          "right": 1518,
+          "bottom": 1431
+        },
+        {
+          "text": " ",
+          "left": 159,
+          "top": 1431,
+          "right": 1515,
+          "bottom": 1434
+        },
+        {
+          "text": " ",
+          "left": 155,
+          "top": 1429,
+          "right": 158,
+          "bottom": 1492
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 159,
+          "top": 1428,
+          "right": 1518,
+          "bottom": 1431
+        },
+        {
+          "text": " ",
+          "left": 159,
+          "top": 1431,
+          "right": 1515,
+          "bottom": 1434
+        },
+        {
+          "text": " ",
+          "left": 155,
+          "top": 1429,
+          "right": 158,
+          "bottom": 1492
+        },
+        {
+          "text": " ",
+          "left": 158,
+          "top": 1432,
+          "right": 161,
+          "bottom": 1489
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "74,25",
+          "left": 754,
+          "top": 1447,
+          "right": 837,
+          "bottom": 1474
+        }
+      ],
+      "parses": {
+        "date": "10-03-1974"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Euro",
+          "left": 851,
+          "top": 1447,
+          "right": 922,
+          "bottom": 1469
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "74,25",
+          "left": 754,
+          "top": 1447,
+          "right": 837,
+          "bottom": 1474
+        },
+        {
+          "text": "Euro",
+          "left": 851,
+          "top": 1447,
+          "right": 922,
+          "bottom": 1469
+        }
+      ],
+      "parses": {
+        "date": "10-03-1974"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 1514,
+          "top": 1430,
+          "right": 1518,
+          "bottom": 1491
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 156,
+          "top": 1487,
+          "right": 1514,
+          "bottom": 1490
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 159,
+          "top": 1487,
+          "right": 1514,
+          "bottom": 1490
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 159,
+          "top": 1487,
+          "right": 1517,
+          "bottom": 1490
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 156,
+          "top": 1487,
+          "right": 1514,
+          "bottom": 1490
+        },
+        {
+          "text": " ",
+          "left": 159,
+          "top": 1487,
+          "right": 1514,
+          "bottom": 1490
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 159,
+          "top": 1487,
+          "right": 1514,
+          "bottom": 1490
+        },
+        {
+          "text": " ",
+          "left": 159,
+          "top": 1487,
+          "right": 1517,
+          "bottom": 1490
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 156,
+          "top": 1487,
+          "right": 1514,
+          "bottom": 1490
+        },
+        {
+          "text": " ",
+          "left": 159,
+          "top": 1487,
+          "right": 1514,
+          "bottom": 1490
+        },
+        {
+          "text": " ",
+          "left": 159,
+          "top": 1487,
+          "right": 1517,
+          "bottom": 1490
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Umsatzsteuerfreie",
+          "left": 160,
+          "top": 1537,
+          "right": 393,
+          "bottom": 1558
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Leistungen",
+          "left": 404,
+          "top": 1537,
+          "right": 543,
+          "bottom": 1564
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "gemaR",
+          "left": 554,
+          "top": 1537,
+          "right": 642,
+          "bottom": 1564
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "\u00a719",
+          "left": 653,
+          "top": 1537,
+          "right": 699,
+          "bottom": 1564
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "UStG.",
+          "left": 710,
+          "top": 1537,
+          "right": 785,
+          "bottom": 1558
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Umsatzsteuerfreie",
+          "left": 160,
+          "top": 1537,
+          "right": 393,
+          "bottom": 1558
+        },
+        {
+          "text": "Leistungen",
+          "left": 404,
+          "top": 1537,
+          "right": 543,
+          "bottom": 1564
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Leistungen",
+          "left": 404,
+          "top": 1537,
+          "right": 543,
+          "bottom": 1564
+        },
+        {
+          "text": "gemaR",
+          "left": 554,
+          "top": 1537,
+          "right": 642,
+          "bottom": 1564
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "gemaR",
+          "left": 554,
+          "top": 1537,
+          "right": 642,
+          "bottom": 1564
+        },
+        {
+          "text": "\u00a719",
+          "left": 653,
+          "top": 1537,
+          "right": 699,
+          "bottom": 1564
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "\u00a719",
+          "left": 653,
+          "top": 1537,
+          "right": 699,
+          "bottom": 1564
+        },
+        {
+          "text": "UStG.",
+          "left": 710,
+          "top": 1537,
+          "right": 785,
+          "bottom": 1558
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Umsatzsteuerfreie",
+          "left": 160,
+          "top": 1537,
+          "right": 393,
+          "bottom": 1558
+        },
+        {
+          "text": "Leistungen",
+          "left": 404,
+          "top": 1537,
+          "right": 543,
+          "bottom": 1564
+        },
+        {
+          "text": "gemaR",
+          "left": 554,
+          "top": 1537,
+          "right": 642,
+          "bottom": 1564
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Leistungen",
+          "left": 404,
+          "top": 1537,
+          "right": 543,
+          "bottom": 1564
+        },
+        {
+          "text": "gemaR",
+          "left": 554,
+          "top": 1537,
+          "right": 642,
+          "bottom": 1564
+        },
+        {
+          "text": "\u00a719",
+          "left": 653,
+          "top": 1537,
+          "right": 699,
+          "bottom": 1564
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "gemaR",
+          "left": 554,
+          "top": 1537,
+          "right": 642,
+          "bottom": 1564
+        },
+        {
+          "text": "\u00a719",
+          "left": 653,
+          "top": 1537,
+          "right": 699,
+          "bottom": 1564
+        },
+        {
+          "text": "UStG.",
+          "left": 710,
+          "top": 1537,
+          "right": 785,
+          "bottom": 1558
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Umsatzsteuerfreie",
+          "left": 160,
+          "top": 1537,
+          "right": 393,
+          "bottom": 1558
+        },
+        {
+          "text": "Leistungen",
+          "left": 404,
+          "top": 1537,
+          "right": 543,
+          "bottom": 1564
+        },
+        {
+          "text": "gemaR",
+          "left": 554,
+          "top": 1537,
+          "right": 642,
+          "bottom": 1564
+        },
+        {
+          "text": "\u00a719",
+          "left": 653,
+          "top": 1537,
+          "right": 699,
+          "bottom": 1564
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Leistungen",
+          "left": 404,
+          "top": 1537,
+          "right": 543,
+          "bottom": 1564
+        },
+        {
+          "text": "gemaR",
+          "left": 554,
+          "top": 1537,
+          "right": 642,
+          "bottom": 1564
+        },
+        {
+          "text": "\u00a719",
+          "left": 653,
+          "top": 1537,
+          "right": 699,
+          "bottom": 1564
+        },
+        {
+          "text": "UStG.",
+          "left": 710,
+          "top": 1537,
+          "right": 785,
+          "bottom": 1558
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Fallig",
+          "left": 160,
+          "top": 1570,
+          "right": 225,
+          "bottom": 1597
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "sofort",
+          "left": 237,
+          "top": 1570,
+          "right": 308,
+          "bottom": 1591
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "ohne",
+          "left": 317,
+          "top": 1570,
+          "right": 380,
+          "bottom": 1591
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Abzug",
+          "left": 389,
+          "top": 1570,
+          "right": 470,
+          "bottom": 1597
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Fallig",
+          "left": 160,
+          "top": 1570,
+          "right": 225,
+          "bottom": 1597
+        },
+        {
+          "text": "sofort",
+          "left": 237,
+          "top": 1570,
+          "right": 308,
+          "bottom": 1591
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "sofort",
+          "left": 237,
+          "top": 1570,
+          "right": 308,
+          "bottom": 1591
+        },
+        {
+          "text": "ohne",
+          "left": 317,
+          "top": 1570,
+          "right": 380,
+          "bottom": 1591
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "ohne",
+          "left": 317,
+          "top": 1570,
+          "right": 380,
+          "bottom": 1591
+        },
+        {
+          "text": "Abzug",
+          "left": 389,
+          "top": 1570,
+          "right": 470,
+          "bottom": 1597
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Fallig",
+          "left": 160,
+          "top": 1570,
+          "right": 225,
+          "bottom": 1597
+        },
+        {
+          "text": "sofort",
+          "left": 237,
+          "top": 1570,
+          "right": 308,
+          "bottom": 1591
+        },
+        {
+          "text": "ohne",
+          "left": 317,
+          "top": 1570,
+          "right": 380,
+          "bottom": 1591
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "sofort",
+          "left": 237,
+          "top": 1570,
+          "right": 308,
+          "bottom": 1591
+        },
+        {
+          "text": "ohne",
+          "left": 317,
+          "top": 1570,
+          "right": 380,
+          "bottom": 1591
+        },
+        {
+          "text": "Abzug",
+          "left": 389,
+          "top": 1570,
+          "right": 470,
+          "bottom": 1597
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Fallig",
+          "left": 160,
+          "top": 1570,
+          "right": 225,
+          "bottom": 1597
+        },
+        {
+          "text": "sofort",
+          "left": 237,
+          "top": 1570,
+          "right": 308,
+          "bottom": 1591
+        },
+        {
+          "text": "ohne",
+          "left": 317,
+          "top": 1570,
+          "right": 380,
+          "bottom": 1591
+        },
+        {
+          "text": "Abzug",
+          "left": 389,
+          "top": 1570,
+          "right": 470,
+          "bottom": 1597
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 154,
+          "top": 2034,
+          "right": 1494,
+          "bottom": 2073
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Stadtsparkasse",
+          "left": 317,
+          "top": 2078,
+          "right": 505,
+          "bottom": 2106
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Muenchen",
+          "left": 516,
+          "top": 2078,
+          "right": 647,
+          "bottom": 2100
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Konto",
+          "left": 658,
+          "top": 2081,
+          "right": 734,
+          "bottom": 2100
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "DE2470150000",
+          "left": 745,
+          "top": 2081,
+          "right": 936,
+          "bottom": 2101
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1005669062",
+          "left": 935,
+          "top": 2074,
+          "right": 1095,
+          "bottom": 2111
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "BIC",
+          "left": 1107,
+          "top": 2081,
+          "right": 1151,
+          "bottom": 2101
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "SSKDEMMXXX",
+          "left": 1161,
+          "top": 2081,
+          "right": 1355,
+          "bottom": 2101
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Stadtsparkasse",
+          "left": 317,
+          "top": 2078,
+          "right": 505,
+          "bottom": 2106
+        },
+        {
+          "text": "Muenchen",
+          "left": 516,
+          "top": 2078,
+          "right": 647,
+          "bottom": 2100
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Muenchen",
+          "left": 516,
+          "top": 2078,
+          "right": 647,
+          "bottom": 2100
+        },
+        {
+          "text": "Konto",
+          "left": 658,
+          "top": 2081,
+          "right": 734,
+          "bottom": 2100
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Konto",
+          "left": 658,
+          "top": 2081,
+          "right": 734,
+          "bottom": 2100
+        },
+        {
+          "text": "DE2470150000",
+          "left": 745,
+          "top": 2081,
+          "right": 936,
+          "bottom": 2101
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "DE2470150000",
+          "left": 745,
+          "top": 2081,
+          "right": 936,
+          "bottom": 2101
+        },
+        {
+          "text": "1005669062",
+          "left": 935,
+          "top": 2074,
+          "right": 1095,
+          "bottom": 2111
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1005669062",
+          "left": 935,
+          "top": 2074,
+          "right": 1095,
+          "bottom": 2111
+        },
+        {
+          "text": "BIC",
+          "left": 1107,
+          "top": 2081,
+          "right": 1151,
+          "bottom": 2101
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "BIC",
+          "left": 1107,
+          "top": 2081,
+          "right": 1151,
+          "bottom": 2101
+        },
+        {
+          "text": "SSKDEMMXXX",
+          "left": 1161,
+          "top": 2081,
+          "right": 1355,
+          "bottom": 2101
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Stadtsparkasse",
+          "left": 317,
+          "top": 2078,
+          "right": 505,
+          "bottom": 2106
+        },
+        {
+          "text": "Muenchen",
+          "left": 516,
+          "top": 2078,
+          "right": 647,
+          "bottom": 2100
+        },
+        {
+          "text": "Konto",
+          "left": 658,
+          "top": 2081,
+          "right": 734,
+          "bottom": 2100
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Muenchen",
+          "left": 516,
+          "top": 2078,
+          "right": 647,
+          "bottom": 2100
+        },
+        {
+          "text": "Konto",
+          "left": 658,
+          "top": 2081,
+          "right": 734,
+          "bottom": 2100
+        },
+        {
+          "text": "DE2470150000",
+          "left": 745,
+          "top": 2081,
+          "right": 936,
+          "bottom": 2101
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Konto",
+          "left": 658,
+          "top": 2081,
+          "right": 734,
+          "bottom": 2100
+        },
+        {
+          "text": "DE2470150000",
+          "left": 745,
+          "top": 2081,
+          "right": 936,
+          "bottom": 2101
+        },
+        {
+          "text": "1005669062",
+          "left": 935,
+          "top": 2074,
+          "right": 1095,
+          "bottom": 2111
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "DE2470150000",
+          "left": 745,
+          "top": 2081,
+          "right": 936,
+          "bottom": 2101
+        },
+        {
+          "text": "1005669062",
+          "left": 935,
+          "top": 2074,
+          "right": 1095,
+          "bottom": 2111
+        },
+        {
+          "text": "BIC",
+          "left": 1107,
+          "top": 2081,
+          "right": 1151,
+          "bottom": 2101
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1005669062",
+          "left": 935,
+          "top": 2074,
+          "right": 1095,
+          "bottom": 2111
+        },
+        {
+          "text": "BIC",
+          "left": 1107,
+          "top": 2081,
+          "right": 1151,
+          "bottom": 2101
+        },
+        {
+          "text": "SSKDEMMXXX",
+          "left": 1161,
+          "top": 2081,
+          "right": 1355,
+          "bottom": 2101
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Stadtsparkasse",
+          "left": 317,
+          "top": 2078,
+          "right": 505,
+          "bottom": 2106
+        },
+        {
+          "text": "Muenchen",
+          "left": 516,
+          "top": 2078,
+          "right": 647,
+          "bottom": 2100
+        },
+        {
+          "text": "Konto",
+          "left": 658,
+          "top": 2081,
+          "right": 734,
+          "bottom": 2100
+        },
+        {
+          "text": "DE2470150000",
+          "left": 745,
+          "top": 2081,
+          "right": 936,
+          "bottom": 2101
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Muenchen",
+          "left": 516,
+          "top": 2078,
+          "right": 647,
+          "bottom": 2100
+        },
+        {
+          "text": "Konto",
+          "left": 658,
+          "top": 2081,
+          "right": 734,
+          "bottom": 2100
+        },
+        {
+          "text": "DE2470150000",
+          "left": 745,
+          "top": 2081,
+          "right": 936,
+          "bottom": 2101
+        },
+        {
+          "text": "1005669062",
+          "left": 935,
+          "top": 2074,
+          "right": 1095,
+          "bottom": 2111
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Konto",
+          "left": 658,
+          "top": 2081,
+          "right": 734,
+          "bottom": 2100
+        },
+        {
+          "text": "DE2470150000",
+          "left": 745,
+          "top": 2081,
+          "right": 936,
+          "bottom": 2101
+        },
+        {
+          "text": "1005669062",
+          "left": 935,
+          "top": 2074,
+          "right": 1095,
+          "bottom": 2111
+        },
+        {
+          "text": "BIC",
+          "left": 1107,
+          "top": 2081,
+          "right": 1151,
+          "bottom": 2101
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "DE2470150000",
+          "left": 745,
+          "top": 2081,
+          "right": 936,
+          "bottom": 2101
+        },
+        {
+          "text": "1005669062",
+          "left": 935,
+          "top": 2074,
+          "right": 1095,
+          "bottom": 2111
+        },
+        {
+          "text": "BIC",
+          "left": 1107,
+          "top": 2081,
+          "right": 1151,
+          "bottom": 2101
+        },
+        {
+          "text": "SSKDEMMXXX",
+          "left": 1161,
+          "top": 2081,
+          "right": 1355,
+          "bottom": 2101
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Steuer-ID",
+          "left": 513,
+          "top": 2120,
+          "right": 643,
+          "bottom": 2140
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "93286408574",
+          "left": 654,
+          "top": 2121,
+          "right": 846,
+          "bottom": 2141
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "IHK-Betrieb-Nr.",
+          "left": 908,
+          "top": 2117,
+          "right": 1059,
+          "bottom": 2140
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "7189435",
+          "left": 1068,
+          "top": 2124,
+          "right": 1160,
+          "bottom": 2140
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Steuer-ID",
+          "left": 513,
+          "top": 2120,
+          "right": 643,
+          "bottom": 2140
+        },
+        {
+          "text": "93286408574",
+          "left": 654,
+          "top": 2121,
+          "right": 846,
+          "bottom": 2141
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "93286408574",
+          "left": 654,
+          "top": 2121,
+          "right": 846,
+          "bottom": 2141
+        },
+        {
+          "text": "IHK-Betrieb-Nr.",
+          "left": 908,
+          "top": 2117,
+          "right": 1059,
+          "bottom": 2140
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "IHK-Betrieb-Nr.",
+          "left": 908,
+          "top": 2117,
+          "right": 1059,
+          "bottom": 2140
+        },
+        {
+          "text": "7189435",
+          "left": 1068,
+          "top": 2124,
+          "right": 1160,
+          "bottom": 2140
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Steuer-ID",
+          "left": 513,
+          "top": 2120,
+          "right": 643,
+          "bottom": 2140
+        },
+        {
+          "text": "93286408574",
+          "left": 654,
+          "top": 2121,
+          "right": 846,
+          "bottom": 2141
+        },
+        {
+          "text": "IHK-Betrieb-Nr.",
+          "left": 908,
+          "top": 2117,
+          "right": 1059,
+          "bottom": 2140
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "93286408574",
+          "left": 654,
+          "top": 2121,
+          "right": 846,
+          "bottom": 2141
+        },
+        {
+          "text": "IHK-Betrieb-Nr.",
+          "left": 908,
+          "top": 2117,
+          "right": 1059,
+          "bottom": 2140
+        },
+        {
+          "text": "7189435",
+          "left": 1068,
+          "top": 2124,
+          "right": 1160,
+          "bottom": 2140
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Steuer-ID",
+          "left": 513,
+          "top": 2120,
+          "right": 643,
+          "bottom": 2140
+        },
+        {
+          "text": "93286408574",
+          "left": 654,
+          "top": 2121,
+          "right": 846,
+          "bottom": 2141
+        },
+        {
+          "text": "IHK-Betrieb-Nr.",
+          "left": 908,
+          "top": 2117,
+          "right": 1059,
+          "bottom": 2140
+        },
+        {
+          "text": "7189435",
+          "left": 1068,
+          "top": 2124,
+          "right": 1160,
+          "bottom": 2140
+        }
+      ],
+      "parses": {}
+    }
+  ],
+  "height": 2339,
+  "width": 1653,
+  "filename": "/Users/daniel/dev/InvoiceNet/processed_data/train/2020-08-03_Ausgabe_06+20_Rotheichner-Thomas.png"
+}

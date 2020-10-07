@@ -1,0 +1,7454 @@
+{
+  "fields": {
+    "invoice_number": "14047",
+    "vendor_name": "Baustellen-Service Plischke",
+    "invoice_date": "03-16-2020",
+    "net_amount": "350.00",
+    "tax_amount": "66.50",
+    "total_amount": "416.50"
+  },
+  "nGrams": [
+    {
+      "words": [
+        {
+          "text": "B-S-P",
+          "left": 190,
+          "top": 83,
+          "right": 338,
+          "bottom": 122
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Baustellen-Service",
+          "left": 361,
+          "top": 84,
+          "right": 826,
+          "bottom": 124
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "B-S-P",
+          "left": 190,
+          "top": 83,
+          "right": 338,
+          "bottom": 122
+        },
+        {
+          "text": "Baustellen-Service",
+          "left": 361,
+          "top": 84,
+          "right": 826,
+          "bottom": 124
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Wolfgang",
+          "left": 361,
+          "top": 152,
+          "right": 596,
+          "bottom": 201
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Plischke",
+          "left": 617,
+          "top": 153,
+          "right": 826,
+          "bottom": 192
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Wolfgang",
+          "left": 361,
+          "top": 152,
+          "right": 596,
+          "bottom": 201
+        },
+        {
+          "text": "Plischke",
+          "left": 617,
+          "top": 153,
+          "right": 826,
+          "bottom": 192
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 1084,
+          "top": 72,
+          "right": 1572,
+          "bottom": 306
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "-",
+          "left": 760,
+          "top": 235,
+          "right": 769,
+          "bottom": 243
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "EIMBESANBER",
+          "left": 782,
+          "top": 214,
+          "right": 991,
+          "bottom": 254
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "-",
+          "left": 760,
+          "top": 235,
+          "right": 769,
+          "bottom": 243
+        },
+        {
+          "text": "EIMBESANBER",
+          "left": 782,
+          "top": 214,
+          "right": 991,
+          "bottom": 254
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "c",
+          "left": 1484,
+          "top": 327,
+          "right": 1499,
+          "bottom": 346
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "B-S-P",
+          "left": 191,
+          "top": 355,
+          "right": 242,
+          "bottom": 370
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Baustellenservice",
+          "left": 249,
+          "top": 356,
+          "right": 401,
+          "bottom": 370
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "W.",
+          "left": 407,
+          "top": 356,
+          "right": 429,
+          "bottom": 370
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Plischke",
+          "left": 437,
+          "top": 356,
+          "right": 507,
+          "bottom": 371
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "-",
+          "left": 514,
+          "top": 363,
+          "right": 517,
+          "bottom": 365
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Neuoffsteiner",
+          "left": 525,
+          "top": 357,
+          "right": 639,
+          "bottom": 371
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Str.",
+          "left": 645,
+          "top": 357,
+          "right": 673,
+          "bottom": 371
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "65",
+          "left": 681,
+          "top": 357,
+          "right": 701,
+          "bottom": 371
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "-",
+          "left": 709,
+          "top": 363,
+          "right": 711,
+          "bottom": 365
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "67591",
+          "left": 719,
+          "top": 357,
+          "right": 769,
+          "bottom": 372
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Offstein",
+          "left": 779,
+          "top": 357,
+          "right": 843,
+          "bottom": 372
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "B-S-P",
+          "left": 191,
+          "top": 355,
+          "right": 242,
+          "bottom": 370
+        },
+        {
+          "text": "Baustellenservice",
+          "left": 249,
+          "top": 356,
+          "right": 401,
+          "bottom": 370
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Baustellenservice",
+          "left": 249,
+          "top": 356,
+          "right": 401,
+          "bottom": 370
+        },
+        {
+          "text": "W.",
+          "left": 407,
+          "top": 356,
+          "right": 429,
+          "bottom": 370
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "W.",
+          "left": 407,
+          "top": 356,
+          "right": 429,
+          "bottom": 370
+        },
+        {
+          "text": "Plischke",
+          "left": 437,
+          "top": 356,
+          "right": 507,
+          "bottom": 371
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Plischke",
+          "left": 437,
+          "top": 356,
+          "right": 507,
+          "bottom": 371
+        },
+        {
+          "text": "-",
+          "left": 514,
+          "top": 363,
+          "right": 517,
+          "bottom": 365
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "-",
+          "left": 514,
+          "top": 363,
+          "right": 517,
+          "bottom": 365
+        },
+        {
+          "text": "Neuoffsteiner",
+          "left": 525,
+          "top": 357,
+          "right": 639,
+          "bottom": 371
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Neuoffsteiner",
+          "left": 525,
+          "top": 357,
+          "right": 639,
+          "bottom": 371
+        },
+        {
+          "text": "Str.",
+          "left": 645,
+          "top": 357,
+          "right": 673,
+          "bottom": 371
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Str.",
+          "left": 645,
+          "top": 357,
+          "right": 673,
+          "bottom": 371
+        },
+        {
+          "text": "65",
+          "left": 681,
+          "top": 357,
+          "right": 701,
+          "bottom": 371
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "65",
+          "left": 681,
+          "top": 357,
+          "right": 701,
+          "bottom": 371
+        },
+        {
+          "text": "-",
+          "left": 709,
+          "top": 363,
+          "right": 711,
+          "bottom": 365
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "-",
+          "left": 709,
+          "top": 363,
+          "right": 711,
+          "bottom": 365
+        },
+        {
+          "text": "67591",
+          "left": 719,
+          "top": 357,
+          "right": 769,
+          "bottom": 372
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "67591",
+          "left": 719,
+          "top": 357,
+          "right": 769,
+          "bottom": 372
+        },
+        {
+          "text": "Offstein",
+          "left": 779,
+          "top": 357,
+          "right": 843,
+          "bottom": 372
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "B-S-P",
+          "left": 191,
+          "top": 355,
+          "right": 242,
+          "bottom": 370
+        },
+        {
+          "text": "Baustellenservice",
+          "left": 249,
+          "top": 356,
+          "right": 401,
+          "bottom": 370
+        },
+        {
+          "text": "W.",
+          "left": 407,
+          "top": 356,
+          "right": 429,
+          "bottom": 370
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Baustellenservice",
+          "left": 249,
+          "top": 356,
+          "right": 401,
+          "bottom": 370
+        },
+        {
+          "text": "W.",
+          "left": 407,
+          "top": 356,
+          "right": 429,
+          "bottom": 370
+        },
+        {
+          "text": "Plischke",
+          "left": 437,
+          "top": 356,
+          "right": 507,
+          "bottom": 371
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "W.",
+          "left": 407,
+          "top": 356,
+          "right": 429,
+          "bottom": 370
+        },
+        {
+          "text": "Plischke",
+          "left": 437,
+          "top": 356,
+          "right": 507,
+          "bottom": 371
+        },
+        {
+          "text": "-",
+          "left": 514,
+          "top": 363,
+          "right": 517,
+          "bottom": 365
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Plischke",
+          "left": 437,
+          "top": 356,
+          "right": 507,
+          "bottom": 371
+        },
+        {
+          "text": "-",
+          "left": 514,
+          "top": 363,
+          "right": 517,
+          "bottom": 365
+        },
+        {
+          "text": "Neuoffsteiner",
+          "left": 525,
+          "top": 357,
+          "right": 639,
+          "bottom": 371
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "-",
+          "left": 514,
+          "top": 363,
+          "right": 517,
+          "bottom": 365
+        },
+        {
+          "text": "Neuoffsteiner",
+          "left": 525,
+          "top": 357,
+          "right": 639,
+          "bottom": 371
+        },
+        {
+          "text": "Str.",
+          "left": 645,
+          "top": 357,
+          "right": 673,
+          "bottom": 371
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Neuoffsteiner",
+          "left": 525,
+          "top": 357,
+          "right": 639,
+          "bottom": 371
+        },
+        {
+          "text": "Str.",
+          "left": 645,
+          "top": 357,
+          "right": 673,
+          "bottom": 371
+        },
+        {
+          "text": "65",
+          "left": 681,
+          "top": 357,
+          "right": 701,
+          "bottom": 371
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Str.",
+          "left": 645,
+          "top": 357,
+          "right": 673,
+          "bottom": 371
+        },
+        {
+          "text": "65",
+          "left": 681,
+          "top": 357,
+          "right": 701,
+          "bottom": 371
+        },
+        {
+          "text": "-",
+          "left": 709,
+          "top": 363,
+          "right": 711,
+          "bottom": 365
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "65",
+          "left": 681,
+          "top": 357,
+          "right": 701,
+          "bottom": 371
+        },
+        {
+          "text": "-",
+          "left": 709,
+          "top": 363,
+          "right": 711,
+          "bottom": 365
+        },
+        {
+          "text": "67591",
+          "left": 719,
+          "top": 357,
+          "right": 769,
+          "bottom": 372
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "-",
+          "left": 709,
+          "top": 363,
+          "right": 711,
+          "bottom": 365
+        },
+        {
+          "text": "67591",
+          "left": 719,
+          "top": 357,
+          "right": 769,
+          "bottom": 372
+        },
+        {
+          "text": "Offstein",
+          "left": 779,
+          "top": 357,
+          "right": 843,
+          "bottom": 372
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "B-S-P",
+          "left": 191,
+          "top": 355,
+          "right": 242,
+          "bottom": 370
+        },
+        {
+          "text": "Baustellenservice",
+          "left": 249,
+          "top": 356,
+          "right": 401,
+          "bottom": 370
+        },
+        {
+          "text": "W.",
+          "left": 407,
+          "top": 356,
+          "right": 429,
+          "bottom": 370
+        },
+        {
+          "text": "Plischke",
+          "left": 437,
+          "top": 356,
+          "right": 507,
+          "bottom": 371
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Baustellenservice",
+          "left": 249,
+          "top": 356,
+          "right": 401,
+          "bottom": 370
+        },
+        {
+          "text": "W.",
+          "left": 407,
+          "top": 356,
+          "right": 429,
+          "bottom": 370
+        },
+        {
+          "text": "Plischke",
+          "left": 437,
+          "top": 356,
+          "right": 507,
+          "bottom": 371
+        },
+        {
+          "text": "-",
+          "left": 514,
+          "top": 363,
+          "right": 517,
+          "bottom": 365
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "W.",
+          "left": 407,
+          "top": 356,
+          "right": 429,
+          "bottom": 370
+        },
+        {
+          "text": "Plischke",
+          "left": 437,
+          "top": 356,
+          "right": 507,
+          "bottom": 371
+        },
+        {
+          "text": "-",
+          "left": 514,
+          "top": 363,
+          "right": 517,
+          "bottom": 365
+        },
+        {
+          "text": "Neuoffsteiner",
+          "left": 525,
+          "top": 357,
+          "right": 639,
+          "bottom": 371
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Plischke",
+          "left": 437,
+          "top": 356,
+          "right": 507,
+          "bottom": 371
+        },
+        {
+          "text": "-",
+          "left": 514,
+          "top": 363,
+          "right": 517,
+          "bottom": 365
+        },
+        {
+          "text": "Neuoffsteiner",
+          "left": 525,
+          "top": 357,
+          "right": 639,
+          "bottom": 371
+        },
+        {
+          "text": "Str.",
+          "left": 645,
+          "top": 357,
+          "right": 673,
+          "bottom": 371
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "-",
+          "left": 514,
+          "top": 363,
+          "right": 517,
+          "bottom": 365
+        },
+        {
+          "text": "Neuoffsteiner",
+          "left": 525,
+          "top": 357,
+          "right": 639,
+          "bottom": 371
+        },
+        {
+          "text": "Str.",
+          "left": 645,
+          "top": 357,
+          "right": 673,
+          "bottom": 371
+        },
+        {
+          "text": "65",
+          "left": 681,
+          "top": 357,
+          "right": 701,
+          "bottom": 371
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Neuoffsteiner",
+          "left": 525,
+          "top": 357,
+          "right": 639,
+          "bottom": 371
+        },
+        {
+          "text": "Str.",
+          "left": 645,
+          "top": 357,
+          "right": 673,
+          "bottom": 371
+        },
+        {
+          "text": "65",
+          "left": 681,
+          "top": 357,
+          "right": 701,
+          "bottom": 371
+        },
+        {
+          "text": "-",
+          "left": 709,
+          "top": 363,
+          "right": 711,
+          "bottom": 365
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Str.",
+          "left": 645,
+          "top": 357,
+          "right": 673,
+          "bottom": 371
+        },
+        {
+          "text": "65",
+          "left": 681,
+          "top": 357,
+          "right": 701,
+          "bottom": 371
+        },
+        {
+          "text": "-",
+          "left": 709,
+          "top": 363,
+          "right": 711,
+          "bottom": 365
+        },
+        {
+          "text": "67591",
+          "left": 719,
+          "top": 357,
+          "right": 769,
+          "bottom": 372
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "65",
+          "left": 681,
+          "top": 357,
+          "right": 701,
+          "bottom": 371
+        },
+        {
+          "text": "-",
+          "left": 709,
+          "top": 363,
+          "right": 711,
+          "bottom": 365
+        },
+        {
+          "text": "67591",
+          "left": 719,
+          "top": 357,
+          "right": 769,
+          "bottom": 372
+        },
+        {
+          "text": "Offstein",
+          "left": 779,
+          "top": 357,
+          "right": 843,
+          "bottom": 372
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "0",
+          "left": 1322,
+          "top": 326,
+          "right": 1341,
+          "bottom": 361
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "0",
+          "left": 1354,
+          "top": 326,
+          "right": 1372,
+          "bottom": 361
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "4",
+          "left": 1386,
+          "top": 327,
+          "right": 1405,
+          "bottom": 362
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "6",
+          "left": 1417,
+          "top": 328,
+          "right": 1437,
+          "bottom": 362
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "7",
+          "left": 1451,
+          "top": 327,
+          "right": 1469,
+          "bottom": 363
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "0",
+          "left": 1322,
+          "top": 326,
+          "right": 1341,
+          "bottom": 361
+        },
+        {
+          "text": "0",
+          "left": 1354,
+          "top": 326,
+          "right": 1372,
+          "bottom": 361
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "0",
+          "left": 1354,
+          "top": 326,
+          "right": 1372,
+          "bottom": 361
+        },
+        {
+          "text": "4",
+          "left": 1386,
+          "top": 327,
+          "right": 1405,
+          "bottom": 362
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "4",
+          "left": 1386,
+          "top": 327,
+          "right": 1405,
+          "bottom": 362
+        },
+        {
+          "text": "6",
+          "left": 1417,
+          "top": 328,
+          "right": 1437,
+          "bottom": 362
+        }
+      ],
+      "parses": {
+        "date": "04-06-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "6",
+          "left": 1417,
+          "top": 328,
+          "right": 1437,
+          "bottom": 362
+        },
+        {
+          "text": "7",
+          "left": 1451,
+          "top": 327,
+          "right": 1469,
+          "bottom": 363
+        }
+      ],
+      "parses": {
+        "date": "06-07-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "0",
+          "left": 1322,
+          "top": 326,
+          "right": 1341,
+          "bottom": 361
+        },
+        {
+          "text": "0",
+          "left": 1354,
+          "top": 326,
+          "right": 1372,
+          "bottom": 361
+        },
+        {
+          "text": "4",
+          "left": 1386,
+          "top": 327,
+          "right": 1405,
+          "bottom": 362
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "0",
+          "left": 1354,
+          "top": 326,
+          "right": 1372,
+          "bottom": 361
+        },
+        {
+          "text": "4",
+          "left": 1386,
+          "top": 327,
+          "right": 1405,
+          "bottom": 362
+        },
+        {
+          "text": "6",
+          "left": 1417,
+          "top": 328,
+          "right": 1437,
+          "bottom": 362
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "4",
+          "left": 1386,
+          "top": 327,
+          "right": 1405,
+          "bottom": 362
+        },
+        {
+          "text": "6",
+          "left": 1417,
+          "top": 328,
+          "right": 1437,
+          "bottom": 362
+        },
+        {
+          "text": "7",
+          "left": 1451,
+          "top": 327,
+          "right": 1469,
+          "bottom": 363
+        }
+      ],
+      "parses": {
+        "date": "04-06-2007"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "0",
+          "left": 1322,
+          "top": 326,
+          "right": 1341,
+          "bottom": 361
+        },
+        {
+          "text": "0",
+          "left": 1354,
+          "top": 326,
+          "right": 1372,
+          "bottom": 361
+        },
+        {
+          "text": "4",
+          "left": 1386,
+          "top": 327,
+          "right": 1405,
+          "bottom": 362
+        },
+        {
+          "text": "6",
+          "left": 1417,
+          "top": 328,
+          "right": 1437,
+          "bottom": 362
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "0",
+          "left": 1354,
+          "top": 326,
+          "right": 1372,
+          "bottom": 361
+        },
+        {
+          "text": "4",
+          "left": 1386,
+          "top": 327,
+          "right": 1405,
+          "bottom": 362
+        },
+        {
+          "text": "6",
+          "left": 1417,
+          "top": 328,
+          "right": 1437,
+          "bottom": 362
+        },
+        {
+          "text": "7",
+          "left": 1451,
+          "top": 327,
+          "right": 1469,
+          "bottom": 363
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "9",
+          "left": 1484,
+          "top": 342,
+          "right": 1502,
+          "bottom": 363
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Neuoffsteiner",
+          "left": 1089,
+          "top": 379,
+          "right": 1269,
+          "bottom": 402
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Str.",
+          "left": 1279,
+          "top": 379,
+          "right": 1322,
+          "bottom": 402
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "65",
+          "left": 1334,
+          "top": 380,
+          "right": 1365,
+          "bottom": 402
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Neuoffsteiner",
+          "left": 1089,
+          "top": 379,
+          "right": 1269,
+          "bottom": 402
+        },
+        {
+          "text": "Str.",
+          "left": 1279,
+          "top": 379,
+          "right": 1322,
+          "bottom": 402
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Str.",
+          "left": 1279,
+          "top": 379,
+          "right": 1322,
+          "bottom": 402
+        },
+        {
+          "text": "65",
+          "left": 1334,
+          "top": 380,
+          "right": 1365,
+          "bottom": 402
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Neuoffsteiner",
+          "left": 1089,
+          "top": 379,
+          "right": 1269,
+          "bottom": 402
+        },
+        {
+          "text": "Str.",
+          "left": 1279,
+          "top": 379,
+          "right": 1322,
+          "bottom": 402
+        },
+        {
+          "text": "65",
+          "left": 1334,
+          "top": 380,
+          "right": 1365,
+          "bottom": 402
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Firma",
+          "left": 146,
+          "top": 408,
+          "right": 220,
+          "bottom": 446
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "67591",
+          "left": 1088,
+          "top": 420,
+          "right": 1167,
+          "bottom": 443
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Offstein",
+          "left": 1182,
+          "top": 420,
+          "right": 1284,
+          "bottom": 443
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "67591",
+          "left": 1088,
+          "top": 420,
+          "right": 1167,
+          "bottom": 443
+        },
+        {
+          "text": "Offstein",
+          "left": 1182,
+          "top": 420,
+          "right": 1284,
+          "bottom": 443
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Liebherr-Mietpartner",
+          "left": 160,
+          "top": 444,
+          "right": 387,
+          "bottom": 468
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "GmbH",
+          "left": 395,
+          "top": 445,
+          "right": 463,
+          "bottom": 464
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Liebherr-Mietpartner",
+          "left": 160,
+          "top": 444,
+          "right": 387,
+          "bottom": 468
+        },
+        {
+          "text": "GmbH",
+          "left": 395,
+          "top": 445,
+          "right": 463,
+          "bottom": 464
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Tel.",
+          "left": 1087,
+          "top": 461,
+          "right": 1136,
+          "bottom": 484
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "062",
+          "left": 1148,
+          "top": 461,
+          "right": 1202,
+          "bottom": 484
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "43/905",
+          "left": 1212,
+          "top": 461,
+          "right": 1314,
+          "bottom": 484
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "455",
+          "left": 1320,
+          "top": 462,
+          "right": 1370,
+          "bottom": 484
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Josef-Eicher-Str.",
+          "left": 158,
+          "top": 472,
+          "right": 344,
+          "bottom": 491
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "23",
+          "left": 354,
+          "top": 473,
+          "right": 380,
+          "bottom": 491
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Tel.",
+          "left": 1087,
+          "top": 461,
+          "right": 1136,
+          "bottom": 484
+        },
+        {
+          "text": "062",
+          "left": 1148,
+          "top": 461,
+          "right": 1202,
+          "bottom": 484
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "062",
+          "left": 1148,
+          "top": 461,
+          "right": 1202,
+          "bottom": 484
+        },
+        {
+          "text": "43/905",
+          "left": 1212,
+          "top": 461,
+          "right": 1314,
+          "bottom": 484
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "43/905",
+          "left": 1212,
+          "top": 461,
+          "right": 1314,
+          "bottom": 484
+        },
+        {
+          "text": "455",
+          "left": 1320,
+          "top": 462,
+          "right": 1370,
+          "bottom": 484
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "455",
+          "left": 1320,
+          "top": 462,
+          "right": 1370,
+          "bottom": 484
+        },
+        {
+          "text": "Josef-Eicher-Str.",
+          "left": 158,
+          "top": 472,
+          "right": 344,
+          "bottom": 491
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Josef-Eicher-Str.",
+          "left": 158,
+          "top": 472,
+          "right": 344,
+          "bottom": 491
+        },
+        {
+          "text": "23",
+          "left": 354,
+          "top": 473,
+          "right": 380,
+          "bottom": 491
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Tel.",
+          "left": 1087,
+          "top": 461,
+          "right": 1136,
+          "bottom": 484
+        },
+        {
+          "text": "062",
+          "left": 1148,
+          "top": 461,
+          "right": 1202,
+          "bottom": 484
+        },
+        {
+          "text": "43/905",
+          "left": 1212,
+          "top": 461,
+          "right": 1314,
+          "bottom": 484
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "062",
+          "left": 1148,
+          "top": 461,
+          "right": 1202,
+          "bottom": 484
+        },
+        {
+          "text": "43/905",
+          "left": 1212,
+          "top": 461,
+          "right": 1314,
+          "bottom": 484
+        },
+        {
+          "text": "455",
+          "left": 1320,
+          "top": 462,
+          "right": 1370,
+          "bottom": 484
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "43/905",
+          "left": 1212,
+          "top": 461,
+          "right": 1314,
+          "bottom": 484
+        },
+        {
+          "text": "455",
+          "left": 1320,
+          "top": 462,
+          "right": 1370,
+          "bottom": 484
+        },
+        {
+          "text": "Josef-Eicher-Str.",
+          "left": 158,
+          "top": 472,
+          "right": 344,
+          "bottom": 491
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "455",
+          "left": 1320,
+          "top": 462,
+          "right": 1370,
+          "bottom": 484
+        },
+        {
+          "text": "Josef-Eicher-Str.",
+          "left": 158,
+          "top": 472,
+          "right": 344,
+          "bottom": 491
+        },
+        {
+          "text": "23",
+          "left": 354,
+          "top": 473,
+          "right": 380,
+          "bottom": 491
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Tel.",
+          "left": 1087,
+          "top": 461,
+          "right": 1136,
+          "bottom": 484
+        },
+        {
+          "text": "062",
+          "left": 1148,
+          "top": 461,
+          "right": 1202,
+          "bottom": 484
+        },
+        {
+          "text": "43/905",
+          "left": 1212,
+          "top": 461,
+          "right": 1314,
+          "bottom": 484
+        },
+        {
+          "text": "455",
+          "left": 1320,
+          "top": 462,
+          "right": 1370,
+          "bottom": 484
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "062",
+          "left": 1148,
+          "top": 461,
+          "right": 1202,
+          "bottom": 484
+        },
+        {
+          "text": "43/905",
+          "left": 1212,
+          "top": 461,
+          "right": 1314,
+          "bottom": 484
+        },
+        {
+          "text": "455",
+          "left": 1320,
+          "top": 462,
+          "right": 1370,
+          "bottom": 484
+        },
+        {
+          "text": "Josef-Eicher-Str.",
+          "left": 158,
+          "top": 472,
+          "right": 344,
+          "bottom": 491
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "43/905",
+          "left": 1212,
+          "top": 461,
+          "right": 1314,
+          "bottom": 484
+        },
+        {
+          "text": "455",
+          "left": 1320,
+          "top": 462,
+          "right": 1370,
+          "bottom": 484
+        },
+        {
+          "text": "Josef-Eicher-Str.",
+          "left": 158,
+          "top": 472,
+          "right": 344,
+          "bottom": 491
+        },
+        {
+          "text": "23",
+          "left": 354,
+          "top": 473,
+          "right": 380,
+          "bottom": 491
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "60437",
+          "left": 158,
+          "top": 499,
+          "right": 226,
+          "bottom": 518
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Frankfurt",
+          "left": 236,
+          "top": 500,
+          "right": 336,
+          "bottom": 518
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "a.M.",
+          "left": 344,
+          "top": 500,
+          "right": 389,
+          "bottom": 518
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "60437",
+          "left": 158,
+          "top": 499,
+          "right": 226,
+          "bottom": 518
+        },
+        {
+          "text": "Frankfurt",
+          "left": 236,
+          "top": 500,
+          "right": 336,
+          "bottom": 518
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Frankfurt",
+          "left": 236,
+          "top": 500,
+          "right": 336,
+          "bottom": 518
+        },
+        {
+          "text": "a.M.",
+          "left": 344,
+          "top": 500,
+          "right": 389,
+          "bottom": 518
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "60437",
+          "left": 158,
+          "top": 499,
+          "right": 226,
+          "bottom": 518
+        },
+        {
+          "text": "Frankfurt",
+          "left": 236,
+          "top": 500,
+          "right": 336,
+          "bottom": 518
+        },
+        {
+          "text": "a.M.",
+          "left": 344,
+          "top": 500,
+          "right": 389,
+          "bottom": 518
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Fax",
+          "left": 1089,
+          "top": 503,
+          "right": 1137,
+          "bottom": 525
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "062",
+          "left": 1148,
+          "top": 503,
+          "right": 1201,
+          "bottom": 525
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "43/905",
+          "left": 1211,
+          "top": 503,
+          "right": 1313,
+          "bottom": 525
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "460",
+          "left": 1320,
+          "top": 503,
+          "right": 1369,
+          "bottom": 525
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Fax",
+          "left": 1089,
+          "top": 503,
+          "right": 1137,
+          "bottom": 525
+        },
+        {
+          "text": "062",
+          "left": 1148,
+          "top": 503,
+          "right": 1201,
+          "bottom": 525
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "062",
+          "left": 1148,
+          "top": 503,
+          "right": 1201,
+          "bottom": 525
+        },
+        {
+          "text": "43/905",
+          "left": 1211,
+          "top": 503,
+          "right": 1313,
+          "bottom": 525
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "43/905",
+          "left": 1211,
+          "top": 503,
+          "right": 1313,
+          "bottom": 525
+        },
+        {
+          "text": "460",
+          "left": 1320,
+          "top": 503,
+          "right": 1369,
+          "bottom": 525
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Fax",
+          "left": 1089,
+          "top": 503,
+          "right": 1137,
+          "bottom": 525
+        },
+        {
+          "text": "062",
+          "left": 1148,
+          "top": 503,
+          "right": 1201,
+          "bottom": 525
+        },
+        {
+          "text": "43/905",
+          "left": 1211,
+          "top": 503,
+          "right": 1313,
+          "bottom": 525
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "062",
+          "left": 1148,
+          "top": 503,
+          "right": 1201,
+          "bottom": 525
+        },
+        {
+          "text": "43/905",
+          "left": 1211,
+          "top": 503,
+          "right": 1313,
+          "bottom": 525
+        },
+        {
+          "text": "460",
+          "left": 1320,
+          "top": 503,
+          "right": 1369,
+          "bottom": 525
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Fax",
+          "left": 1089,
+          "top": 503,
+          "right": 1137,
+          "bottom": 525
+        },
+        {
+          "text": "062",
+          "left": 1148,
+          "top": 503,
+          "right": 1201,
+          "bottom": 525
+        },
+        {
+          "text": "43/905",
+          "left": 1211,
+          "top": 503,
+          "right": 1313,
+          "bottom": 525
+        },
+        {
+          "text": "460",
+          "left": 1320,
+          "top": 503,
+          "right": 1369,
+          "bottom": 525
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "wolfgangplischke@aol.com",
+          "left": 1086,
+          "top": 543,
+          "right": 1455,
+          "bottom": 572
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 526,
+          "top": 513,
+          "right": 626,
+          "bottom": 523
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "wolfgangplischke@aol.com",
+          "left": 1086,
+          "top": 543,
+          "right": 1455,
+          "bottom": 572
+        },
+        {
+          "text": " ",
+          "left": 526,
+          "top": 513,
+          "right": 626,
+          "bottom": 523
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 541,
+          "top": 530,
+          "right": 611,
+          "bottom": 557
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "\u00bb",
+          "left": 681,
+          "top": 589,
+          "right": 695,
+          "bottom": 594
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "ownun",
+          "left": 711,
+          "top": 589,
+          "right": 779,
+          "bottom": 610
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Mf.03.",
+          "left": 792,
+          "top": 557,
+          "right": 905,
+          "bottom": 612
+        }
+      ],
+      "parses": {
+        "date": "10-03-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "2020",
+          "left": 915,
+          "top": 550,
+          "right": 1003,
+          "bottom": 634
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "KS",
+          "left": 1006,
+          "top": 554,
+          "right": 1067,
+          "bottom": 611
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "\u00bb",
+          "left": 681,
+          "top": 589,
+          "right": 695,
+          "bottom": 594
+        },
+        {
+          "text": "ownun",
+          "left": 711,
+          "top": 589,
+          "right": 779,
+          "bottom": 610
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "ownun",
+          "left": 711,
+          "top": 589,
+          "right": 779,
+          "bottom": 610
+        },
+        {
+          "text": "Mf.03.",
+          "left": 792,
+          "top": 557,
+          "right": 905,
+          "bottom": 612
+        }
+      ],
+      "parses": {
+        "date": "10-03-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Mf.03.",
+          "left": 792,
+          "top": 557,
+          "right": 905,
+          "bottom": 612
+        },
+        {
+          "text": "2020",
+          "left": 915,
+          "top": 550,
+          "right": 1003,
+          "bottom": 634
+        }
+      ],
+      "parses": {
+        "date": "03-03-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "2020",
+          "left": 915,
+          "top": 550,
+          "right": 1003,
+          "bottom": 634
+        },
+        {
+          "text": "KS",
+          "left": 1006,
+          "top": 554,
+          "right": 1067,
+          "bottom": 611
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "\u00bb",
+          "left": 681,
+          "top": 589,
+          "right": 695,
+          "bottom": 594
+        },
+        {
+          "text": "ownun",
+          "left": 711,
+          "top": 589,
+          "right": 779,
+          "bottom": 610
+        },
+        {
+          "text": "Mf.03.",
+          "left": 792,
+          "top": 557,
+          "right": 905,
+          "bottom": 612
+        }
+      ],
+      "parses": {
+        "date": "10-03-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "ownun",
+          "left": 711,
+          "top": 589,
+          "right": 779,
+          "bottom": 610
+        },
+        {
+          "text": "Mf.03.",
+          "left": 792,
+          "top": 557,
+          "right": 905,
+          "bottom": 612
+        },
+        {
+          "text": "2020",
+          "left": 915,
+          "top": 550,
+          "right": 1003,
+          "bottom": 634
+        }
+      ],
+      "parses": {
+        "date": "03-03-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Mf.03.",
+          "left": 792,
+          "top": 557,
+          "right": 905,
+          "bottom": 612
+        },
+        {
+          "text": "2020",
+          "left": 915,
+          "top": 550,
+          "right": 1003,
+          "bottom": 634
+        },
+        {
+          "text": "KS",
+          "left": 1006,
+          "top": 554,
+          "right": 1067,
+          "bottom": 611
+        }
+      ],
+      "parses": {
+        "date": "03-03-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "\u00bb",
+          "left": 681,
+          "top": 589,
+          "right": 695,
+          "bottom": 594
+        },
+        {
+          "text": "ownun",
+          "left": 711,
+          "top": 589,
+          "right": 779,
+          "bottom": 610
+        },
+        {
+          "text": "Mf.03.",
+          "left": 792,
+          "top": 557,
+          "right": 905,
+          "bottom": 612
+        },
+        {
+          "text": "2020",
+          "left": 915,
+          "top": 550,
+          "right": 1003,
+          "bottom": 634
+        }
+      ],
+      "parses": {
+        "date": "03-03-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "ownun",
+          "left": 711,
+          "top": 589,
+          "right": 779,
+          "bottom": 610
+        },
+        {
+          "text": "Mf.03.",
+          "left": 792,
+          "top": 557,
+          "right": 905,
+          "bottom": 612
+        },
+        {
+          "text": "2020",
+          "left": 915,
+          "top": 550,
+          "right": 1003,
+          "bottom": 634
+        },
+        {
+          "text": "KS",
+          "left": 1006,
+          "top": 554,
+          "right": 1067,
+          "bottom": 611
+        }
+      ],
+      "parses": {
+        "date": "03-03-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "YOO",
+          "left": 796,
+          "top": 618,
+          "right": 912,
+          "bottom": 659
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "OO",
+          "left": 921,
+          "top": 622,
+          "right": 1026,
+          "bottom": 659
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "\u2014_UStd:",
+          "left": 1048,
+          "top": 617,
+          "right": 1179,
+          "bottom": 649
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "DE183122347",
+          "left": 1192,
+          "top": 626,
+          "right": 1382,
+          "bottom": 649
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 663,
+          "top": 605,
+          "right": 672,
+          "bottom": 655
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "YOO",
+          "left": 796,
+          "top": 618,
+          "right": 912,
+          "bottom": 659
+        },
+        {
+          "text": "OO",
+          "left": 921,
+          "top": 622,
+          "right": 1026,
+          "bottom": 659
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "OO",
+          "left": 921,
+          "top": 622,
+          "right": 1026,
+          "bottom": 659
+        },
+        {
+          "text": "\u2014_UStd:",
+          "left": 1048,
+          "top": 617,
+          "right": 1179,
+          "bottom": 649
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "\u2014_UStd:",
+          "left": 1048,
+          "top": 617,
+          "right": 1179,
+          "bottom": 649
+        },
+        {
+          "text": "DE183122347",
+          "left": 1192,
+          "top": 626,
+          "right": 1382,
+          "bottom": 649
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "DE183122347",
+          "left": 1192,
+          "top": 626,
+          "right": 1382,
+          "bottom": 649
+        },
+        {
+          "text": " ",
+          "left": 663,
+          "top": 605,
+          "right": 672,
+          "bottom": 655
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "YOO",
+          "left": 796,
+          "top": 618,
+          "right": 912,
+          "bottom": 659
+        },
+        {
+          "text": "OO",
+          "left": 921,
+          "top": 622,
+          "right": 1026,
+          "bottom": 659
+        },
+        {
+          "text": "\u2014_UStd:",
+          "left": 1048,
+          "top": 617,
+          "right": 1179,
+          "bottom": 649
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "OO",
+          "left": 921,
+          "top": 622,
+          "right": 1026,
+          "bottom": 659
+        },
+        {
+          "text": "\u2014_UStd:",
+          "left": 1048,
+          "top": 617,
+          "right": 1179,
+          "bottom": 649
+        },
+        {
+          "text": "DE183122347",
+          "left": 1192,
+          "top": 626,
+          "right": 1382,
+          "bottom": 649
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "\u2014_UStd:",
+          "left": 1048,
+          "top": 617,
+          "right": 1179,
+          "bottom": 649
+        },
+        {
+          "text": "DE183122347",
+          "left": 1192,
+          "top": 626,
+          "right": 1382,
+          "bottom": 649
+        },
+        {
+          "text": " ",
+          "left": 663,
+          "top": 605,
+          "right": 672,
+          "bottom": 655
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "YOO",
+          "left": 796,
+          "top": 618,
+          "right": 912,
+          "bottom": 659
+        },
+        {
+          "text": "OO",
+          "left": 921,
+          "top": 622,
+          "right": 1026,
+          "bottom": 659
+        },
+        {
+          "text": "\u2014_UStd:",
+          "left": 1048,
+          "top": 617,
+          "right": 1179,
+          "bottom": 649
+        },
+        {
+          "text": "DE183122347",
+          "left": 1192,
+          "top": 626,
+          "right": 1382,
+          "bottom": 649
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "OO",
+          "left": 921,
+          "top": 622,
+          "right": 1026,
+          "bottom": 659
+        },
+        {
+          "text": "\u2014_UStd:",
+          "left": 1048,
+          "top": 617,
+          "right": 1179,
+          "bottom": 649
+        },
+        {
+          "text": "DE183122347",
+          "left": 1192,
+          "top": 626,
+          "right": 1382,
+          "bottom": 649
+        },
+        {
+          "text": " ",
+          "left": 663,
+          "top": 605,
+          "right": 672,
+          "bottom": 655
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 524,
+          "top": 689,
+          "right": 732,
+          "bottom": 860
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 153,
+          "top": 880,
+          "right": 1534,
+          "bottom": 903
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 152,
+          "top": 955,
+          "right": 1534,
+          "bottom": 978
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 453,
+          "top": 889,
+          "right": 455,
+          "bottom": 1014
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 152,
+          "top": 955,
+          "right": 1534,
+          "bottom": 978
+        },
+        {
+          "text": " ",
+          "left": 453,
+          "top": 889,
+          "right": 455,
+          "bottom": 1014
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 1097,
+          "top": 893,
+          "right": 1101,
+          "bottom": 1064
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 151,
+          "top": 1050,
+          "right": 1533,
+          "bottom": 1072
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 151,
+          "top": 1089,
+          "right": 1533,
+          "bottom": 1112
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 151,
+          "top": 1129,
+          "right": 1533,
+          "bottom": 1152
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 1531,
+          "top": 897,
+          "right": 1535,
+          "bottom": 1214
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 151,
+          "top": 1129,
+          "right": 1533,
+          "bottom": 1152
+        },
+        {
+          "text": " ",
+          "left": 1531,
+          "top": 897,
+          "right": 1535,
+          "bottom": 1214
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 1294,
+          "top": 954,
+          "right": 1297,
+          "bottom": 1212
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 1048,
+          "top": 659,
+          "right": 1049,
+          "bottom": 682
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Kunden",
+          "left": 1088,
+          "top": 659,
+          "right": 1172,
+          "bottom": 678
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Nr.:",
+          "left": 1182,
+          "top": 659,
+          "right": 1218,
+          "bottom": 678
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 1294,
+          "top": 954,
+          "right": 1297,
+          "bottom": 1212
+        },
+        {
+          "text": "|",
+          "left": 1048,
+          "top": 659,
+          "right": 1049,
+          "bottom": 682
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 1048,
+          "top": 659,
+          "right": 1049,
+          "bottom": 682
+        },
+        {
+          "text": "Kunden",
+          "left": 1088,
+          "top": 659,
+          "right": 1172,
+          "bottom": 678
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Kunden",
+          "left": 1088,
+          "top": 659,
+          "right": 1172,
+          "bottom": 678
+        },
+        {
+          "text": "Nr.:",
+          "left": 1182,
+          "top": 659,
+          "right": 1218,
+          "bottom": 678
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 1294,
+          "top": 954,
+          "right": 1297,
+          "bottom": 1212
+        },
+        {
+          "text": "|",
+          "left": 1048,
+          "top": 659,
+          "right": 1049,
+          "bottom": 682
+        },
+        {
+          "text": "Kunden",
+          "left": 1088,
+          "top": 659,
+          "right": 1172,
+          "bottom": 678
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 1048,
+          "top": 659,
+          "right": 1049,
+          "bottom": 682
+        },
+        {
+          "text": "Kunden",
+          "left": 1088,
+          "top": 659,
+          "right": 1172,
+          "bottom": 678
+        },
+        {
+          "text": "Nr.:",
+          "left": 1182,
+          "top": 659,
+          "right": 1218,
+          "bottom": 678
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 1294,
+          "top": 954,
+          "right": 1297,
+          "bottom": 1212
+        },
+        {
+          "text": "|",
+          "left": 1048,
+          "top": 659,
+          "right": 1049,
+          "bottom": 682
+        },
+        {
+          "text": "Kunden",
+          "left": 1088,
+          "top": 659,
+          "right": 1172,
+          "bottom": 678
+        },
+        {
+          "text": "Nr.:",
+          "left": 1182,
+          "top": 659,
+          "right": 1218,
+          "bottom": 678
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "12049",
+          "left": 1412,
+          "top": 661,
+          "right": 1479,
+          "bottom": 680
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "BIG",
+          "left": 794,
+          "top": 669,
+          "right": 817,
+          "bottom": 711
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "EA",
+          "left": 819,
+          "top": 665,
+          "right": 916,
+          "bottom": 712
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Ce",
+          "left": 915,
+          "top": 669,
+          "right": 984,
+          "bottom": 712
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "12049",
+          "left": 1412,
+          "top": 661,
+          "right": 1479,
+          "bottom": 680
+        },
+        {
+          "text": "BIG",
+          "left": 794,
+          "top": 669,
+          "right": 817,
+          "bottom": 711
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "BIG",
+          "left": 794,
+          "top": 669,
+          "right": 817,
+          "bottom": 711
+        },
+        {
+          "text": "EA",
+          "left": 819,
+          "top": 665,
+          "right": 916,
+          "bottom": 712
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "EA",
+          "left": 819,
+          "top": 665,
+          "right": 916,
+          "bottom": 712
+        },
+        {
+          "text": "Ce",
+          "left": 915,
+          "top": 669,
+          "right": 984,
+          "bottom": 712
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "12049",
+          "left": 1412,
+          "top": 661,
+          "right": 1479,
+          "bottom": 680
+        },
+        {
+          "text": "BIG",
+          "left": 794,
+          "top": 669,
+          "right": 817,
+          "bottom": 711
+        },
+        {
+          "text": "EA",
+          "left": 819,
+          "top": 665,
+          "right": 916,
+          "bottom": 712
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "BIG",
+          "left": 794,
+          "top": 669,
+          "right": 817,
+          "bottom": 711
+        },
+        {
+          "text": "EA",
+          "left": 819,
+          "top": 665,
+          "right": 916,
+          "bottom": 712
+        },
+        {
+          "text": "Ce",
+          "left": 915,
+          "top": 669,
+          "right": 984,
+          "bottom": 712
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "12049",
+          "left": 1412,
+          "top": 661,
+          "right": 1479,
+          "bottom": 680
+        },
+        {
+          "text": "BIG",
+          "left": 794,
+          "top": 669,
+          "right": 817,
+          "bottom": 711
+        },
+        {
+          "text": "EA",
+          "left": 819,
+          "top": 665,
+          "right": 916,
+          "bottom": 712
+        },
+        {
+          "text": "Ce",
+          "left": 915,
+          "top": 669,
+          "right": 984,
+          "bottom": 712
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "eee",
+          "left": 1087,
+          "top": 687,
+          "right": 1224,
+          "bottom": 706
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "13.03.2020",
+          "left": 1356,
+          "top": 689,
+          "right": 1479,
+          "bottom": 708
+        }
+      ],
+      "parses": {
+        "date": "03-13-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Datum:",
+          "left": 1087,
+          "top": 710,
+          "right": 1165,
+          "bottom": 742
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "16.03.2020",
+          "left": 1356,
+          "top": 716,
+          "right": 1479,
+          "bottom": 735
+        }
+      ],
+      "parses": {
+        "date": "03-16-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Rechnung",
+          "left": 156,
+          "top": 774,
+          "right": 316,
+          "bottom": 805
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Nr.",
+          "left": 330,
+          "top": 775,
+          "right": 372,
+          "bottom": 799
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "14047",
+          "left": 387,
+          "top": 775,
+          "right": 475,
+          "bottom": 799
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Rechnung",
+          "left": 156,
+          "top": 774,
+          "right": 316,
+          "bottom": 805
+        },
+        {
+          "text": "Nr.",
+          "left": 330,
+          "top": 775,
+          "right": 372,
+          "bottom": 799
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Nr.",
+          "left": 330,
+          "top": 775,
+          "right": 372,
+          "bottom": 799
+        },
+        {
+          "text": "14047",
+          "left": 387,
+          "top": 775,
+          "right": 475,
+          "bottom": 799
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Rechnung",
+          "left": 156,
+          "top": 774,
+          "right": 316,
+          "bottom": 805
+        },
+        {
+          "text": "Nr.",
+          "left": 330,
+          "top": 775,
+          "right": 372,
+          "bottom": 799
+        },
+        {
+          "text": "14047",
+          "left": 387,
+          "top": 775,
+          "right": 475,
+          "bottom": 799
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "ee",
+          "left": 888,
+          "top": 784,
+          "right": 915,
+          "bottom": 789
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 1047,
+          "top": 825,
+          "right": 1048,
+          "bottom": 834
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Transportnr.",
+          "left": 154,
+          "top": 838,
+          "right": 289,
+          "bottom": 861
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "30672",
+          "left": 300,
+          "top": 838,
+          "right": 368,
+          "bottom": 857
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Transportnr.",
+          "left": 154,
+          "top": 838,
+          "right": 289,
+          "bottom": 861
+        },
+        {
+          "text": "30672",
+          "left": 300,
+          "top": 838,
+          "right": 368,
+          "bottom": 857
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "ag",
+          "left": 970,
+          "top": 814,
+          "right": 996,
+          "bottom": 908
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "i}",
+          "left": 1027,
+          "top": 831,
+          "right": 1048,
+          "bottom": 880
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 152,
+          "top": 894,
+          "right": 154,
+          "bottom": 930
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Pos",
+          "left": 163,
+          "top": 896,
+          "right": 207,
+          "bottom": 931
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Menge",
+          "left": 279,
+          "top": 897,
+          "right": 377,
+          "bottom": 932
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 152,
+          "top": 894,
+          "right": 154,
+          "bottom": 930
+        },
+        {
+          "text": "Pos",
+          "left": 163,
+          "top": 896,
+          "right": 207,
+          "bottom": 931
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Pos",
+          "left": 163,
+          "top": 896,
+          "right": 207,
+          "bottom": 931
+        },
+        {
+          "text": "Menge",
+          "left": 279,
+          "top": 897,
+          "right": 377,
+          "bottom": 932
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 152,
+          "top": 894,
+          "right": 154,
+          "bottom": 930
+        },
+        {
+          "text": "Pos",
+          "left": 163,
+          "top": 896,
+          "right": 207,
+          "bottom": 931
+        },
+        {
+          "text": "Menge",
+          "left": 279,
+          "top": 897,
+          "right": 377,
+          "bottom": 932
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Text",
+          "left": 470,
+          "top": 898,
+          "right": 524,
+          "bottom": 933
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Einzelpreis",
+          "left": 1134,
+          "top": 907,
+          "right": 1264,
+          "bottom": 933
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 1296,
+          "top": 922,
+          "right": 1297,
+          "bottom": 935
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Gesamtpreis",
+          "left": 1337,
+          "top": 908,
+          "right": 1492,
+          "bottom": 934
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 1296,
+          "top": 922,
+          "right": 1297,
+          "bottom": 935
+        },
+        {
+          "text": "Gesamtpreis",
+          "left": 1337,
+          "top": 908,
+          "right": 1492,
+          "bottom": 934
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "le",
+          "left": 216,
+          "top": 931,
+          "right": 234,
+          "bottom": 964
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": ".",
+          "left": 723,
+          "top": 965,
+          "right": 736,
+          "bottom": 966
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "i",
+          "left": 874,
+          "top": 966,
+          "right": 876,
+          "bottom": 968
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 1098,
+          "top": 955,
+          "right": 1100,
+          "bottom": 963
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "EUR",
+          "left": 1172,
+          "top": 938,
+          "right": 1226,
+          "bottom": 958
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 1296,
+          "top": 936,
+          "right": 1297,
+          "bottom": 944
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 1098,
+          "top": 955,
+          "right": 1100,
+          "bottom": 963
+        },
+        {
+          "text": "EUR",
+          "left": 1172,
+          "top": 938,
+          "right": 1226,
+          "bottom": 958
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "EUR",
+          "left": 1172,
+          "top": 938,
+          "right": 1226,
+          "bottom": 958
+        },
+        {
+          "text": "|",
+          "left": 1296,
+          "top": 936,
+          "right": 1297,
+          "bottom": 944
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 1098,
+          "top": 955,
+          "right": 1100,
+          "bottom": 963
+        },
+        {
+          "text": "EUR",
+          "left": 1172,
+          "top": 938,
+          "right": 1226,
+          "bottom": 958
+        },
+        {
+          "text": "|",
+          "left": 1296,
+          "top": 936,
+          "right": 1297,
+          "bottom": 944
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "EUR",
+          "left": 1387,
+          "top": 940,
+          "right": 1443,
+          "bottom": 960
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 152,
+          "top": 971,
+          "right": 153,
+          "bottom": 998
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1)",
+          "left": 197,
+          "top": 975,
+          "right": 216,
+          "bottom": 1006
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1,00",
+          "left": 281,
+          "top": 976,
+          "right": 324,
+          "bottom": 997
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 335,
+          "top": 964,
+          "right": 336,
+          "bottom": 999
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 152,
+          "top": 971,
+          "right": 153,
+          "bottom": 998
+        },
+        {
+          "text": "1)",
+          "left": 197,
+          "top": 975,
+          "right": 216,
+          "bottom": 1006
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1)",
+          "left": 197,
+          "top": 975,
+          "right": 216,
+          "bottom": 1006
+        },
+        {
+          "text": "1,00",
+          "left": 281,
+          "top": 976,
+          "right": 324,
+          "bottom": 997
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1,00",
+          "left": 281,
+          "top": 976,
+          "right": 324,
+          "bottom": 997
+        },
+        {
+          "text": "|",
+          "left": 335,
+          "top": 964,
+          "right": 336,
+          "bottom": 999
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 152,
+          "top": 971,
+          "right": 153,
+          "bottom": 998
+        },
+        {
+          "text": "1)",
+          "left": 197,
+          "top": 975,
+          "right": 216,
+          "bottom": 1006
+        },
+        {
+          "text": "1,00",
+          "left": 281,
+          "top": 976,
+          "right": 324,
+          "bottom": 997
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1)",
+          "left": 197,
+          "top": 975,
+          "right": 216,
+          "bottom": 1006
+        },
+        {
+          "text": "1,00",
+          "left": 281,
+          "top": 976,
+          "right": 324,
+          "bottom": 997
+        },
+        {
+          "text": "|",
+          "left": 335,
+          "top": 964,
+          "right": 336,
+          "bottom": 999
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 152,
+          "top": 971,
+          "right": 153,
+          "bottom": 998
+        },
+        {
+          "text": "1)",
+          "left": 197,
+          "top": 975,
+          "right": 216,
+          "bottom": 1006
+        },
+        {
+          "text": "1,00",
+          "left": 281,
+          "top": 976,
+          "right": 324,
+          "bottom": 997
+        },
+        {
+          "text": "|",
+          "left": 335,
+          "top": 964,
+          "right": 336,
+          "bottom": 999
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 453,
+          "top": 975,
+          "right": 454,
+          "bottom": 982
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Transport",
+          "left": 469,
+          "top": 977,
+          "right": 575,
+          "bottom": 1000
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 453,
+          "top": 975,
+          "right": 454,
+          "bottom": 982
+        },
+        {
+          "text": "Transport",
+          "left": 469,
+          "top": 977,
+          "right": 575,
+          "bottom": 1000
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 1098,
+          "top": 974,
+          "right": 1099,
+          "bottom": 978
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "350,00",
+          "left": 1213,
+          "top": 982,
+          "right": 1287,
+          "bottom": 1003
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "350,00",
+          "left": 1449,
+          "top": 983,
+          "right": 1524,
+          "bottom": 1005
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 152,
+          "top": 1009,
+          "right": 153,
+          "bottom": 1012
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 215,
+          "top": 1007,
+          "right": 216,
+          "bottom": 1021
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 152,
+          "top": 1009,
+          "right": 153,
+          "bottom": 1012
+        },
+        {
+          "text": "|",
+          "left": 215,
+          "top": 1007,
+          "right": 216,
+          "bottom": 1021
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 335,
+          "top": 1000,
+          "right": 336,
+          "bottom": 1028
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 453,
+          "top": 1015,
+          "right": 454,
+          "bottom": 1025
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "324682",
+          "left": 470,
+          "top": 1004,
+          "right": 551,
+          "bottom": 1023
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 453,
+          "top": 1015,
+          "right": 454,
+          "bottom": 1025
+        },
+        {
+          "text": "324682",
+          "left": 470,
+          "top": 1004,
+          "right": 551,
+          "bottom": 1023
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 1296,
+          "top": 1006,
+          "right": 1297,
+          "bottom": 1010
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 151,
+          "top": 1038,
+          "right": 152,
+          "bottom": 1046
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 215,
+          "top": 1022,
+          "right": 216,
+          "bottom": 1049
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 151,
+          "top": 1038,
+          "right": 152,
+          "bottom": 1046
+        },
+        {
+          "text": "|",
+          "left": 215,
+          "top": 1022,
+          "right": 216,
+          "bottom": 1049
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 453,
+          "top": 1030,
+          "right": 454,
+          "bottom": 1036
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "L546",
+          "left": 470,
+          "top": 1032,
+          "right": 530,
+          "bottom": 1050
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "+",
+          "left": 539,
+          "top": 1035,
+          "right": 551,
+          "bottom": 1047
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "2",
+          "left": 560,
+          "top": 1032,
+          "right": 572,
+          "bottom": 1050
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "AT",
+          "left": 581,
+          "top": 1032,
+          "right": 612,
+          "bottom": 1051
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "von",
+          "left": 620,
+          "top": 1038,
+          "right": 658,
+          "bottom": 1051
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "LMP,LU",
+          "left": 668,
+          "top": 1033,
+          "right": 755,
+          "bottom": 1054
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "nach",
+          "left": 765,
+          "top": 1034,
+          "right": 816,
+          "bottom": 1062
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Fa.",
+          "left": 827,
+          "top": 1034,
+          "right": 859,
+          "bottom": 1052
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Herbst,",
+          "left": 870,
+          "top": 1034,
+          "right": 946,
+          "bottom": 1056
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Egelsbach",
+          "left": 957,
+          "top": 1035,
+          "right": 1071,
+          "bottom": 1058
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 453,
+          "top": 1030,
+          "right": 454,
+          "bottom": 1036
+        },
+        {
+          "text": "L546",
+          "left": 470,
+          "top": 1032,
+          "right": 530,
+          "bottom": 1050
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "L546",
+          "left": 470,
+          "top": 1032,
+          "right": 530,
+          "bottom": 1050
+        },
+        {
+          "text": "+",
+          "left": 539,
+          "top": 1035,
+          "right": 551,
+          "bottom": 1047
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "+",
+          "left": 539,
+          "top": 1035,
+          "right": 551,
+          "bottom": 1047
+        },
+        {
+          "text": "2",
+          "left": 560,
+          "top": 1032,
+          "right": 572,
+          "bottom": 1050
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "2",
+          "left": 560,
+          "top": 1032,
+          "right": 572,
+          "bottom": 1050
+        },
+        {
+          "text": "AT",
+          "left": 581,
+          "top": 1032,
+          "right": 612,
+          "bottom": 1051
+        }
+      ],
+      "parses": {
+        "date": "10-02-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "AT",
+          "left": 581,
+          "top": 1032,
+          "right": 612,
+          "bottom": 1051
+        },
+        {
+          "text": "von",
+          "left": 620,
+          "top": 1038,
+          "right": 658,
+          "bottom": 1051
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "von",
+          "left": 620,
+          "top": 1038,
+          "right": 658,
+          "bottom": 1051
+        },
+        {
+          "text": "LMP,LU",
+          "left": 668,
+          "top": 1033,
+          "right": 755,
+          "bottom": 1054
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "LMP,LU",
+          "left": 668,
+          "top": 1033,
+          "right": 755,
+          "bottom": 1054
+        },
+        {
+          "text": "nach",
+          "left": 765,
+          "top": 1034,
+          "right": 816,
+          "bottom": 1062
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "nach",
+          "left": 765,
+          "top": 1034,
+          "right": 816,
+          "bottom": 1062
+        },
+        {
+          "text": "Fa.",
+          "left": 827,
+          "top": 1034,
+          "right": 859,
+          "bottom": 1052
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Fa.",
+          "left": 827,
+          "top": 1034,
+          "right": 859,
+          "bottom": 1052
+        },
+        {
+          "text": "Herbst,",
+          "left": 870,
+          "top": 1034,
+          "right": 946,
+          "bottom": 1056
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Herbst,",
+          "left": 870,
+          "top": 1034,
+          "right": 946,
+          "bottom": 1056
+        },
+        {
+          "text": "Egelsbach",
+          "left": 957,
+          "top": 1035,
+          "right": 1071,
+          "bottom": 1058
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 453,
+          "top": 1030,
+          "right": 454,
+          "bottom": 1036
+        },
+        {
+          "text": "L546",
+          "left": 470,
+          "top": 1032,
+          "right": 530,
+          "bottom": 1050
+        },
+        {
+          "text": "+",
+          "left": 539,
+          "top": 1035,
+          "right": 551,
+          "bottom": 1047
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "L546",
+          "left": 470,
+          "top": 1032,
+          "right": 530,
+          "bottom": 1050
+        },
+        {
+          "text": "+",
+          "left": 539,
+          "top": 1035,
+          "right": 551,
+          "bottom": 1047
+        },
+        {
+          "text": "2",
+          "left": 560,
+          "top": 1032,
+          "right": 572,
+          "bottom": 1050
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "+",
+          "left": 539,
+          "top": 1035,
+          "right": 551,
+          "bottom": 1047
+        },
+        {
+          "text": "2",
+          "left": 560,
+          "top": 1032,
+          "right": 572,
+          "bottom": 1050
+        },
+        {
+          "text": "AT",
+          "left": 581,
+          "top": 1032,
+          "right": 612,
+          "bottom": 1051
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "2",
+          "left": 560,
+          "top": 1032,
+          "right": 572,
+          "bottom": 1050
+        },
+        {
+          "text": "AT",
+          "left": 581,
+          "top": 1032,
+          "right": 612,
+          "bottom": 1051
+        },
+        {
+          "text": "von",
+          "left": 620,
+          "top": 1038,
+          "right": 658,
+          "bottom": 1051
+        }
+      ],
+      "parses": {
+        "date": "10-02-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "AT",
+          "left": 581,
+          "top": 1032,
+          "right": 612,
+          "bottom": 1051
+        },
+        {
+          "text": "von",
+          "left": 620,
+          "top": 1038,
+          "right": 658,
+          "bottom": 1051
+        },
+        {
+          "text": "LMP,LU",
+          "left": 668,
+          "top": 1033,
+          "right": 755,
+          "bottom": 1054
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "von",
+          "left": 620,
+          "top": 1038,
+          "right": 658,
+          "bottom": 1051
+        },
+        {
+          "text": "LMP,LU",
+          "left": 668,
+          "top": 1033,
+          "right": 755,
+          "bottom": 1054
+        },
+        {
+          "text": "nach",
+          "left": 765,
+          "top": 1034,
+          "right": 816,
+          "bottom": 1062
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "LMP,LU",
+          "left": 668,
+          "top": 1033,
+          "right": 755,
+          "bottom": 1054
+        },
+        {
+          "text": "nach",
+          "left": 765,
+          "top": 1034,
+          "right": 816,
+          "bottom": 1062
+        },
+        {
+          "text": "Fa.",
+          "left": 827,
+          "top": 1034,
+          "right": 859,
+          "bottom": 1052
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "nach",
+          "left": 765,
+          "top": 1034,
+          "right": 816,
+          "bottom": 1062
+        },
+        {
+          "text": "Fa.",
+          "left": 827,
+          "top": 1034,
+          "right": 859,
+          "bottom": 1052
+        },
+        {
+          "text": "Herbst,",
+          "left": 870,
+          "top": 1034,
+          "right": 946,
+          "bottom": 1056
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Fa.",
+          "left": 827,
+          "top": 1034,
+          "right": 859,
+          "bottom": 1052
+        },
+        {
+          "text": "Herbst,",
+          "left": 870,
+          "top": 1034,
+          "right": 946,
+          "bottom": 1056
+        },
+        {
+          "text": "Egelsbach",
+          "left": 957,
+          "top": 1035,
+          "right": 1071,
+          "bottom": 1058
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 453,
+          "top": 1030,
+          "right": 454,
+          "bottom": 1036
+        },
+        {
+          "text": "L546",
+          "left": 470,
+          "top": 1032,
+          "right": 530,
+          "bottom": 1050
+        },
+        {
+          "text": "+",
+          "left": 539,
+          "top": 1035,
+          "right": 551,
+          "bottom": 1047
+        },
+        {
+          "text": "2",
+          "left": 560,
+          "top": 1032,
+          "right": 572,
+          "bottom": 1050
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "L546",
+          "left": 470,
+          "top": 1032,
+          "right": 530,
+          "bottom": 1050
+        },
+        {
+          "text": "+",
+          "left": 539,
+          "top": 1035,
+          "right": 551,
+          "bottom": 1047
+        },
+        {
+          "text": "2",
+          "left": 560,
+          "top": 1032,
+          "right": 572,
+          "bottom": 1050
+        },
+        {
+          "text": "AT",
+          "left": 581,
+          "top": 1032,
+          "right": 612,
+          "bottom": 1051
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "+",
+          "left": 539,
+          "top": 1035,
+          "right": 551,
+          "bottom": 1047
+        },
+        {
+          "text": "2",
+          "left": 560,
+          "top": 1032,
+          "right": 572,
+          "bottom": 1050
+        },
+        {
+          "text": "AT",
+          "left": 581,
+          "top": 1032,
+          "right": 612,
+          "bottom": 1051
+        },
+        {
+          "text": "von",
+          "left": 620,
+          "top": 1038,
+          "right": 658,
+          "bottom": 1051
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "2",
+          "left": 560,
+          "top": 1032,
+          "right": 572,
+          "bottom": 1050
+        },
+        {
+          "text": "AT",
+          "left": 581,
+          "top": 1032,
+          "right": 612,
+          "bottom": 1051
+        },
+        {
+          "text": "von",
+          "left": 620,
+          "top": 1038,
+          "right": 658,
+          "bottom": 1051
+        },
+        {
+          "text": "LMP,LU",
+          "left": 668,
+          "top": 1033,
+          "right": 755,
+          "bottom": 1054
+        }
+      ],
+      "parses": {
+        "date": "10-02-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "AT",
+          "left": 581,
+          "top": 1032,
+          "right": 612,
+          "bottom": 1051
+        },
+        {
+          "text": "von",
+          "left": 620,
+          "top": 1038,
+          "right": 658,
+          "bottom": 1051
+        },
+        {
+          "text": "LMP,LU",
+          "left": 668,
+          "top": 1033,
+          "right": 755,
+          "bottom": 1054
+        },
+        {
+          "text": "nach",
+          "left": 765,
+          "top": 1034,
+          "right": 816,
+          "bottom": 1062
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "von",
+          "left": 620,
+          "top": 1038,
+          "right": 658,
+          "bottom": 1051
+        },
+        {
+          "text": "LMP,LU",
+          "left": 668,
+          "top": 1033,
+          "right": 755,
+          "bottom": 1054
+        },
+        {
+          "text": "nach",
+          "left": 765,
+          "top": 1034,
+          "right": 816,
+          "bottom": 1062
+        },
+        {
+          "text": "Fa.",
+          "left": 827,
+          "top": 1034,
+          "right": 859,
+          "bottom": 1052
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "LMP,LU",
+          "left": 668,
+          "top": 1033,
+          "right": 755,
+          "bottom": 1054
+        },
+        {
+          "text": "nach",
+          "left": 765,
+          "top": 1034,
+          "right": 816,
+          "bottom": 1062
+        },
+        {
+          "text": "Fa.",
+          "left": 827,
+          "top": 1034,
+          "right": 859,
+          "bottom": 1052
+        },
+        {
+          "text": "Herbst,",
+          "left": 870,
+          "top": 1034,
+          "right": 946,
+          "bottom": 1056
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "nach",
+          "left": 765,
+          "top": 1034,
+          "right": 816,
+          "bottom": 1062
+        },
+        {
+          "text": "Fa.",
+          "left": 827,
+          "top": 1034,
+          "right": 859,
+          "bottom": 1052
+        },
+        {
+          "text": "Herbst,",
+          "left": 870,
+          "top": 1034,
+          "right": 946,
+          "bottom": 1056
+        },
+        {
+          "text": "Egelsbach",
+          "left": 957,
+          "top": 1035,
+          "right": 1071,
+          "bottom": 1058
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 151,
+          "top": 1064,
+          "right": 152,
+          "bottom": 1091
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Gesamt",
+          "left": 169,
+          "top": 1070,
+          "right": 255,
+          "bottom": 1089
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Netto",
+          "left": 265,
+          "top": 1070,
+          "right": 323,
+          "bottom": 1089
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 151,
+          "top": 1064,
+          "right": 152,
+          "bottom": 1091
+        },
+        {
+          "text": "Gesamt",
+          "left": 169,
+          "top": 1070,
+          "right": 255,
+          "bottom": 1089
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Gesamt",
+          "left": 169,
+          "top": 1070,
+          "right": 255,
+          "bottom": 1089
+        },
+        {
+          "text": "Netto",
+          "left": 265,
+          "top": 1070,
+          "right": 323,
+          "bottom": 1089
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 151,
+          "top": 1064,
+          "right": 152,
+          "bottom": 1091
+        },
+        {
+          "text": "Gesamt",
+          "left": 169,
+          "top": 1070,
+          "right": 255,
+          "bottom": 1089
+        },
+        {
+          "text": "Netto",
+          "left": 265,
+          "top": 1070,
+          "right": 323,
+          "bottom": 1089
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "350,00",
+          "left": 1449,
+          "top": 1078,
+          "right": 1524,
+          "bottom": 1100
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 151,
+          "top": 1103,
+          "right": 152,
+          "bottom": 1136
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "zzgl.",
+          "left": 167,
+          "top": 1109,
+          "right": 216,
+          "bottom": 1133
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "19,00",
+          "left": 228,
+          "top": 1110,
+          "right": 288,
+          "bottom": 1131
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "%",
+          "left": 298,
+          "top": 1109,
+          "right": 317,
+          "bottom": 1128
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "USt.",
+          "left": 328,
+          "top": 1110,
+          "right": 373,
+          "bottom": 1129
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "auf",
+          "left": 383,
+          "top": 1110,
+          "right": 418,
+          "bottom": 1129
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 151,
+          "top": 1103,
+          "right": 152,
+          "bottom": 1136
+        },
+        {
+          "text": "zzgl.",
+          "left": 167,
+          "top": 1109,
+          "right": 216,
+          "bottom": 1133
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "zzgl.",
+          "left": 167,
+          "top": 1109,
+          "right": 216,
+          "bottom": 1133
+        },
+        {
+          "text": "19,00",
+          "left": 228,
+          "top": 1110,
+          "right": 288,
+          "bottom": 1131
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "19,00",
+          "left": 228,
+          "top": 1110,
+          "right": 288,
+          "bottom": 1131
+        },
+        {
+          "text": "%",
+          "left": 298,
+          "top": 1109,
+          "right": 317,
+          "bottom": 1128
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "%",
+          "left": 298,
+          "top": 1109,
+          "right": 317,
+          "bottom": 1128
+        },
+        {
+          "text": "USt.",
+          "left": 328,
+          "top": 1110,
+          "right": 373,
+          "bottom": 1129
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "USt.",
+          "left": 328,
+          "top": 1110,
+          "right": 373,
+          "bottom": 1129
+        },
+        {
+          "text": "auf",
+          "left": 383,
+          "top": 1110,
+          "right": 418,
+          "bottom": 1129
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 151,
+          "top": 1103,
+          "right": 152,
+          "bottom": 1136
+        },
+        {
+          "text": "zzgl.",
+          "left": 167,
+          "top": 1109,
+          "right": 216,
+          "bottom": 1133
+        },
+        {
+          "text": "19,00",
+          "left": 228,
+          "top": 1110,
+          "right": 288,
+          "bottom": 1131
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "zzgl.",
+          "left": 167,
+          "top": 1109,
+          "right": 216,
+          "bottom": 1133
+        },
+        {
+          "text": "19,00",
+          "left": 228,
+          "top": 1110,
+          "right": 288,
+          "bottom": 1131
+        },
+        {
+          "text": "%",
+          "left": 298,
+          "top": 1109,
+          "right": 317,
+          "bottom": 1128
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "19,00",
+          "left": 228,
+          "top": 1110,
+          "right": 288,
+          "bottom": 1131
+        },
+        {
+          "text": "%",
+          "left": 298,
+          "top": 1109,
+          "right": 317,
+          "bottom": 1128
+        },
+        {
+          "text": "USt.",
+          "left": 328,
+          "top": 1110,
+          "right": 373,
+          "bottom": 1129
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "%",
+          "left": 298,
+          "top": 1109,
+          "right": 317,
+          "bottom": 1128
+        },
+        {
+          "text": "USt.",
+          "left": 328,
+          "top": 1110,
+          "right": 373,
+          "bottom": 1129
+        },
+        {
+          "text": "auf",
+          "left": 383,
+          "top": 1110,
+          "right": 418,
+          "bottom": 1129
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 151,
+          "top": 1103,
+          "right": 152,
+          "bottom": 1136
+        },
+        {
+          "text": "zzgl.",
+          "left": 167,
+          "top": 1109,
+          "right": 216,
+          "bottom": 1133
+        },
+        {
+          "text": "19,00",
+          "left": 228,
+          "top": 1110,
+          "right": 288,
+          "bottom": 1131
+        },
+        {
+          "text": "%",
+          "left": 298,
+          "top": 1109,
+          "right": 317,
+          "bottom": 1128
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "zzgl.",
+          "left": 167,
+          "top": 1109,
+          "right": 216,
+          "bottom": 1133
+        },
+        {
+          "text": "19,00",
+          "left": 228,
+          "top": 1110,
+          "right": 288,
+          "bottom": 1131
+        },
+        {
+          "text": "%",
+          "left": 298,
+          "top": 1109,
+          "right": 317,
+          "bottom": 1128
+        },
+        {
+          "text": "USt.",
+          "left": 328,
+          "top": 1110,
+          "right": 373,
+          "bottom": 1129
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "19,00",
+          "left": 228,
+          "top": 1110,
+          "right": 288,
+          "bottom": 1131
+        },
+        {
+          "text": "%",
+          "left": 298,
+          "top": 1109,
+          "right": 317,
+          "bottom": 1128
+        },
+        {
+          "text": "USt.",
+          "left": 328,
+          "top": 1110,
+          "right": 373,
+          "bottom": 1129
+        },
+        {
+          "text": "auf",
+          "left": 383,
+          "top": 1110,
+          "right": 418,
+          "bottom": 1129
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "350,00",
+          "left": 1212,
+          "top": 1112,
+          "right": 1286,
+          "bottom": 1144
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "66,50",
+          "left": 1462,
+          "top": 1114,
+          "right": 1523,
+          "bottom": 1146
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Gesamtbetrag",
+          "left": 167,
+          "top": 1176,
+          "right": 335,
+          "bottom": 1208
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "416,50",
+          "left": 1447,
+          "top": 1188,
+          "right": 1522,
+          "bottom": 1210
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "|",
+          "left": 1531,
+          "top": 1175,
+          "right": 1533,
+          "bottom": 1177
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "416,50",
+          "left": 1447,
+          "top": 1188,
+          "right": 1522,
+          "bottom": 1210
+        },
+        {
+          "text": "|",
+          "left": 1531,
+          "top": 1175,
+          "right": 1533,
+          "bottom": 1177
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Zahlbar",
+          "left": 151,
+          "top": 1241,
+          "right": 236,
+          "bottom": 1259
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "bis",
+          "left": 245,
+          "top": 1241,
+          "right": 274,
+          "bottom": 1259
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "30.03.2020",
+          "left": 284,
+          "top": 1242,
+          "right": 408,
+          "bottom": 1260
+        }
+      ],
+      "parses": {
+        "date": "03-30-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "ohne",
+          "left": 418,
+          "top": 1242,
+          "right": 471,
+          "bottom": 1261
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Abzug.",
+          "left": 479,
+          "top": 1243,
+          "right": 554,
+          "bottom": 1266
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Zahlbar",
+          "left": 151,
+          "top": 1241,
+          "right": 236,
+          "bottom": 1259
+        },
+        {
+          "text": "bis",
+          "left": 245,
+          "top": 1241,
+          "right": 274,
+          "bottom": 1259
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "bis",
+          "left": 245,
+          "top": 1241,
+          "right": 274,
+          "bottom": 1259
+        },
+        {
+          "text": "30.03.2020",
+          "left": 284,
+          "top": 1242,
+          "right": 408,
+          "bottom": 1260
+        }
+      ],
+      "parses": {
+        "date": "03-30-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "30.03.2020",
+          "left": 284,
+          "top": 1242,
+          "right": 408,
+          "bottom": 1260
+        },
+        {
+          "text": "ohne",
+          "left": 418,
+          "top": 1242,
+          "right": 471,
+          "bottom": 1261
+        }
+      ],
+      "parses": {
+        "date": "03-30-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "ohne",
+          "left": 418,
+          "top": 1242,
+          "right": 471,
+          "bottom": 1261
+        },
+        {
+          "text": "Abzug.",
+          "left": 479,
+          "top": 1243,
+          "right": 554,
+          "bottom": 1266
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Zahlbar",
+          "left": 151,
+          "top": 1241,
+          "right": 236,
+          "bottom": 1259
+        },
+        {
+          "text": "bis",
+          "left": 245,
+          "top": 1241,
+          "right": 274,
+          "bottom": 1259
+        },
+        {
+          "text": "30.03.2020",
+          "left": 284,
+          "top": 1242,
+          "right": 408,
+          "bottom": 1260
+        }
+      ],
+      "parses": {
+        "date": "03-30-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "bis",
+          "left": 245,
+          "top": 1241,
+          "right": 274,
+          "bottom": 1259
+        },
+        {
+          "text": "30.03.2020",
+          "left": 284,
+          "top": 1242,
+          "right": 408,
+          "bottom": 1260
+        },
+        {
+          "text": "ohne",
+          "left": 418,
+          "top": 1242,
+          "right": 471,
+          "bottom": 1261
+        }
+      ],
+      "parses": {
+        "date": "03-30-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "30.03.2020",
+          "left": 284,
+          "top": 1242,
+          "right": 408,
+          "bottom": 1260
+        },
+        {
+          "text": "ohne",
+          "left": 418,
+          "top": 1242,
+          "right": 471,
+          "bottom": 1261
+        },
+        {
+          "text": "Abzug.",
+          "left": 479,
+          "top": 1243,
+          "right": 554,
+          "bottom": 1266
+        }
+      ],
+      "parses": {
+        "date": "03-30-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Zahlbar",
+          "left": 151,
+          "top": 1241,
+          "right": 236,
+          "bottom": 1259
+        },
+        {
+          "text": "bis",
+          "left": 245,
+          "top": 1241,
+          "right": 274,
+          "bottom": 1259
+        },
+        {
+          "text": "30.03.2020",
+          "left": 284,
+          "top": 1242,
+          "right": 408,
+          "bottom": 1260
+        },
+        {
+          "text": "ohne",
+          "left": 418,
+          "top": 1242,
+          "right": 471,
+          "bottom": 1261
+        }
+      ],
+      "parses": {
+        "date": "03-30-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "bis",
+          "left": 245,
+          "top": 1241,
+          "right": 274,
+          "bottom": 1259
+        },
+        {
+          "text": "30.03.2020",
+          "left": 284,
+          "top": 1242,
+          "right": 408,
+          "bottom": 1260
+        },
+        {
+          "text": "ohne",
+          "left": 418,
+          "top": 1242,
+          "right": 471,
+          "bottom": 1261
+        },
+        {
+          "text": "Abzug.",
+          "left": 479,
+          "top": 1243,
+          "right": 554,
+          "bottom": 1266
+        }
+      ],
+      "parses": {
+        "date": "03-30-2020"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "Vielen",
+          "left": 150,
+          "top": 1324,
+          "right": 218,
+          "bottom": 1342
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Dank",
+          "left": 229,
+          "top": 1324,
+          "right": 285,
+          "bottom": 1342
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "fur",
+          "left": 294,
+          "top": 1324,
+          "right": 323,
+          "bottom": 1342
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Ihren",
+          "left": 333,
+          "top": 1324,
+          "right": 386,
+          "bottom": 1343
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Auftrag.",
+          "left": 395,
+          "top": 1325,
+          "right": 479,
+          "bottom": 1348
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Vielen",
+          "left": 150,
+          "top": 1324,
+          "right": 218,
+          "bottom": 1342
+        },
+        {
+          "text": "Dank",
+          "left": 229,
+          "top": 1324,
+          "right": 285,
+          "bottom": 1342
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Dank",
+          "left": 229,
+          "top": 1324,
+          "right": 285,
+          "bottom": 1342
+        },
+        {
+          "text": "fur",
+          "left": 294,
+          "top": 1324,
+          "right": 323,
+          "bottom": 1342
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "fur",
+          "left": 294,
+          "top": 1324,
+          "right": 323,
+          "bottom": 1342
+        },
+        {
+          "text": "Ihren",
+          "left": 333,
+          "top": 1324,
+          "right": 386,
+          "bottom": 1343
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Ihren",
+          "left": 333,
+          "top": 1324,
+          "right": 386,
+          "bottom": 1343
+        },
+        {
+          "text": "Auftrag.",
+          "left": 395,
+          "top": 1325,
+          "right": 479,
+          "bottom": 1348
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Vielen",
+          "left": 150,
+          "top": 1324,
+          "right": 218,
+          "bottom": 1342
+        },
+        {
+          "text": "Dank",
+          "left": 229,
+          "top": 1324,
+          "right": 285,
+          "bottom": 1342
+        },
+        {
+          "text": "fur",
+          "left": 294,
+          "top": 1324,
+          "right": 323,
+          "bottom": 1342
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Dank",
+          "left": 229,
+          "top": 1324,
+          "right": 285,
+          "bottom": 1342
+        },
+        {
+          "text": "fur",
+          "left": 294,
+          "top": 1324,
+          "right": 323,
+          "bottom": 1342
+        },
+        {
+          "text": "Ihren",
+          "left": 333,
+          "top": 1324,
+          "right": 386,
+          "bottom": 1343
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "fur",
+          "left": 294,
+          "top": 1324,
+          "right": 323,
+          "bottom": 1342
+        },
+        {
+          "text": "Ihren",
+          "left": 333,
+          "top": 1324,
+          "right": 386,
+          "bottom": 1343
+        },
+        {
+          "text": "Auftrag.",
+          "left": 395,
+          "top": 1325,
+          "right": 479,
+          "bottom": 1348
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Vielen",
+          "left": 150,
+          "top": 1324,
+          "right": 218,
+          "bottom": 1342
+        },
+        {
+          "text": "Dank",
+          "left": 229,
+          "top": 1324,
+          "right": 285,
+          "bottom": 1342
+        },
+        {
+          "text": "fur",
+          "left": 294,
+          "top": 1324,
+          "right": 323,
+          "bottom": 1342
+        },
+        {
+          "text": "Ihren",
+          "left": 333,
+          "top": 1324,
+          "right": 386,
+          "bottom": 1343
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Dank",
+          "left": 229,
+          "top": 1324,
+          "right": 285,
+          "bottom": 1342
+        },
+        {
+          "text": "fur",
+          "left": 294,
+          "top": 1324,
+          "right": 323,
+          "bottom": 1342
+        },
+        {
+          "text": "Ihren",
+          "left": 333,
+          "top": 1324,
+          "right": 386,
+          "bottom": 1343
+        },
+        {
+          "text": "Auftrag.",
+          "left": 395,
+          "top": 1325,
+          "right": 479,
+          "bottom": 1348
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": " ",
+          "left": 1195,
+          "top": 1580,
+          "right": 1400,
+          "bottom": 1697
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Bankverbindung:",
+          "left": 129,
+          "top": 2190,
+          "right": 355,
+          "bottom": 2219
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Volksbank",
+          "left": 127,
+          "top": 2231,
+          "right": 268,
+          "bottom": 2254
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Worms",
+          "left": 277,
+          "top": 2231,
+          "right": 373,
+          "bottom": 2254
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Wonnegau",
+          "left": 383,
+          "top": 2232,
+          "right": 527,
+          "bottom": 2260
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "eG",
+          "left": 539,
+          "top": 2232,
+          "right": 577,
+          "bottom": 2254
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "-",
+          "left": 589,
+          "top": 2242,
+          "right": 593,
+          "bottom": 2245
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "IBAN:",
+          "left": 607,
+          "top": 2232,
+          "right": 681,
+          "bottom": 2254
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "DE14",
+          "left": 694,
+          "top": 2232,
+          "right": 767,
+          "bottom": 2255
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "5509",
+          "left": 778,
+          "top": 2233,
+          "right": 843,
+          "bottom": 2255
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1200",
+          "left": 856,
+          "top": 2233,
+          "right": 919,
+          "bottom": 2256
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "0077",
+          "left": 930,
+          "top": 2233,
+          "right": 995,
+          "bottom": 2256
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1241",
+          "left": 1008,
+          "top": 2234,
+          "right": 1068,
+          "bottom": 2256
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "01",
+          "left": 1083,
+          "top": 2234,
+          "right": 1111,
+          "bottom": 2256
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "-",
+          "left": 1128,
+          "top": 2244,
+          "right": 1131,
+          "bottom": 2247
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "BIC:",
+          "left": 1144,
+          "top": 2234,
+          "right": 1199,
+          "bottom": 2256
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "GENODE61AZY",
+          "left": 1211,
+          "top": 2234,
+          "right": 1435,
+          "bottom": 2257
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Volksbank",
+          "left": 127,
+          "top": 2231,
+          "right": 268,
+          "bottom": 2254
+        },
+        {
+          "text": "Worms",
+          "left": 277,
+          "top": 2231,
+          "right": 373,
+          "bottom": 2254
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Worms",
+          "left": 277,
+          "top": 2231,
+          "right": 373,
+          "bottom": 2254
+        },
+        {
+          "text": "Wonnegau",
+          "left": 383,
+          "top": 2232,
+          "right": 527,
+          "bottom": 2260
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Wonnegau",
+          "left": 383,
+          "top": 2232,
+          "right": 527,
+          "bottom": 2260
+        },
+        {
+          "text": "eG",
+          "left": 539,
+          "top": 2232,
+          "right": 577,
+          "bottom": 2254
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "eG",
+          "left": 539,
+          "top": 2232,
+          "right": 577,
+          "bottom": 2254
+        },
+        {
+          "text": "-",
+          "left": 589,
+          "top": 2242,
+          "right": 593,
+          "bottom": 2245
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "-",
+          "left": 589,
+          "top": 2242,
+          "right": 593,
+          "bottom": 2245
+        },
+        {
+          "text": "IBAN:",
+          "left": 607,
+          "top": 2232,
+          "right": 681,
+          "bottom": 2254
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "IBAN:",
+          "left": 607,
+          "top": 2232,
+          "right": 681,
+          "bottom": 2254
+        },
+        {
+          "text": "DE14",
+          "left": 694,
+          "top": 2232,
+          "right": 767,
+          "bottom": 2255
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "DE14",
+          "left": 694,
+          "top": 2232,
+          "right": 767,
+          "bottom": 2255
+        },
+        {
+          "text": "5509",
+          "left": 778,
+          "top": 2233,
+          "right": 843,
+          "bottom": 2255
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "5509",
+          "left": 778,
+          "top": 2233,
+          "right": 843,
+          "bottom": 2255
+        },
+        {
+          "text": "1200",
+          "left": 856,
+          "top": 2233,
+          "right": 919,
+          "bottom": 2256
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1200",
+          "left": 856,
+          "top": 2233,
+          "right": 919,
+          "bottom": 2256
+        },
+        {
+          "text": "0077",
+          "left": 930,
+          "top": 2233,
+          "right": 995,
+          "bottom": 2256
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "0077",
+          "left": 930,
+          "top": 2233,
+          "right": 995,
+          "bottom": 2256
+        },
+        {
+          "text": "1241",
+          "left": 1008,
+          "top": 2234,
+          "right": 1068,
+          "bottom": 2256
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1241",
+          "left": 1008,
+          "top": 2234,
+          "right": 1068,
+          "bottom": 2256
+        },
+        {
+          "text": "01",
+          "left": 1083,
+          "top": 2234,
+          "right": 1111,
+          "bottom": 2256
+        }
+      ],
+      "parses": {
+        "date": "01-03-1241"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "01",
+          "left": 1083,
+          "top": 2234,
+          "right": 1111,
+          "bottom": 2256
+        },
+        {
+          "text": "-",
+          "left": 1128,
+          "top": 2244,
+          "right": 1131,
+          "bottom": 2247
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "-",
+          "left": 1128,
+          "top": 2244,
+          "right": 1131,
+          "bottom": 2247
+        },
+        {
+          "text": "BIC:",
+          "left": 1144,
+          "top": 2234,
+          "right": 1199,
+          "bottom": 2256
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "BIC:",
+          "left": 1144,
+          "top": 2234,
+          "right": 1199,
+          "bottom": 2256
+        },
+        {
+          "text": "GENODE61AZY",
+          "left": 1211,
+          "top": 2234,
+          "right": 1435,
+          "bottom": 2257
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Volksbank",
+          "left": 127,
+          "top": 2231,
+          "right": 268,
+          "bottom": 2254
+        },
+        {
+          "text": "Worms",
+          "left": 277,
+          "top": 2231,
+          "right": 373,
+          "bottom": 2254
+        },
+        {
+          "text": "Wonnegau",
+          "left": 383,
+          "top": 2232,
+          "right": 527,
+          "bottom": 2260
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Worms",
+          "left": 277,
+          "top": 2231,
+          "right": 373,
+          "bottom": 2254
+        },
+        {
+          "text": "Wonnegau",
+          "left": 383,
+          "top": 2232,
+          "right": 527,
+          "bottom": 2260
+        },
+        {
+          "text": "eG",
+          "left": 539,
+          "top": 2232,
+          "right": 577,
+          "bottom": 2254
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Wonnegau",
+          "left": 383,
+          "top": 2232,
+          "right": 527,
+          "bottom": 2260
+        },
+        {
+          "text": "eG",
+          "left": 539,
+          "top": 2232,
+          "right": 577,
+          "bottom": 2254
+        },
+        {
+          "text": "-",
+          "left": 589,
+          "top": 2242,
+          "right": 593,
+          "bottom": 2245
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "eG",
+          "left": 539,
+          "top": 2232,
+          "right": 577,
+          "bottom": 2254
+        },
+        {
+          "text": "-",
+          "left": 589,
+          "top": 2242,
+          "right": 593,
+          "bottom": 2245
+        },
+        {
+          "text": "IBAN:",
+          "left": 607,
+          "top": 2232,
+          "right": 681,
+          "bottom": 2254
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "-",
+          "left": 589,
+          "top": 2242,
+          "right": 593,
+          "bottom": 2245
+        },
+        {
+          "text": "IBAN:",
+          "left": 607,
+          "top": 2232,
+          "right": 681,
+          "bottom": 2254
+        },
+        {
+          "text": "DE14",
+          "left": 694,
+          "top": 2232,
+          "right": 767,
+          "bottom": 2255
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "IBAN:",
+          "left": 607,
+          "top": 2232,
+          "right": 681,
+          "bottom": 2254
+        },
+        {
+          "text": "DE14",
+          "left": 694,
+          "top": 2232,
+          "right": 767,
+          "bottom": 2255
+        },
+        {
+          "text": "5509",
+          "left": 778,
+          "top": 2233,
+          "right": 843,
+          "bottom": 2255
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "DE14",
+          "left": 694,
+          "top": 2232,
+          "right": 767,
+          "bottom": 2255
+        },
+        {
+          "text": "5509",
+          "left": 778,
+          "top": 2233,
+          "right": 843,
+          "bottom": 2255
+        },
+        {
+          "text": "1200",
+          "left": 856,
+          "top": 2233,
+          "right": 919,
+          "bottom": 2256
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "5509",
+          "left": 778,
+          "top": 2233,
+          "right": 843,
+          "bottom": 2255
+        },
+        {
+          "text": "1200",
+          "left": 856,
+          "top": 2233,
+          "right": 919,
+          "bottom": 2256
+        },
+        {
+          "text": "0077",
+          "left": 930,
+          "top": 2233,
+          "right": 995,
+          "bottom": 2256
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1200",
+          "left": 856,
+          "top": 2233,
+          "right": 919,
+          "bottom": 2256
+        },
+        {
+          "text": "0077",
+          "left": 930,
+          "top": 2233,
+          "right": 995,
+          "bottom": 2256
+        },
+        {
+          "text": "1241",
+          "left": 1008,
+          "top": 2234,
+          "right": 1068,
+          "bottom": 2256
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "0077",
+          "left": 930,
+          "top": 2233,
+          "right": 995,
+          "bottom": 2256
+        },
+        {
+          "text": "1241",
+          "left": 1008,
+          "top": 2234,
+          "right": 1068,
+          "bottom": 2256
+        },
+        {
+          "text": "01",
+          "left": 1083,
+          "top": 2234,
+          "right": 1111,
+          "bottom": 2256
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1241",
+          "left": 1008,
+          "top": 2234,
+          "right": 1068,
+          "bottom": 2256
+        },
+        {
+          "text": "01",
+          "left": 1083,
+          "top": 2234,
+          "right": 1111,
+          "bottom": 2256
+        },
+        {
+          "text": "-",
+          "left": 1128,
+          "top": 2244,
+          "right": 1131,
+          "bottom": 2247
+        }
+      ],
+      "parses": {
+        "date": "01-03-1241"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "01",
+          "left": 1083,
+          "top": 2234,
+          "right": 1111,
+          "bottom": 2256
+        },
+        {
+          "text": "-",
+          "left": 1128,
+          "top": 2244,
+          "right": 1131,
+          "bottom": 2247
+        },
+        {
+          "text": "BIC:",
+          "left": 1144,
+          "top": 2234,
+          "right": 1199,
+          "bottom": 2256
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "-",
+          "left": 1128,
+          "top": 2244,
+          "right": 1131,
+          "bottom": 2247
+        },
+        {
+          "text": "BIC:",
+          "left": 1144,
+          "top": 2234,
+          "right": 1199,
+          "bottom": 2256
+        },
+        {
+          "text": "GENODE61AZY",
+          "left": 1211,
+          "top": 2234,
+          "right": 1435,
+          "bottom": 2257
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Volksbank",
+          "left": 127,
+          "top": 2231,
+          "right": 268,
+          "bottom": 2254
+        },
+        {
+          "text": "Worms",
+          "left": 277,
+          "top": 2231,
+          "right": 373,
+          "bottom": 2254
+        },
+        {
+          "text": "Wonnegau",
+          "left": 383,
+          "top": 2232,
+          "right": 527,
+          "bottom": 2260
+        },
+        {
+          "text": "eG",
+          "left": 539,
+          "top": 2232,
+          "right": 577,
+          "bottom": 2254
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Worms",
+          "left": 277,
+          "top": 2231,
+          "right": 373,
+          "bottom": 2254
+        },
+        {
+          "text": "Wonnegau",
+          "left": 383,
+          "top": 2232,
+          "right": 527,
+          "bottom": 2260
+        },
+        {
+          "text": "eG",
+          "left": 539,
+          "top": 2232,
+          "right": 577,
+          "bottom": 2254
+        },
+        {
+          "text": "-",
+          "left": 589,
+          "top": 2242,
+          "right": 593,
+          "bottom": 2245
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "Wonnegau",
+          "left": 383,
+          "top": 2232,
+          "right": 527,
+          "bottom": 2260
+        },
+        {
+          "text": "eG",
+          "left": 539,
+          "top": 2232,
+          "right": 577,
+          "bottom": 2254
+        },
+        {
+          "text": "-",
+          "left": 589,
+          "top": 2242,
+          "right": 593,
+          "bottom": 2245
+        },
+        {
+          "text": "IBAN:",
+          "left": 607,
+          "top": 2232,
+          "right": 681,
+          "bottom": 2254
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "eG",
+          "left": 539,
+          "top": 2232,
+          "right": 577,
+          "bottom": 2254
+        },
+        {
+          "text": "-",
+          "left": 589,
+          "top": 2242,
+          "right": 593,
+          "bottom": 2245
+        },
+        {
+          "text": "IBAN:",
+          "left": 607,
+          "top": 2232,
+          "right": 681,
+          "bottom": 2254
+        },
+        {
+          "text": "DE14",
+          "left": 694,
+          "top": 2232,
+          "right": 767,
+          "bottom": 2255
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "-",
+          "left": 589,
+          "top": 2242,
+          "right": 593,
+          "bottom": 2245
+        },
+        {
+          "text": "IBAN:",
+          "left": 607,
+          "top": 2232,
+          "right": 681,
+          "bottom": 2254
+        },
+        {
+          "text": "DE14",
+          "left": 694,
+          "top": 2232,
+          "right": 767,
+          "bottom": 2255
+        },
+        {
+          "text": "5509",
+          "left": 778,
+          "top": 2233,
+          "right": 843,
+          "bottom": 2255
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "IBAN:",
+          "left": 607,
+          "top": 2232,
+          "right": 681,
+          "bottom": 2254
+        },
+        {
+          "text": "DE14",
+          "left": 694,
+          "top": 2232,
+          "right": 767,
+          "bottom": 2255
+        },
+        {
+          "text": "5509",
+          "left": 778,
+          "top": 2233,
+          "right": 843,
+          "bottom": 2255
+        },
+        {
+          "text": "1200",
+          "left": 856,
+          "top": 2233,
+          "right": 919,
+          "bottom": 2256
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "DE14",
+          "left": 694,
+          "top": 2232,
+          "right": 767,
+          "bottom": 2255
+        },
+        {
+          "text": "5509",
+          "left": 778,
+          "top": 2233,
+          "right": 843,
+          "bottom": 2255
+        },
+        {
+          "text": "1200",
+          "left": 856,
+          "top": 2233,
+          "right": 919,
+          "bottom": 2256
+        },
+        {
+          "text": "0077",
+          "left": 930,
+          "top": 2233,
+          "right": 995,
+          "bottom": 2256
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "5509",
+          "left": 778,
+          "top": 2233,
+          "right": 843,
+          "bottom": 2255
+        },
+        {
+          "text": "1200",
+          "left": 856,
+          "top": 2233,
+          "right": 919,
+          "bottom": 2256
+        },
+        {
+          "text": "0077",
+          "left": 930,
+          "top": 2233,
+          "right": 995,
+          "bottom": 2256
+        },
+        {
+          "text": "1241",
+          "left": 1008,
+          "top": 2234,
+          "right": 1068,
+          "bottom": 2256
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1200",
+          "left": 856,
+          "top": 2233,
+          "right": 919,
+          "bottom": 2256
+        },
+        {
+          "text": "0077",
+          "left": 930,
+          "top": 2233,
+          "right": 995,
+          "bottom": 2256
+        },
+        {
+          "text": "1241",
+          "left": 1008,
+          "top": 2234,
+          "right": 1068,
+          "bottom": 2256
+        },
+        {
+          "text": "01",
+          "left": 1083,
+          "top": 2234,
+          "right": 1111,
+          "bottom": 2256
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "0077",
+          "left": 930,
+          "top": 2233,
+          "right": 995,
+          "bottom": 2256
+        },
+        {
+          "text": "1241",
+          "left": 1008,
+          "top": 2234,
+          "right": 1068,
+          "bottom": 2256
+        },
+        {
+          "text": "01",
+          "left": 1083,
+          "top": 2234,
+          "right": 1111,
+          "bottom": 2256
+        },
+        {
+          "text": "-",
+          "left": 1128,
+          "top": 2244,
+          "right": 1131,
+          "bottom": 2247
+        }
+      ],
+      "parses": {}
+    },
+    {
+      "words": [
+        {
+          "text": "1241",
+          "left": 1008,
+          "top": 2234,
+          "right": 1068,
+          "bottom": 2256
+        },
+        {
+          "text": "01",
+          "left": 1083,
+          "top": 2234,
+          "right": 1111,
+          "bottom": 2256
+        },
+        {
+          "text": "-",
+          "left": 1128,
+          "top": 2244,
+          "right": 1131,
+          "bottom": 2247
+        },
+        {
+          "text": "BIC:",
+          "left": 1144,
+          "top": 2234,
+          "right": 1199,
+          "bottom": 2256
+        }
+      ],
+      "parses": {
+        "date": "01-03-1241"
+      }
+    },
+    {
+      "words": [
+        {
+          "text": "01",
+          "left": 1083,
+          "top": 2234,
+          "right": 1111,
+          "bottom": 2256
+        },
+        {
+          "text": "-",
+          "left": 1128,
+          "top": 2244,
+          "right": 1131,
+          "bottom": 2247
+        },
+        {
+          "text": "BIC:",
+          "left": 1144,
+          "top": 2234,
+          "right": 1199,
+          "bottom": 2256
+        },
+        {
+          "text": "GENODE61AZY",
+          "left": 1211,
+          "top": 2234,
+          "right": 1435,
+          "bottom": 2257
+        }
+      ],
+      "parses": {}
+    }
+  ],
+  "height": 2339,
+  "width": 1653,
+  "filename": "/Users/daniel/dev/InvoiceNet/processed_data/train/BSP 10.png"
+}
