@@ -229,16 +229,23 @@
             // send: function (e, data) {}, // .bind('fileuploadsend', func);
 
             // Callback for successful uploads:
-            // done: function (e, data) {}, // .bind('fileuploaddone', func);
+            done: function (e, data) {
+                alert('wow');
+                console.log('wow');
+            }, // .bind('fileuploaddone', func);
 
             // Callback for failed (abort or error) uploads:
-            // fail: function (e, data) {}, // .bind('fileuploadfail', func);
+            fail: function (e, data) {
+                alert('test');
+            }, // .bind('fileuploadfail', func);
 
             // Callback for completed (success, abort or error) requests:
             // always: function (e, data) {}, // .bind('fileuploadalways', func);
 
             // Callback for upload progress events:
-            // progress: function (e, data) {}, // .bind('fileuploadprogress', func);
+            progress: function (e, data) {
+                alert('test');
+            }, // .bind('fileuploadprogress', func);
 
             // Callback for global upload progress events:
             // progressall: function (e, data) {}, // .bind('fileuploadprogressall', func);

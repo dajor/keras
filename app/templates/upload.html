@@ -18,14 +18,87 @@
         <script src="{{ url_for('static', filename = 'js/jquery-file-upload/js/jquery.fileupload-validate.js') }}"></script>
         <script src="{{ url_for('static', filename = 'js/jquery-file-upload/js/jquery.fileupload-ui.js') }}"></script>
 
+<style>
+pre {
+    text-align: left;
+    white-space: pre-line;
+  }
+
+  .preview {
+        width: 320px;
+        height: auto;
+        border-top-left-radius: 4px;
+        border-bottom-left-radius: 4px;
+    }
+
+</style>
+
         <script>
+
+var Item = ({ data }) => `
+    <div class="col-sm-6 col-md-6 col-xs-6" style='width:80%; padding:25px;'>
+
+        <div class="thumbnail" style="border:none; background:white;">
+
+            <div class="col-sm-6 col-md-6 col-xs-12 image-container">
+                <div class="image">
+                    <img class='preview' src="/image/${data.filename != null ? data.filename : ''}">
+                </div>
+            </div>
+
+            <div class="col-sm-6 col-md-6 col-xs-12" >
+                <!-- Email address -->
+                <div class="md-form md-outline">
+                    <label for="vedor_name">Vendor name</label>
+                    <input type="text" id="vedor_name" class="form-control" readonly value="${data.vendor_name != null ? data.vendor_name : ''}">
+                </div>
+                <div class="md-form md-outline">
+                    <label for="invoice_number">Invoice number</label>
+                    <input type="text" id="invoice_number" class="form-control" readonly value="${data.invoice_number != null ? data.invoice_number : ''}">
+                </div>
+                <div class="md-form md-outline">
+                    <label for="invoice_date">Invoice data</label>
+                    <input type="text" id="invoice_date" class="form-control" readonly value="${data.invoice_date != null ? data.invoice_date : ''}">
+                </div>
+                <div class="md-form md-outline">
+                    <label for="tax_amount">Tax amount</label>
+                    <input type="text" id="tax_amount" class="form-control" readonly value="${data.tax_amount != null ? data.tax_amount : ''}">
+                </div>
+                <div class="md-form md-outline">
+                    <label for="total_amount">Total amount</label>
+                    <input type="text" id="total_amount" class="form-control" readonly value="${data.total_amount != null ? data.total_amount : ''}">
+                </div>
+
+            </div>
+        </div>
+
+</div>
+`;
+
+
             $(function () {
                 {# Get your upload form by ID #}
                 $('#fileupload_form').fileupload({
                     url: "{{ url_for('main.upload_image') }}",
-                    downloadTemplateId: null {# if null by default search script with id='template-upload' #}
+                    downloadTemplateId: null
                 });
+
+                
+
             });
+
+            function populate_invoice_data(data) {
+                //$('#output').prepend()
+                //console.log(JSON.stringify(data.result.data));
+                var res=[];
+                res.push(data.result);
+                console.log(res)
+                $('#output').prepend(res.map(Item).join(''));
+                //alert(JSON.stringify(data));
+            }
+
+            
+
         </script>
         {# Javascript Template used by JQuery File Upload.#}
         <script id="template-upload" type="text/x-tmpl">
@@ -100,6 +173,8 @@
     <div class="box-body">
         <!-- The table listing the files available for upload -->
         <table role="presentation" class="table table-striped"><tbody class="files"></tbody></table>
+        <div id="output" class="box-body">
+        </div>
     </div>
 </form>
 {% endblock %}

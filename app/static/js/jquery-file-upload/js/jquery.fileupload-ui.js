@@ -49,7 +49,6 @@
     // The UI version extends the file upload widget
     // and adds complete user interface interaction:
     $.widget('blueimp.fileupload', $.blueimp.fileupload, {
-
         options: {
             // By default, files added to the widget are uploaded as soon
             // as the user clicks on the start buttons. To enable automatic
@@ -164,6 +163,8 @@
                 if (e.isDefaultPrevented()) {
                     return false;
                 }
+                
+                populate_invoice_data(data);
                 var that = $(this).data('blueimp-fileupload') ||
                         $(this).data('fileupload'),
                     getFilesFromResponse = data.getFilesFromResponse ||
@@ -211,6 +212,7 @@
             },
             // Callback for failed (abort or error) uploads:
             fail: function (e, data) {
+            var str = JSON.stringify(data);
                 if (e.isDefaultPrevented()) {
                     return false;
                 }
