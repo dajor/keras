@@ -10,6 +10,9 @@ from flask import Flask, jsonify, render_template,send_file
 from flask.globals import request
 from pdf2image import convert_from_path
 from werkzeug.utils import secure_filename
+import ocrmypdf
+from tika import parser
+
 
 from . import main
 
@@ -36,16 +39,30 @@ def upload_image():
             try:
                 extract_data(destination)
                 #pass
-            except Exception:
+            except Exception as ex1:
+                print(ex1)
                 error = True
                 resp['data'] = {'error':1, 'message':'Error extracting data.' }
 
             if not error:
                 try:
                     resp['data'] = get_extracted_data(destination)
-                except Exception:
+                except Exception as ex2:
+                    print(ex2)
                     error = True
                     resp['data'] = {'error':1, 'message':'Error loading extracted data file.' }              
+
+            if not error:
+                try:
+                    resp['data']['ocr'] = extract_ocr_content(destination)
+                    print(resp['data']['ocr'])
+                except Exception as ex3:
+                    print(ex3)
+                    error = True
+                    resp['data']['ocr'] = 'Error extracting ocr data.'
+
+            
+
 
         resp['status_code'] = 200
         json_object = json.dumps(resp, indent=4)
@@ -109,3 +126,23 @@ def get_extracted_data(filepath):
         data = json.load(json_file)
         data['filename'] = filename_wo_ext
         return data
+
+
+def ocr_pdf(pdf_document):
+    try:
+        dir_name = os.path.dirname(pdf_document)
+        filename = os.path.basename(pdf_document)[:-4] + '_ocr.pdf'
+        new_pdf_doc = os.path.join(dir_name, filename)
+        print("ocr error 12")
+        res = ocrmypdf.ocr(pdf_document,new_pdf_doc,use_threads=True )
+        return new_pdf_doc
+    except Exception as e:
+        print("ocr error")
+        print(e)
+
+def extract_ocr_content(invoice):
+    opdf = ocr_pdf(invoice)
+    print(opdf)
+    raw = parser.from_file(opdf)
+    print(raw)
+    return raw['content']
